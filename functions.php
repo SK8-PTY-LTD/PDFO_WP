@@ -12,3 +12,20 @@ function g5plus_child_theme_setup(){
     }
 }
 // if you want to add some custom function
+
+/*
+Fixes WP5.0 & WPBakery Page Builder loses Role Settings upon
+
+You can set the post type for which the editor should be
+available by adding the following code to functions.php:
+
+Author: Jacktator
+Plugin: WPBakery Page Builder 5.6
+Reference: https://stackoverflow.com/questions/49316654/wp-bakery-page-builder-loses-settings-in-role-manager?rq=1
+*/
+// add_action('vc_before_init', 'Use_wpBakery');
+// function Use_wpBakery() {
+// 	$vc_list = array('page', 'post');
+// 	vc_set_default_editor_post_types($vc_list);
+// 	vc_editor_set_post_types($vc_list);
+// }
