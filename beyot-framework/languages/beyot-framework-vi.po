@@ -1,0 +1,6283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: beyot-framework\n"
+"POT-Creation-Date: 2017-09-20 15:32+0700\n"
+"PO-Revision-Date: 2017-09-22 10:29+0700\n"
+"Last-Translator: \n"
+"Language-Team: G5Theme <g5plus@outlook.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;"
+"_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/dashboard/class-gf-dashboard.php:73 core/dashboard/templates/dashboard.php:13
+#, php-format
+msgid "%s Dashboard"
+msgstr "%s Bảng điều khiển"
+
+#: core/dashboard/class-gf-dashboard.php:150 core/dashboard/class-gf-dashboard.php:151
+#: core/dashboard/class-gf-dashboard.php:191 core/dashboard/class-gf-dashboard.php:192
+msgid "System Status"
+msgstr "Trạng thái hệ thống"
+
+#: core/dashboard/class-gf-dashboard.php:156 core/dashboard/class-gf-dashboard.php:157
+#: core/dashboard/class-gf-dashboard.php:197 core/dashboard/class-gf-dashboard.php:198
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: core/dashboard/class-gf-dashboard.php:162 core/dashboard/class-gf-dashboard.php:163
+#: core/dashboard/class-gf-dashboard.php:203 core/dashboard/class-gf-dashboard.php:204
+#: core/install-demo/install-demo.php:28 core/install-demo/install-demo.php:29
+msgid "Install Demo"
+msgstr "Cài đặt nội dung mẫu"
+
+#: core/dashboard/class-gf-dashboard.php:168 core/dashboard/class-gf-dashboard.php:169
+#: core/dashboard/class-gf-dashboard.php:209 core/dashboard/class-gf-dashboard.php:210 inc/options-config.php:27
+#: inc/options-config.php:28
+msgid "Theme Options"
+msgstr "Cấu hình website"
+
+#: core/dashboard/class-gf-dashboard.php:174 core/dashboard/class-gf-dashboard.php:175
+#: core/dashboard/class-gf-dashboard.php:221 core/dashboard/class-gf-dashboard.php:222
+msgid "Preset Options"
+msgstr "Thiết lập cài đặt sẵn"
+
+#: core/dashboard/class-gf-dashboard.php:180 core/dashboard/class-gf-dashboard.php:181
+#: core/dashboard/class-gf-dashboard.php:227 core/dashboard/class-gf-dashboard.php:228 inc/options-config.php:1480
+#: inc/post-type.php:22 inc/post-type.php:23
+msgid "Custom Footer"
+msgstr "Tùy chỉnh chân trang"
+
+#: core/dashboard/class-gf-dashboard.php:215 core/dashboard/class-gf-dashboard.php:216
+msgid "Real Estate Options"
+msgstr ""
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:91
+msgid "Support forum"
+msgstr "Diễn đàn hỗ trợ"
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:92
+#, php-format
+msgid ""
+"We offer outstanding support through our forum. To get support first you need to register (create an account) and "
+"open a thread in the %1$s Section."
+msgstr ""
+"Chúng tôi cung cấp hỗ trợ xuất sắc thông qua diễn đàn của chúng tôi. Để được hỗ trợ trước tiên bạn cần phải đăng "
+"ký (tạo một tài khoản) và mở một chủ đề trong phần %1$s."
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:93
+msgid "Open Forum"
+msgstr "Mở diễn đàn"
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:98 core/dashboard/inc/class-gf-dashboard-support.php:100
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:99
+#, php-format
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our online documentation is an incredible "
+"resource for learning the ins and outs of using %1$s."
+msgstr ""
+"Đây là nơi để tham khảo các khía cạnh khác nhau của các chủ đề. Tài liệu trực tuyến của chúng tôi là một nguồn lực "
+"đáng kinh ngạc cho việc học tập các đầu vào và đầu ra của việc sử dụng %1$s."
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:105
+msgid "Knowledge Base"
+msgstr "Kiến thức cơ bản"
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:106
+msgid ""
+"Our knowledge base contains additional content that is not inside of our documentation. This information is more "
+"specific and unique to various versions or aspects of theme."
+msgstr ""
+"Kiến thức cơ bản của chúng tôi chứa nội dung bổ sung mà không phải là bên trong tài liệu của chúng tôi. Thông tin "
+"này là đơn cho các phiên bản khác nhau hoặc các khía cạnh của chủ đề."
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:107
+msgid "Knowledgebase"
+msgstr "Kiến thức cơ bản"
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:112
+msgid "Video Tutorials"
+msgstr "Video hướng dẫn"
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:113
+#, php-format
+msgid ""
+"Nothing is better than watching a video to learn. We have a growing library of high-definititon, narrated video "
+"tutorials to help teach you the different aspects of using %1$s."
+msgstr ""
+"Không có gì là tốt hơn so với xem video để tìm hiểu. Chúng tôi có một thư viện ngày càng tăng được kể đến là video "
+"hướng dẫn để giúp dạy cho bạn những khía cạnh khác nhau của việc sử dụng %1$s."
+
+#: core/dashboard/inc/class-gf-dashboard-support.php:114
+msgid "Watch Videos"
+msgstr "Xem video"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:60
+#, php-format
+msgid "%s Versions"
+msgstr "Phiên bản %s"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:63
+msgid "Current Version"
+msgstr "Phiên bản hiện tại"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:68
+msgid "Update History"
+msgstr "Lịch sử cập nhật"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:70
+#, php-format
+msgid "<a target=\"_blank\" href=\"%1$s\">View changelog details</a>"
+msgstr "<a target=\"_blank\" href=\"%1$s\">Xem thay đổi chi tiết</a>"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:75
+msgid "WordPress Environment"
+msgstr "Môi trường WordPress"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:78
+msgid "Home URL"
+msgstr "URL Trang chủ"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:79
+msgid "The URL of your site's homepage."
+msgstr "URL trang chủ trang web của bạn."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:83
+msgid "Site URL"
+msgstr "URL trang web"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:84
+msgid "The root URL of your site."
+msgstr "URL gốc của trang web."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:88
+msgid "WP Version"
+msgstr "Phiên bản WP"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:89
+msgid "The version of WordPress installed on your site."
+msgstr "Phiên bản WordPress đã cài đặt trên trang của bạn."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:93
+msgid "WP Multisite"
+msgstr "Chế độ đa site"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:94
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Bạn có cho phép WordPress Multisite hay không."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:95
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:105
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:146 inc/meta-boxes.php:624 inc/options-config.php:1530
+msgid "Enable"
+msgstr "Cho phép"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:95
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:105
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:146 inc/meta-boxes.php:405 inc/meta-boxes.php:625
+#: inc/options-config.php:1531
+msgid "Disable"
+msgstr "Vô hiệu hoá"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:98
+msgid "WP Memory Limit"
+msgstr "Giới hạn Bộ nhớ WP"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:99
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "Bộ nhớ tối đa (RAM) mà trang web của bạn có thể sử dụng tại một thời điểm."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:103
+msgid "WP Debug Mode"
+msgstr "Chế độ Sửa lỗi WP"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:104
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Hiển thị WordPress đang trong Chế độ Sửa lỗi hay không."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:108
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:109
+msgid "The current language used by WordPress. Default = English"
+msgstr "Ngôn ngữ hiện tại được sử dụng trong WordPress. Mặc định = Tiếng Anh"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:116
+msgid "Server Environment"
+msgstr "Môi trường Máy chủ"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:119
+msgid "Server Info"
+msgstr "Thông tin máy chủ"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:120
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Thông tin về máy chủ hiện đang lưu trữ trang web của bạn."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:124
+msgid "PHP Version"
+msgstr "Phiên bản PHP"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:125
+msgid "The version of PHP installed on your hosting server."
+msgstr "Phiên bản PHP đã cài đặt trên máy chủ hosting của bạn."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:129
+msgid "Post Max Size"
+msgstr "Kích cỡ tối đa của một tập tin PHP"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:130
+msgid "The largest file size that can be contained in one post."
+msgstr "Lưu lượng tập tin lớn nhất có thể chứa trong một lần tải lên."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:134
+msgid "Max Execution Time"
+msgstr "Thời gian thực hiện tối đa"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:135
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server "
+"lockups)"
+msgstr ""
+"Khoảng thời gian (tính bằng giây) mà trang web của bạn sẽ hoạt động và chờ trước khi hết hạn (để tránh bị khóa máy "
+"chủ)"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:139
+msgid "Max Input Vars"
+msgstr "Số biến thể tối đa"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:140
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr "Số lượng các biến thể tối đa mà máy chủ của bạn có thể sử dụng cho một chức năng đơn lẻ để tránh quá tải."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:144
+msgid "ZipArchive"
+msgstr "Lưu Trữ định dạng Zip"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:145
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and export zip files specifically for sliders."
+msgstr ""
+"Lưu trữ định dạng Zip được yêu cầu để nhập khẩu các bản demo. Chúng được sử dụng để nhập khẩu và xuất khẩu các tập "
+"tin zip đặc biệt cho các thanh trượt."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:149
+msgid "MySQL Version"
+msgstr "Phiên bản MySQL"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:150
+msgid "The version of MySQL installed on your hosting server."
+msgstr "Phiên bản MySQL đã cài đặt trên máy chủ hosting của bạn."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:154
+msgid "Max Upload Size"
+msgstr "Kích thước tối đa cho phép tải lên"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:155
+msgid "The largest file size that can be uploaded to your WordPress installation."
+msgstr "Lưu lượng tập tin lớn nhất có thể tải lên cài đặt WordPress của bạn."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:170
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least <strong>128MB</strong>.<br /> Please define memory limit in "
+"<strong>wp-config.php</strong> file.<br /> To learn how, see: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Increasing memory allocated to PHP.</a>"
+msgstr ""
+"%s - 128MB. Xem: <a href=\"%s\"> </a>\n"
+"%1$s - Chúng tôi khuyên bạn nên thiết lập bộ nhớ ít nhất <strong>128MB</strong>.<br /> Hãy thiết lập bộ nhớ trong "
+"tập tin<strong>wp-config.php</strong><br />\n"
+"Để tìm hiểu làm thế nào, xem: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">Tăng bộ nhớ phân bổ "
+"cho PHP .</a>"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:204
+#, php-format
+msgid "%s - We recommend a minimum PHP version of 5.6. See: %s"
+msgstr "%s - Chúng tôi đề nghị một phiên bản PHP tối thiểu là 5.6. Nhìn %s"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:204
+msgid "How to update your PHP version"
+msgstr "Làm thế nào để cập nhật phiên bản PHP của bạn"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:221
+#, php-format
+msgid "%1$s - We recommend setting post max size to at least <strong>64MB</strong>."
+msgstr "%1$s - chúng tôi đề nghị bạn nên thiết lập bài viết tối đa với kích thước tối thiểu <strong>64 MB</strong>."
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:239
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 300.<br />See: <a href=\"%2$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+"%1$s - chúng tôi đề nghị bạn nên thiết lập tối đa thời gian thực hiện tối thiểu là 300.<br>Xem: <a href=\"%2$s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">tăng tối đa thời gian thực hiện PHP</a>"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:256
+#, php-format
+msgid ""
+"%1$s - We recommend setting max input var to at least 3000.<br /> Max input vars limitation will truncate POST "
+"data such as menus See: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">Increasing max input vars "
+"limit.</a>"
+msgstr ""
+"%1$s - chúng tôi đề nghị bạn nên thiết lập tối đa nhập ít nhất 3000 biến thể.<br>Biến thể đầu vào bị giới hạn sẽ "
+"cắt bỏ bớt dữ liệu chẳng hạn như trình đơn xem: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">tăng tối đa nhập vars hạn.</a>"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:288
+msgid "Visit plugin homepage"
+msgstr "Đi đến trang chủ plugin"
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:301
+msgid "by "
+msgstr "bởi  "
+
+#: core/dashboard/inc/class-gf-dashboard-system-status.php:313
+#, php-format
+msgid "Active Plugins (%1$s)"
+msgstr "Kích hoạt Plugins (%1$s)"
+
+#: core/dashboard/templates/dashboard.php:15
+msgid "Welcome to"
+msgstr "Chào mừng đến với"
+
+#: core/dashboard/templates/dashboard.php:18
+#, php-format
+msgid ""
+"%s is now installed and ready to use! Get ready to build something beautiful. Read below for additional "
+"information. We hope you enjoy it!"
+msgstr ""
+"%s hiện đang được cài đặt và sẵn sàng để sử dụng! Chuẩn bị sẵn sàng để xây dựng một cái gì đó đẹp. Đọc dưới đây để "
+"biết thêm thông tin. Chúng tôi hy vọng bạn sẽ thích nó!"
+
+#: core/dashboard/templates/support.php:12
+msgid "Out standing 5 star support"
+msgstr "Đánh giá hỗ trợ của chúng tôi đạt 5 sao"
+
+#: core/dashboard/templates/support.php:13
+msgid ""
+"We care our product because know it needs support it's the reason why our customers are top priority and we do all "
+"presure to fix all issues. Our team is working hardly to help every customer, fix issues, keep documentation up to "
+"date, create new demos and develop new tools to make it more easily and powerful."
+msgstr ""
+"Chúng tôi chăm sóc sản phẩm vì biết nó cần sự hỗ trợ. Đó là lý do tại sao khách hàng của chúng tôi luôn là ưu tiên "
+"hàng đầu và chúng tôi không ngại khó khăn để sửa chữa tất cả các vấn đề. Nhóm của chúng tôi nỗ lực làm việc để "
+"giúp mỗi khách hàng, khắc phục sự cố, giữ tài liệu đến ngày tạo ra các bản demo mới và phát triển các công cụ mới "
+"để làm cho nó dễ dàng và mạnh mẽ hơn."
+
+#: core/dashboard/templates/system-status.php:14 core/dashboard/templates/system-status.php:19
+msgid "Get System Report"
+msgstr "Nhận báo cáo hệ thống"
+
+#: core/dashboard/templates/system-status.php:20
+msgid "Click the button to produce a report, then copy and paste into your support ticket."
+msgstr "Nhấp vào nút để tạo ra một báo cáo, sau đó sao chép và dán vào vé hỗ trợ của bạn."
+
+#: core/dashboard/templates/system-status.php:24
+msgid "Copy for Support"
+msgstr "Sao chép cho Hỗ trợ"
+
+#: core/dashboard/templates/welcome.php:11
+#, php-format
+msgid "Welcome to %s"
+msgstr "Chào mừng bạn đến %s"
+
+#: core/install-demo/install-demo.php:56
+msgid "Permission error!"
+msgstr "Lỗi quyền!"
+
+#: core/install-demo/install-demo.php:106
+msgid ""
+"The Auto importing script could not be loaded. please use the wordpress importer and import the XML file that is "
+"located in your themes folder manually."
+msgstr ""
+"Tự động nhập khẩu script không thể tải. Xin vui lòng sử dụng wordpress nhà nhập khẩu và nhập khẩu tập tin XML nằm "
+"trong thư mục chủ đề của bạn theo cách thủ công."
+
+#: core/install-demo/install-demo.php:134 core/install-demo/install-demo.php:177
+#: core/install-demo/install-demo.php:234 core/install-demo/install-demo.php:294
+msgid ""
+"File not found! Please check file exists in directory:\n"
+"[your-theme]/assets/data-demo/"
+msgstr "Không tìm thấy tệp! Vui lòng kiểm tra sự tồn tại của tệp trong thư mục: [your-theme] / assets / data-demo /"
+
+#: core/install-demo/install-demo.php:335
+msgid "Import Error"
+msgstr "Lỗi Nhập khẩu"
+
+#: core/install-demo/parsers.php:43 core/install-demo/parsers.php:80 core/install-demo/parsers.php:88
+msgid "There was an error when reading this WXR file"
+msgstr "Có lỗi khi đọc tập tin WXR này"
+
+#: core/install-demo/parsers.php:44
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Các chi tiết được trình bày ở trên. Nhà nhập khẩu bây giờ sẽ thử lại với một bộ phân tích cú pháp khác..."
+
+#: core/install-demo/parsers.php:92 core/install-demo/parsers.php:97 core/install-demo/parsers.php:290
+#: core/install-demo/parsers.php:477
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Điều này không xuất hiện như một tập tin WXR, phiên bản WXR thiếu hoặc không hợp lệ"
+
+#: core/install-demo/template/install-demo-page.php:4
+msgid "Main"
+msgstr "Chính"
+
+#: core/install-demo/template/install-demo-page.php:9
+msgid "Single Property Langding"
+msgstr "Giới thiệu chi tiết BĐS"
+
+#: core/install-demo/template/install-demo-page.php:14
+msgid "Single Agent Demo"
+msgstr "Demo chi tiết nhà môi giới"
+
+#: core/install-demo/template/install-demo-page.php:19
+msgid "IDXpress"
+msgstr ""
+
+#: core/install-demo/template/install-demo-page.php:24
+msgid "iHomeFinder"
+msgstr ""
+
+#: core/install-demo/template/install-demo-page.php:39
+msgid "G5PLUS - Install Demo Data"
+msgstr "G5PLUS - Cài đặt dữ liệu mẫu"
+
+#: core/install-demo/template/install-demo-page.php:40
+msgid "Please choose demo to install (take about 3-35 mins)"
+msgstr "Vui lòng chọn demo để cài đặt (mất khoảng 3-35 phút)"
+
+#: core/install-demo/template/install-demo-page.php:42
+msgid ""
+"<strong>1. Main demo and Single Agent Demo:</strong> Please active all plugin require (not idxpress, ihomefinder)"
+msgstr ""
+"<strong>1. Demo chính và demo người môi giới đơn :</strong> Vui lòng kích hoạt tất cả plugin yêu cầu ( Plugin "
+"idxpress, ihomefinder là không cần thiết)"
+
+#: core/install-demo/template/install-demo-page.php:43
+msgid ""
+"<strong>2. Single Property Landing demo:</strong> Please active all plugin require (not Essential Real Estate "
+"plugin, idxpress, ihomefinder)"
+msgstr ""
+"<strong>2. Mẫu trang BĐS đơn:</strong> Vui lòng kích hoạt tất cả plugin yêu cầu (plugin Essential Real Estate , "
+"idxpress, ihomefinder là không cần thiết)"
+
+#: core/install-demo/template/install-demo-page.php:44
+msgid ""
+"<strong>3. IDXpress demo:</strong> Please active all plugin require (not Essential Real Estate plugin) and active "
+"IDXpress plugin"
+msgstr ""
+"<strong>3. Mẫu IDXpress :</strong> Vui lòng kích hoạt tất cả plugin yêu cầu (Plugin Essential Real Estate là không "
+"cần thiết) và kích hoạt plugin IDXpress"
+
+#: core/install-demo/template/install-demo-page.php:45
+msgid ""
+"<strong>4. iHomeFinder demo:</strong> Please active all plugin require (not Essential Real Estate plugin) and "
+"active ihomefinder plugin"
+msgstr ""
+"<strong>4. Mẫu iHomeFinder :</strong> Vui lòng kích hoạt tất cả plugin yêu cầu (Plugin Essential Real Estate là "
+"không cần thiết) và kích hoạt plugin ihomefinder"
+
+#: core/install-demo/template/install-demo-page.php:47
+msgid "Install Done"
+msgstr "Cài đặt xong"
+
+#: core/install-demo/template/install-demo-page.php:59
+msgid "Preview"
+msgstr "Xem trước"
+
+#: core/install-demo/template/install-demo-page.php:67
+msgid "Fix Demo Data"
+msgstr "Sửa chữa dữ liệu Demo"
+
+#: core/install-demo/template/install-demo-page.php:69
+msgid "Install"
+msgstr "Cài đặt"
+
+#: core/install-demo/template/install-demo-page.php:70
+msgid "Only Setting"
+msgstr "Chỉ thiết lập"
+
+#: core/install-demo/wordpress-importer.php:223 core/install-demo/wordpress-importer.php:232
+#: core/install-demo/wordpress-importer.php:283 core/install-demo/wordpress-importer.php:287
+#: core/install-demo/wordpress-importer.php:296
+msgid "Sorry, there has been an error."
+msgstr "Rất tiếc, hiện đã có một lỗi."
+
+#: core/install-demo/wordpress-importer.php:224
+msgid "The file does not exist, please try again."
+msgstr "Tập tin không tồn tại, xin vui lòng thử lại."
+
+#: core/install-demo/wordpress-importer.php:267
+msgid "All done."
+msgstr "Tất cả hoàn thành."
+
+#: core/install-demo/wordpress-importer.php:267
+msgid "Have fun!"
+msgstr "Chúc vui vẻ!"
+
+#: core/install-demo/wordpress-importer.php:268
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Hãy nhớ để cập nhật mật khẩu và vai trò của người sử dụng nhập khẩu."
+
+#: core/install-demo/wordpress-importer.php:288
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+"Xuất dữ liệu tập tin không thể tìm thấy tại <code>%s</code>. Có khả năng liên quan đến vấn đề quyền người dung."
+
+#: core/install-demo/wordpress-importer.php:304
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Tập tin WXR này (phiên bản %s) có thể không được hỗ trợ bởi phiên bản này. Hãy xem xét cập nhật."
+
+#: core/install-demo/wordpress-importer.php:353
+msgid "Assign Authors"
+msgstr "Chỉ định tác giả"
+
+#: core/install-demo/wordpress-importer.php:354
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want to reassign the author of the "
+"imported item to an existing user of this site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+"Để làm cho nó dễ dàng hơn cho bạn chỉnh sửa và lưu các nội dung đã nhập dữ liệu, bạn có thể muốn gán tác giả để "
+"một người dùng hiện có trên trang web này. Ví dụ, bạn có thể muốn nhập dữ liệu tất cả các mục như <code> admin </"
+"code>."
+
+#: core/install-demo/wordpress-importer.php:356
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role "
+"will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+"Nếu một người dùng mới được tạo ra bởi WordPress, một mật khẩu mới sẽ được tạo ra một cách ngẫu nhiên và vai trò "
+"của người dùng mới&#8217 sẽ được thiết lập như là %s. Thay đổi lại thông tin người sử dụng mới&#8217 là cần thiết."
+
+#: core/install-demo/wordpress-importer.php:366
+msgid "Import Attachments"
+msgstr "Nhập tập tin đính kèm"
+
+#: core/install-demo/wordpress-importer.php:369
+msgid "Download and import file attachments"
+msgstr "Tải về và nhập vào tập tin đính kèm"
+
+#: core/install-demo/wordpress-importer.php:373
+msgid "Submit"
+msgstr "Gửi bình luận"
+
+#: core/install-demo/wordpress-importer.php:386
+msgid "Import author:"
+msgstr "Nhập dữ liệu tác giả:"
+
+#: core/install-demo/wordpress-importer.php:397
+msgid "or create new user with login name:"
+msgstr "hoặc tạo người dùng mới với tên đăng nhập:"
+
+#: core/install-demo/wordpress-importer.php:400
+msgid "as a new user:"
+msgstr "như một người dùng mới:"
+
+#: core/install-demo/wordpress-importer.php:408
+msgid "assign posts to an existing user:"
+msgstr "gán bài viết cho người dùng đang tồn tại:"
+
+#: core/install-demo/wordpress-importer.php:410
+msgid "or assign posts to an existing user:"
+msgstr "hoặc chỉ định bài viết cho người dùng đang tồn tại:"
+
+#: core/install-demo/wordpress-importer.php:411
+msgid "- Select -"
+msgstr "- Chọn -"
+
+#: core/install-demo/wordpress-importer.php:893
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Mục thực đơn bị bỏ qua vì thiếu tên chính"
+
+#: core/install-demo/wordpress-importer.php:992
+msgid "Fetching attachments is not enabled"
+msgstr "Tìm nạp tập tin đính kèm chưa được bật"
+
+#: core/install-demo/wordpress-importer.php:1005
+msgid "Invalid file type"
+msgstr "Kiểu file không hợp lệ"
+
+#: core/install-demo/wordpress-importer.php:1061
+msgid "Remote server did not respond"
+msgstr "Máy chủ từ xa đã không có phản hồi"
+
+#: core/install-demo/wordpress-importer.php:1067
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Máy chủ từ xa xảy ra lỗi khi phản hồi  %1$d %2$s"
+
+#: core/install-demo/wordpress-importer.php:1079
+msgid "Remote file is incorrect size"
+msgstr "Tập tin có kích thước không chính xác"
+
+#: core/install-demo/wordpress-importer.php:1085
+msgid "Zero size file downloaded"
+msgstr "Kích thước tập tin tải xuống có kích thước bằng không"
+
+#: core/install-demo/wordpress-importer.php:1091
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Tập tin quá lớn, giới hạn là %s"
+
+#: core/install-demo/wordpress-importer.php:1189
+msgid "Import WordPress"
+msgstr "Nhập khẩu WordPress"
+
+#: core/install-demo/wordpress-importer.php:1208
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom "
+"fields, categories, and tags into this site."
+msgstr ""
+"Tải lên tập tin WordPress eXtended RSS (WXR)  và chúng tôi&#8217 sẽ nhập dữ liệu bài viết, trang , bình luận, "
+"trường tùy chỉnh, danh mục, thẻ tag cho trang này."
+
+#: core/install-demo/wordpress-importer.php:1209
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Chọn tập tin WXR (.xml) để tải lện, sau đó nhấp vào Tải lên tập tin và nhập dữ liệu."
+
+#: core/install-demo/wordpress-importer.php:1282
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+"Nhập <strong> bài viết, các trang, các ý kiến, các trường tùy biến, chủng loại, và các thẻ </strong> từ một tập "
+"tin xuất WordPress."
+
+#: core/widget-areas/views/widget-area-box.php:15 core/widget-areas/views/widget-area-box.php:23
+msgid "Create Widget Area"
+msgstr "Tạo khu vực Widget"
+
+#: core/widget-areas/views/widget-area-box.php:20 shortcodes/agent-info/config.php:17
+#: shortcodes/pricing/config.php:27
+msgid "Name"
+msgstr "Tên"
+
+#: core/widget-areas/widget-areas.php:36
+msgid "Are you sure to delete this widget areas?"
+msgstr "Bạn có chắc chắn để xóa các khu vực phụ tùng này?"
+
+#: core/widget-custom-class.php:9
+msgid "CSS Class"
+msgstr "Lớp CSS"
+
+#: core/xmenu/inc/global.php:4 core/xmenu/inc/global.php:395 inc/meta-boxes.php:542 inc/meta-boxes.php:657
+#: inc/meta-boxes.php:755 inc/meta-boxes.php:847 inc/meta-boxes.php:1398 inc/meta-boxes.php:1502
+#: inc/options-config.php:280 inc/options-config.php:1112 inc/options-config.php:1223 inc/options-config.php:1717
+#: inc/options-config.php:1806 inc/options-functions.php:521
+msgid "None"
+msgstr "Không"
+
+#: core/xmenu/inc/global.php:5 inc/options-config.php:281
+msgid "Slide Up"
+msgstr "Trượt lên"
+
+#: core/xmenu/inc/global.php:6 inc/options-config.php:282
+msgid "Slide Down"
+msgstr "Trượt xuống"
+
+#: core/xmenu/inc/global.php:7 inc/options-config.php:283
+msgid "Slide Left"
+msgstr "Trượt sang trái"
+
+#: core/xmenu/inc/global.php:8 inc/options-config.php:284
+msgid "Slide Right"
+msgstr "Trượt sang phải"
+
+#: core/xmenu/inc/global.php:9 inc/options-config.php:285
+msgid "Sign Flip"
+msgstr "Lật xuống"
+
+#: core/xmenu/inc/global.php:16
+msgid "Basic"
+msgstr "Cơ bản"
+
+#: core/xmenu/inc/global.php:18 core/xmenu/inc/global.php:363
+msgid "Automatic"
+msgstr "Tự động"
+
+#: core/xmenu/inc/global.php:19 inc/meta-boxes.php:428 inc/meta-boxes.php:1200 inc/options-config.php:974
+#: inc/options-config.php:1517 inc/options-functions.php:16
+msgid "Full Width"
+msgstr "Rộng toàn màn hình"
+
+#: core/xmenu/inc/global.php:23
+msgid "Halves"
+msgstr "Một nửa"
+
+#: core/xmenu/inc/global.php:25
+msgid "1/2"
+msgstr "1/2"
+
+#: core/xmenu/inc/global.php:29
+msgid "Thirds"
+msgstr "Thứ ba"
+
+#: core/xmenu/inc/global.php:31
+msgid "1/3"
+msgstr "1/3"
+
+#: core/xmenu/inc/global.php:32
+msgid "2/3"
+msgstr "2/3"
+
+#: core/xmenu/inc/global.php:36
+msgid "Quarters"
+msgstr "Quý"
+
+#: core/xmenu/inc/global.php:38
+msgid "1/4"
+msgstr "1/4"
+
+#: core/xmenu/inc/global.php:39
+msgid "3/4"
+msgstr "3/4"
+
+#: core/xmenu/inc/global.php:43
+msgid "Fifths"
+msgstr "Thứ năm"
+
+#: core/xmenu/inc/global.php:45
+msgid "1/5"
+msgstr "1/5"
+
+#: core/xmenu/inc/global.php:46
+msgid "2/5"
+msgstr "2/5"
+
+#: core/xmenu/inc/global.php:47
+msgid "3/5"
+msgstr "3/5"
+
+#: core/xmenu/inc/global.php:48
+msgid "4/5"
+msgstr "4/5"
+
+#: core/xmenu/inc/global.php:52
+msgid "Sixths"
+msgstr "Thứ sáu"
+
+#: core/xmenu/inc/global.php:54
+msgid "1/6"
+msgstr "1/6"
+
+#: core/xmenu/inc/global.php:55
+msgid "5/6"
+msgstr "5/6"
+
+#: core/xmenu/inc/global.php:59
+msgid "Sevenths"
+msgstr "Thứ bảy"
+
+#: core/xmenu/inc/global.php:61
+msgid "1/7"
+msgstr "1/7"
+
+#: core/xmenu/inc/global.php:62
+msgid "2/7"
+msgstr "2/7"
+
+#: core/xmenu/inc/global.php:63
+msgid "3/7"
+msgstr "3/7"
+
+#: core/xmenu/inc/global.php:64
+msgid "4/7"
+msgstr "4/7"
+
+#: core/xmenu/inc/global.php:65
+msgid "5/7"
+msgstr "5/7"
+
+#: core/xmenu/inc/global.php:66
+msgid "6/7"
+msgstr "6/7"
+
+#: core/xmenu/inc/global.php:70
+msgid "Eighths"
+msgstr "Thứ tám mươi"
+
+#: core/xmenu/inc/global.php:72
+msgid "1/8"
+msgstr "1/8"
+
+#: core/xmenu/inc/global.php:73
+msgid "3/8"
+msgstr "3/8"
+
+#: core/xmenu/inc/global.php:74
+msgid "5/8"
+msgstr "5/8"
+
+#: core/xmenu/inc/global.php:75
+msgid "7/8"
+msgstr "7/8"
+
+#: core/xmenu/inc/global.php:79
+msgid "Ninths"
+msgstr "Thứ chín"
+
+#: core/xmenu/inc/global.php:81
+msgid "1/9"
+msgstr "1/9"
+
+#: core/xmenu/inc/global.php:82
+msgid "2/9"
+msgstr "2/9"
+
+#: core/xmenu/inc/global.php:83
+msgid "4/9"
+msgstr "4/9"
+
+#: core/xmenu/inc/global.php:84
+msgid "5/9"
+msgstr "5/9"
+
+#: core/xmenu/inc/global.php:85
+msgid "7/9"
+msgstr "7/9"
+
+#: core/xmenu/inc/global.php:86
+msgid "8/9"
+msgstr "8/9"
+
+#: core/xmenu/inc/global.php:90
+msgid "Tenths"
+msgstr "Phần mười"
+
+#: core/xmenu/inc/global.php:92
+msgid "1/10"
+msgstr "1/10"
+
+#: core/xmenu/inc/global.php:93
+msgid "3/10"
+msgstr "3/10"
+
+#: core/xmenu/inc/global.php:94
+msgid "7/10"
+msgstr "7/10"
+
+#: core/xmenu/inc/global.php:95
+msgid "9/10"
+msgstr "9/10"
+
+#: core/xmenu/inc/global.php:99
+msgid "Elevenths"
+msgstr "Mười một"
+
+#: core/xmenu/inc/global.php:101
+msgid "1/11"
+msgstr "1/11"
+
+#: core/xmenu/inc/global.php:102
+msgid "2/11"
+msgstr "2/11"
+
+#: core/xmenu/inc/global.php:103
+msgid "3/11"
+msgstr "3/11"
+
+#: core/xmenu/inc/global.php:104
+msgid "4/11"
+msgstr "4/11"
+
+#: core/xmenu/inc/global.php:105
+msgid "5/11"
+msgstr "5/11"
+
+#: core/xmenu/inc/global.php:106
+msgid "6/11"
+msgstr "6/11"
+
+#: core/xmenu/inc/global.php:107
+msgid "7/11"
+msgstr "7/11"
+
+#: core/xmenu/inc/global.php:108
+msgid "8/11"
+msgstr "8/11"
+
+#: core/xmenu/inc/global.php:109
+msgid "9/11"
+msgstr "9/11"
+
+#: core/xmenu/inc/global.php:110
+msgid "10/11"
+msgstr "10/11"
+
+#: core/xmenu/inc/global.php:114
+msgid "Twelfths"
+msgstr "Mười hai"
+
+#: core/xmenu/inc/global.php:116
+msgid "1/12"
+msgstr "1/12"
+
+#: core/xmenu/inc/global.php:117
+msgid "5/12"
+msgstr "5/12"
+
+#: core/xmenu/inc/global.php:118
+msgid "7/12"
+msgstr "7/12"
+
+#: core/xmenu/inc/global.php:119
+msgid "11/12"
+msgstr "11/12"
+
+#: core/xmenu/inc/global.php:131 core/xmenu/inc/global.php:135 inc/meta-boxes.php:38 inc/meta-boxes.php:144
+#: inc/meta-boxes.php:395 inc/meta-boxes.php:1102 inc/meta-boxes.php:1543 inc/meta-boxes.php:1887
+#: inc/meta-boxes.php:2079 inc/options-config.php:132 inc/options-config.php:140 inc/options-config.php:504
+#: inc/options-config.php:636 inc/options-config.php:1502 inc/options-config.php:1835 inc/options-config.php:2277
+#: inc/options-config.php:2332
+msgid "General"
+msgstr "Cấu hình chung"
+
+#: core/xmenu/inc/global.php:139
+msgid "URL"
+msgstr "Liên kết"
+
+#: core/xmenu/inc/global.php:144
+msgid "Navigation Label"
+msgstr "Nhãn Danh mục"
+
+#: core/xmenu/inc/global.php:149
+msgid "Title Attribute"
+msgstr "Thuộc tính Tiêu đề"
+
+#: core/xmenu/inc/global.php:154
+msgid "Open link in a new window/tab"
+msgstr "Mở liên kết trong một cửa sổ / tab mới"
+
+#: core/xmenu/inc/global.php:160
+msgid "CSS Classes (optional)"
+msgstr "Lớp CSS (tùy chọn)"
+
+#: core/xmenu/inc/global.php:165
+msgid "Link Relationship (XFN)"
+msgstr "Mối quan hệ liên kết (XFN)"
+
+#: core/xmenu/inc/global.php:170 inc/options-config.php:459 shortcodes/google-map/config.php:50
+#: shortcodes/icon-box/config.php:34 shortcodes/process/config.php:27
+msgid "Description"
+msgstr "Mô tả"
+
+#: core/xmenu/inc/global.php:175
+msgid "Other"
+msgstr "Khác"
+
+#: core/xmenu/inc/global.php:179
+msgid "Disable Text"
+msgstr "Tắt văn bản"
+
+#: core/xmenu/inc/global.php:184
+msgid "Disable Menu Item"
+msgstr "Vô hiệu hóa mục trình đơn"
+
+#: core/xmenu/inc/global.php:189
+msgid "Disable Link"
+msgstr "Vô hiệu hoá liên kết"
+
+#: core/xmenu/inc/global.php:194
+msgid "Display as a Sub Menu column header"
+msgstr "Hiển thị dưới dạng tiêu đề cột Tiêu đề phụ"
+
+#: core/xmenu/inc/global.php:199 core/xmenu/inc/global.php:622
+msgid "Menu Feature Text"
+msgstr "Văn bản Tính năng Trình đơn"
+
+#: core/xmenu/inc/global.php:206 core/xmenu/inc/global.php:210 shortcodes/counter/config.php:21
+#: shortcodes/functions.php:289 shortcodes/functions.php:309
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: core/xmenu/inc/global.php:214 inc/smart-framework/fields/icon/icon.class.php:25
+msgid "Set Icon"
+msgstr "Cài biểu tượng"
+
+#: core/xmenu/inc/global.php:219
+msgid "Icon Position"
+msgstr "Vị trí của biêu tượng"
+
+#: core/xmenu/inc/global.php:223
+msgid "Left of Menu Text"
+msgstr "Văn bản bên trái của Menu"
+
+#: core/xmenu/inc/global.php:224
+msgid "Right of Menu Text"
+msgstr "Văn bản bên phải của Menu"
+
+#: core/xmenu/inc/global.php:228
+msgid "Padding Icon and Text Menu"
+msgstr "Khoảng cách Icon và Text Menu"
+
+#: core/xmenu/inc/global.php:231
+msgid "Padding between Icon and Text Menu (px). Do not include units"
+msgstr "Khoảng cách giữa Icon và Text Menu (px). Không bao gồm đơn vị"
+
+#: core/xmenu/inc/global.php:236 core/xmenu/inc/global.php:240 shortcodes/counter/config.php:22
+#: shortcodes/functions.php:290 widgets/includes/logo.php:18
+msgid "Image"
+msgstr "Hình Ảnh"
+
+#: core/xmenu/inc/global.php:244
+msgid "Image Url"
+msgstr "URL Hình Ảnh"
+
+#: core/xmenu/inc/global.php:249 inc/functions.php:816
+msgid "Image Size"
+msgstr "Cỡ ảnh"
+
+#: core/xmenu/inc/global.php:255
+msgid "Image Dimensions"
+msgstr "Kích thước Hình ảnh"
+
+#: core/xmenu/inc/global.php:264
+msgid "Image Width"
+msgstr "Chiều Rộng Ảnh"
+
+#: core/xmenu/inc/global.php:267 core/xmenu/inc/global.php:273
+msgid ""
+"Image width attribute (px). Do not include units. Only valid if \"Image Dimension\" is set to \"Custom\" above"
+msgstr ""
+"Thuộc tính chiều rộng hình ảnh (px). Không bao gồm các đơn vị. Chỉ hợp lệ nếu \"Kích thước Hình ảnh\" được đặt "
+"thành \"Tuỳ ​​chỉnh\" ở trên"
+
+#: core/xmenu/inc/global.php:270
+msgid "Image Height"
+msgstr "Chiều cao hình ảnh"
+
+#: core/xmenu/inc/global.php:276
+msgid "Image Layout"
+msgstr "Giao diện hình ảnh"
+
+#: core/xmenu/inc/global.php:280
+msgid "Image Only"
+msgstr "Chỉ hình ảnh"
+
+#: core/xmenu/inc/global.php:281
+msgid "Image Left"
+msgstr "Hình ảnh bên trái"
+
+#: core/xmenu/inc/global.php:282
+msgid "Image Right"
+msgstr "Hình ảnh bên phải"
+
+#: core/xmenu/inc/global.php:283
+msgid "Image Above"
+msgstr "Hình ảnh phía trên"
+
+#: core/xmenu/inc/global.php:284
+msgid "Image Below"
+msgstr "Hình ảnh phía dưới"
+
+#: core/xmenu/inc/global.php:288
+msgid "Use Feature Image"
+msgstr "Sử dụng Tính năng Hình ảnh"
+
+#: core/xmenu/inc/global.php:297 core/xmenu/inc/global.php:301 inc/meta-boxes.php:54 inc/meta-boxes.php:1295
+#: inc/options-config.php:498 inc/options-config.php:1603 inc/options-config.php:2773 inc/options-config.php:2806
+#: shortcodes/blog/config.php:10
+msgid "Layout"
+msgstr "Giao diện"
+
+#: core/xmenu/inc/global.php:305
+msgid "Menu Item Width"
+msgstr "Chiều rộng Menu Item"
+
+#: core/xmenu/inc/global.php:311
+msgid "Item Content Alignment"
+msgstr "Điều chỉnh nội dung"
+
+#: core/xmenu/inc/global.php:315 inc/meta-boxes.php:1963 inc/meta-boxes.php:1974 inc/options-functions.php:50
+#: inc/options-functions.php:124 shortcodes/functions.php:402 shortcodes/functions.php:497
+#: shortcodes/functions.php:506 shortcodes/functions.php:515 shortcodes/functions.php:524
+#: shortcodes/gallery/config.php:17 widgets/includes/social-profile.php:40
+msgid "Default"
+msgstr "Mặc định"
+
+#: core/xmenu/inc/global.php:316
+msgid "Text Left"
+msgstr "Văn bản bên trái"
+
+#: core/xmenu/inc/global.php:317
+msgid "Text Center"
+msgstr "Văn bản Trung tâm"
+
+#: core/xmenu/inc/global.php:318
+msgid "Text Right"
+msgstr "Văn bản Bên phải"
+
+#: core/xmenu/inc/global.php:322 core/xmenu/inc/global.php:615 inc/meta-boxes.php:178 inc/options-config.php:2816
+#: inc/options-config.php:2904
+msgid "Padding"
+msgstr "Khoảng cách lề"
+
+#: core/xmenu/inc/global.php:325
+msgid "Set padding for menu item. Include the units."
+msgstr "Đặt padding cho mục menu. Bao gồm các đơn vị."
+
+#: core/xmenu/inc/global.php:328
+msgid "Margin"
+msgstr "Lề"
+
+#: core/xmenu/inc/global.php:331
+msgid "Set margin for menu item. Include the units."
+msgstr "Đặt lề cho mục trình đơn. Bao gồm các đơn vị."
+
+#: core/xmenu/inc/global.php:334
+msgid "New Row"
+msgstr "Hàng mới"
+
+#: core/xmenu/inc/global.php:341 core/xmenu/inc/global.php:345 core/xmenu/inc/global.php:538
+msgid "Sub Menu"
+msgstr "Menu con"
+
+#: core/xmenu/inc/global.php:349
+msgid "Sub Menu Type"
+msgstr "Loại Menu con"
+
+#: core/xmenu/inc/global.php:353 core/xmenu/inc/global.php:630 inc/options-config.php:210
+msgid "Standard"
+msgstr "Tiêu chuẩn"
+
+#: core/xmenu/inc/global.php:354
+msgid "Multi Column"
+msgstr "Nhiều cột"
+
+#: core/xmenu/inc/global.php:355
+msgid "Tab"
+msgstr ""
+
+#: core/xmenu/inc/global.php:359
+msgid "Sub Menu Position"
+msgstr "Vị trí Menu con"
+
+#: core/xmenu/inc/global.php:364
+msgid "Left of Menu Parent"
+msgstr "Bên trái của Menu cha mẹ"
+
+#: core/xmenu/inc/global.php:365
+msgid "Right of Menu Parent"
+msgstr "Bên phải của Menu cha mẹ"
+
+#: core/xmenu/inc/global.php:366
+msgid "Center of Menu Parent"
+msgstr "Trung tâm của Menu cha mẹ"
+
+#: core/xmenu/inc/global.php:367
+msgid "Left of Menu Bar"
+msgstr "Menu Bar trên bên trái"
+
+#: core/xmenu/inc/global.php:368
+msgid "Right of Menu Bar"
+msgstr "Thanh dưới cùng bên phải"
+
+#: core/xmenu/inc/global.php:369 core/xmenu/inc/global.php:781
+msgid "Full Size"
+msgstr "Kích thước đầy đủ"
+
+#: core/xmenu/inc/global.php:373
+msgid "Sub Menu Width Custom"
+msgstr "Tuỳ chỉnh độ rộng Menu con"
+
+#: core/xmenu/inc/global.php:376
+msgid "Set custom Sub Menu Width. Include the units (px/em/%)."
+msgstr "Thiết lập độ rộng Menu con. Bao gồm các đơn vị (px / em /%)."
+
+#: core/xmenu/inc/global.php:379
+msgid "Sub Menu Column Width Default"
+msgstr "Mặc định độ rộng Cột Menu con"
+
+#: core/xmenu/inc/global.php:385
+msgid "Sub Menu Column Spacing Default"
+msgstr "Mặc định Khoảng cách của  Menu con"
+
+#: core/xmenu/inc/global.php:388
+msgid "Set sub menu column spacing default. Do not include unit."
+msgstr "Thiết lập khoảng cách cột mặc định cho menu con. Không bao gồm đơn vị."
+
+#: core/xmenu/inc/global.php:391
+msgid "Sub Menu List Style"
+msgstr "Kiểu danh sách Menu con"
+
+#: core/xmenu/inc/global.php:396
+msgid "Disc"
+msgstr "Đĩa"
+
+#: core/xmenu/inc/global.php:397
+msgid "Square"
+msgstr "Vuông"
+
+#: core/xmenu/inc/global.php:398 inc/options-functions.php:393 widgets/includes/social-profile.php:41
+msgid "Circle"
+msgstr "Hình tròn"
+
+#: core/xmenu/inc/global.php:402
+msgid "Tab Position"
+msgstr "Vị trí tab"
+
+#: core/xmenu/inc/global.php:405
+msgid "Tab Position set to \"Sub Menu Type\" is \"TAB\"."
+msgstr "Thiết lập vị trí cho \"Loại menu con\" là \"TAB\"."
+
+#: core/xmenu/inc/global.php:407 inc/smart-framework/fields/border/border.class.php:107
+#: inc/smart-framework/fields/spacing/spacing.class.php:50 shortcodes/button/config.php:74
+#: shortcodes/button/config.php:102 shortcodes/heading/config.php:41 shortcodes/icon-box/config.php:16
+#: shortcodes/testimonials/config.php:55
+msgid "Left"
+msgstr "Bên trái"
+
+#: core/xmenu/inc/global.php:408 inc/smart-framework/fields/border/border.class.php:89
+#: inc/smart-framework/fields/spacing/spacing.class.php:57 shortcodes/button/config.php:75
+#: shortcodes/button/config.php:103 shortcodes/heading/config.php:43 shortcodes/icon-box/config.php:17
+#: shortcodes/testimonials/config.php:56
+msgid "Right"
+msgstr "Bên phải"
+
+#: core/xmenu/inc/global.php:412
+msgid "Sub Menu Animation"
+msgstr "Hoạt ảnh Menu con"
+
+#: core/xmenu/inc/global.php:420 core/xmenu/inc/global.php:424 core/xmenu/inc/global.php:428
+msgid "Custom Content"
+msgstr "Nội dung tùy chỉnh"
+
+#: core/xmenu/inc/global.php:431
+msgid "Can contain HTML and shortcodes"
+msgstr "Có thể chứa HTML và mã ngắn"
+
+#: core/xmenu/inc/global.php:437 core/xmenu/inc/global.php:445
+msgid "Widget Area"
+msgstr "Khu vực Phụ tùng"
+
+#: core/xmenu/inc/global.php:441
+msgid "Select Widget Area"
+msgstr "Chọn vùng tiện ích"
+
+#: core/xmenu/inc/global.php:453
+msgid "Customize Style"
+msgstr "Tùy chỉnh phong cách"
+
+#: core/xmenu/inc/global.php:457
+msgid "Menu Item"
+msgstr "Danh mục công cụ"
+
+#: core/xmenu/inc/global.php:461 core/xmenu/inc/global.php:542 core/xmenu/inc/global.php:635
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: core/xmenu/inc/global.php:466 core/xmenu/inc/global.php:547 core/xmenu/inc/global.php:640
+#: inc/options-config.php:1856
+msgid "Text Color"
+msgstr "Màu chữ văn bản"
+
+#: core/xmenu/inc/global.php:471
+msgid "Background Color [Active]"
+msgstr "Màu nền [Hoạt động]"
+
+#: core/xmenu/inc/global.php:476
+msgid "Text Color [Active]"
+msgstr "Màu văn bản [Kích hoạt]"
+
+#: core/xmenu/inc/global.php:481 core/xmenu/inc/global.php:552 inc/meta-boxes.php:206 inc/meta-boxes.php:1227
+#: inc/options-config.php:2925
+msgid "Background Image"
+msgstr "Hình ảnh nền"
+
+#: core/xmenu/inc/global.php:486 core/xmenu/inc/global.php:557
+msgid "Background Image Repeat"
+msgstr "Hình ảnh nền Lặp lại"
+
+#: core/xmenu/inc/global.php:498 core/xmenu/inc/global.php:569
+msgid "Background Image Attachment"
+msgstr "Hình nền đính kèm"
+
+#: core/xmenu/inc/global.php:508 core/xmenu/inc/global.php:579
+msgid "Background Image Position"
+msgstr "Hình nền nổi lên"
+
+#: core/xmenu/inc/global.php:525 core/xmenu/inc/global.php:596
+msgid "Background Image Size"
+msgstr "Kích thước Hình nền"
+
+#: core/xmenu/inc/global.php:609
+msgid "Column Min Width"
+msgstr "Chiều rộng Tối thiểu của Cột"
+
+#: core/xmenu/inc/global.php:612
+msgid "Set min-width for Sub Menu Column (px). Not include the units."
+msgstr "Đặt chiều rộng tối thiểu cho cột menu con(px). Không bao gồm các đơn vị."
+
+#: core/xmenu/inc/global.php:618
+msgid "Set padding for Sub Menu. Include the units."
+msgstr "Đặt lề cho Menu con. Bao gồm các đơn vị."
+
+#: core/xmenu/inc/global.php:626
+msgid "Feature Menu Type"
+msgstr "Loại menu tính năng"
+
+#: core/xmenu/inc/global.php:631
+msgid "Not Float"
+msgstr "Không nổi"
+
+#: core/xmenu/inc/global.php:645
+msgid "Position Top"
+msgstr "Vị trí phía trên"
+
+#: core/xmenu/inc/global.php:651
+msgid "Position Left"
+msgstr "Vị trí bên trái"
+
+#: core/xmenu/inc/global.php:659 core/xmenu/inc/global.php:663 core/xmenu/inc/global.php:699
+#: core/xmenu/inc/global.php:703 shortcodes/functions.php:499 shortcodes/functions.php:508
+#: shortcodes/functions.php:517 shortcodes/functions.php:526
+msgid "Responsive"
+msgstr "Đáp ứng"
+
+#: core/xmenu/inc/global.php:667 core/xmenu/inc/global.php:707
+msgid "Hide item on mobile via CSS"
+msgstr "Ẩn danh mục trên điện thoại di động thông qua CSS"
+
+#: core/xmenu/inc/global.php:672 core/xmenu/inc/global.php:712
+msgid "Hide item on desktop via CSS"
+msgstr "Ẩn mục trên máy tính để bàn thông qua CSS"
+
+#: core/xmenu/inc/global.php:677 core/xmenu/inc/global.php:717
+msgid "Hide sub menu on mobile via CSS"
+msgstr "Ẩn menu con trên điện thoại di động thông qua CSS"
+
+#: core/xmenu/inc/global.php:682
+msgid "Remove this item when mobile device is detected via wp_is_mobile()"
+msgstr "Xóa mục này khi thiết bị di động được phát hiện qua wp_is_mobile ()"
+
+#: core/xmenu/inc/global.php:687
+msgid "Remove this item when desktop device is NOT detected via wp_is_mobile()"
+msgstr "Xóa mục này khi thiết bị máy tính để bàn KHÔNG được phát hiện qua wp_is_mobile ()"
+
+#: core/xmenu/inc/global.php:692
+msgid "Remove sub menu when desktop device is NOT detected via wp_is_mobile()"
+msgstr "Xoá menu con khi thiết bị máy tính để bàn không được phát hiện qua wp_is_mobile ()"
+
+#: core/xmenu/inc/global.php:722
+msgid "Hide sub menu on desktop via CSS"
+msgstr "Ẩn menu con trên máy tính để bàn qua CSS"
+
+#: core/xmenu/inc/menu-item.php:11
+msgid "Menu Name"
+msgstr "Tên Menu"
+
+#: core/xmenu/inc/menu-item.php:12
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: core/xmenu/inc/menu-item.php:22
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: core/xmenu/inc/menu-item.php:44
+msgid "Type to search..."
+msgstr "Gõ để tìm kiếm..."
+
+#: core/xmenu/inc/menu-item.php:46
+msgid "Remove Icon"
+msgstr "Xóa biểu tượng"
+
+#: core/xmenu/inc/menu-item.php:51
+msgid "Theme Icon"
+msgstr "Biểu tượng Chủ đề"
+
+#: core/xmenu/inc/menu-item.php:60 g5plus-framework.php:260
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: core/xmenu/inc/menu-item.php:203
+msgid "--None--"
+msgstr "--Trống--"
+
+#: core/xmenu/inc/menu-item.php:237
+msgid "Save menu config fail"
+msgstr "Lưu cấu hình trình đơn thất bại"
+
+#: cpt/cpt.php:28 cpt/cpt.php:45
+msgid "Could not find template"
+msgstr "Không tìm thấy mẫu"
+
+#: cpt/settings.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Bạn chưa có quyền truy cập trang này."
+
+#: cpt/settings.php:111
+msgid "Change Slug"
+msgstr "Thay đổi slug"
+
+#: cpt/settings.php:113
+msgid "Current slug post type :"
+msgstr "Loại đăng bài của slug hiện tại:"
+
+#: cpt/settings.php:115
+msgid "New slug post type: "
+msgstr "Loại slug của bài đăng mới: "
+
+#: cpt/settings.php:118
+msgid "Current name post type :"
+msgstr "Tên của loại bài đăng hiện tại:"
+
+#: cpt/settings.php:120
+msgid "New name post type : "
+msgstr "Tên của loại bài đăng mới : "
+
+#: cpt/settings.php:124
+msgid "Current slug category : "
+msgstr "Slug danh mục hiện tại : "
+
+#: cpt/settings.php:126
+msgid "New slug category: "
+msgstr "Slug danh mục mới : "
+
+#: cpt/settings.php:129
+msgid "Current name category : "
+msgstr "Tên danh mục hiện tại : "
+
+#: cpt/settings.php:131
+msgid "New name category : "
+msgstr "Tên danh mục mới : "
+
+#: g5plus-framework.php:249
+msgid "Font Icomoon"
+msgstr ""
+
+#: g5plus-framework.php:273
+msgid "Insert Icon"
+msgstr "Chèn biểu tượng"
+
+#: inc/action.php:506
+msgid "Edit Preset Page Option"
+msgstr "Chỉnh sửa Tùy chọn Trang đặt trước"
+
+#: inc/action.php:509
+msgid "Edit Preset Option for this page"
+msgstr "Chỉnh sửa Tùy chọn Đặt trước cho trang này"
+
+#: inc/functions.php:454 inc/options-config.php:2270
+msgid "Social Profiles"
+msgstr "Thông tin mạng xã hội"
+
+#: inc/functions.php:457 inc/options-functions.php:141
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/functions.php:458 inc/options-functions.php:142
+msgid "Your Twitter"
+msgstr "Twitter của bạn"
+
+#: inc/functions.php:463 inc/options-functions.php:150
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/functions.php:464 inc/options-functions.php:151
+msgid "Your facebook page/profile url"
+msgstr "Địa chỉ trang cá nhân Facebook"
+
+#: inc/functions.php:469 inc/options-functions.php:159
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/functions.php:470 inc/options-functions.php:160
+msgid "Your Dribbble"
+msgstr "Liên kết Dribble của bạn"
+
+#: inc/functions.php:475 inc/options-functions.php:168
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/functions.php:476 inc/options-functions.php:169
+msgid "Your Vimeo"
+msgstr "Liên kết Vimeo của bạn"
+
+#: inc/functions.php:481 inc/options-functions.php:177
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/functions.php:482 inc/options-functions.php:178
+msgid "Your Tumblr"
+msgstr "Liên kết Tumblr của bạn"
+
+#: inc/functions.php:487 inc/options-functions.php:186
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/functions.php:488 inc/options-functions.php:187
+msgid "Your Skype username"
+msgstr "Tên người dùng Skype của bạn"
+
+#: inc/functions.php:493 inc/options-functions.php:195
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/functions.php:494 inc/options-functions.php:196
+msgid "Your LinkedIn page/profile url"
+msgstr "Liên kết LinkedIn của bạn"
+
+#: inc/functions.php:499 inc/options-functions.php:204
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/functions.php:500 inc/options-functions.php:205
+msgid "Your Google+ page/profile URL"
+msgstr "Liên kết LinkedIn của bạn"
+
+#: inc/functions.php:505 inc/options-functions.php:213
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/functions.php:506 inc/options-functions.php:214
+msgid "Your Flickr page url"
+msgstr "Liên kết LinkedIn của bạn"
+
+#: inc/functions.php:511 inc/options-functions.php:222
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/functions.php:512 inc/options-functions.php:223
+msgid "Your YouTube URL"
+msgstr "Liên kết LinkedIn của bạn"
+
+#: inc/functions.php:517 inc/options-functions.php:231
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/functions.php:518 inc/options-functions.php:232
+msgid "Your Pinterest"
+msgstr "Liên kết Dribble của bạn"
+
+#: inc/functions.php:523 inc/options-functions.php:240
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: inc/functions.php:524 inc/options-functions.php:241
+msgid "Your Foursqaure URL"
+msgstr "Foursqaure URL của bạn"
+
+#: inc/functions.php:529 inc/options-functions.php:249
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/functions.php:530 inc/options-functions.php:250
+msgid "Your Instagram"
+msgstr "URL instagram của bạn"
+
+#: inc/functions.php:535 inc/options-functions.php:258
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/functions.php:536 inc/options-functions.php:259
+msgid "Your GitHub URL"
+msgstr "URL GitHub của bạn"
+
+#: inc/functions.php:541 inc/options-functions.php:267
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/functions.php:542 inc/options-functions.php:268
+msgid "Your Xing URL"
+msgstr "URL Xing của bạn"
+
+#: inc/functions.php:547 inc/options-functions.php:276
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/functions.php:548 inc/options-functions.php:277
+msgid "Your Behance URL"
+msgstr "URL Behance của bạn"
+
+#: inc/functions.php:553 inc/options-functions.php:285
+msgid "Deviantart"
+msgstr "DeviantART"
+
+#: inc/functions.php:554 inc/options-functions.php:286
+msgid "Your Deviantart URL"
+msgstr "URL Foursqaure của bạn"
+
+#: inc/functions.php:559 inc/options-functions.php:294
+msgid "SoundCloud"
+msgstr "Soundcloud"
+
+#: inc/functions.php:560 inc/options-functions.php:295
+msgid "Your SoundCloud URL"
+msgstr "URL SoundCloud của bạn"
+
+#: inc/functions.php:565 inc/options-functions.php:303
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/functions.php:566 inc/options-functions.php:304
+msgid "Your Yelp URL"
+msgstr "URL Yelp của bạn"
+
+#: inc/functions.php:571 inc/options-functions.php:312
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: inc/functions.php:572 inc/options-functions.php:313
+msgid "Your RSS Feed URL"
+msgstr "URL RSS Feed của bạn"
+
+#: inc/functions.php:646
+msgid "Your Name"
+msgstr "Tên bạn %s"
+
+#: inc/functions.php:647
+msgid "Put your full Name"
+msgstr "Nhập đầy đủ tên bạn"
+
+#: inc/functions.php:650 shortcodes/agent-info/config.php:53 widgets/includes/info.php:22
+#: widgets/includes/info.php:38
+msgid "Email"
+msgstr "Thư điện tử"
+
+#: inc/functions.php:651
+msgid "Email Address"
+msgstr "Địa chỉ Email"
+
+#: inc/functions.php:654 shortcodes/agent-info/config.php:29 widgets/includes/info.php:21
+#: widgets/includes/info.php:33
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: inc/functions.php:655
+msgid "Your Phone Number"
+msgstr "Số điện thoại của bạn"
+
+#: inc/functions.php:661
+msgid "Message"
+msgstr "Message"
+
+#: inc/functions.php:662
+msgid "Your text here ..."
+msgstr "Nhập văn bản của bạn ở đây..."
+
+#: inc/functions.php:669
+msgid "Leave a Comment"
+msgstr "Để lại một bình luận"
+
+#: inc/functions.php:670
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "Để lại bình luận %s"
+
+#: inc/functions.php:671
+msgid "Cancel reply"
+msgstr "Hủy trả lời"
+
+#: inc/functions.php:672
+msgid "Send Message"
+msgstr "Gửi tin nhắn"
+
+#: inc/functions.php:696
+msgid "Property"
+msgstr "Trang bất động sản"
+
+#: inc/functions.php:699
+msgid "Agent"
+msgstr "Trang nhà môi giới"
+
+#: inc/functions.php:702
+msgid "Invoice"
+msgstr "Trang hóa đơn"
+
+#: inc/functions.php:711
+msgid "Property Page"
+msgstr "Trang bất động sản"
+
+#: inc/functions.php:716
+msgid "Archive Property"
+msgstr "Lưu trữ bất động sản"
+
+#: inc/functions.php:721
+msgid "Enable Search Form"
+msgstr "Bật biểu mẫu tìm kiếm"
+
+#: inc/functions.php:724
+msgid "Enabled"
+msgstr "Cho phép"
+
+#: inc/functions.php:725
+msgid "Disabled"
+msgstr "Vô hiệu hóa"
+
+#: inc/functions.php:732
+msgid "Hide Advanced Search Fields"
+msgstr "Ẩn trường tìm kiếm nâng cao"
+
+#: inc/functions.php:733
+msgid "Choose which fields you want to hide on advanced search page?"
+msgstr "Chọn trường mà bạn muốn ẩn trên trang tìm kiếm nâng cao?"
+
+#: inc/functions.php:735
+msgid "Status"
+msgstr "Trạng thái"
+
+#: inc/functions.php:736
+msgid "Type"
+msgstr "Loại"
+
+#: inc/functions.php:737 shortcodes/blog/config.php:68 shortcodes/counter/config.php:11
+#: shortcodes/google-map/config.php:24 shortcodes/google-map/config.php:43 shortcodes/heading/config.php:30
+#: shortcodes/icon-box/config.php:27 shortcodes/process/config.php:20 shortcodes/property-info/config.php:23
+#: widgets/includes/posts.php:19 widgets/includes/social-profile.php:18
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/functions.php:738 shortcodes/property-info/config.php:17 widgets/includes/info.php:20
+#: widgets/includes/info.php:28
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: inc/functions.php:739
+msgid "Country"
+msgstr "Quốc gia"
+
+#: inc/functions.php:740
+msgid "Province / State"
+msgstr "Quận/ Huyện"
+
+#: inc/functions.php:741
+msgid "City"
+msgstr "Thành phố"
+
+#: inc/functions.php:742
+msgid "Neighborhood"
+msgstr "Phường/xã"
+
+#: inc/functions.php:743
+msgid "Bedrooms"
+msgstr "Phòng ngủ"
+
+#: inc/functions.php:744
+msgid "Bathrooms"
+msgstr "Phòng tắm"
+
+#: inc/functions.php:745
+msgid "Sale or Rent Price"
+msgstr "Giá bán hoặc giá cho thuê"
+
+#: inc/functions.php:746 shortcodes/button/config.php:55
+msgid "Size"
+msgstr "Cỡ"
+
+#: inc/functions.php:747
+msgid "Land Area"
+msgstr "Khu vực diện tích đất"
+
+#: inc/functions.php:748
+msgid "Label"
+msgstr "Nhãn"
+
+#: inc/functions.php:749
+msgid "Garage"
+msgstr "Nhà để xe"
+
+#: inc/functions.php:750
+msgid "Property ID"
+msgstr "ID bất động sản"
+
+#: inc/functions.php:751
+msgid "Other Features"
+msgstr "Các tính năng khác"
+
+#: inc/functions.php:761
+msgid "Property Price Field Layout"
+msgstr "Giao diện trường giá"
+
+#: inc/functions.php:764 inc/functions.php:775 inc/functions.php:786
+msgid "Dropdown"
+msgstr "Dạng sổ xuống"
+
+#: inc/functions.php:765 inc/functions.php:776 inc/functions.php:787
+#, fuzzy
+msgid "Slider"
+msgstr "Thanh trượt"
+
+#: inc/functions.php:772
+msgid "Property Size Field Layout"
+msgstr "Giao diện trường kích thước"
+
+#: inc/functions.php:783
+msgid "Property Land Area Field Layout"
+msgstr "Bố cục trường diện tích đất"
+
+#: inc/functions.php:794
+msgid "Page Options"
+msgstr "Thiết lập cho trang bất động sản"
+
+#: inc/functions.php:800 inc/meta-boxes.php:43 inc/options-config.php:515 shortcodes/heading/config.php:11
+#: shortcodes/icon-box/config.php:11 shortcodes/pricing/config.php:11 shortcodes/testimonials/config.php:50
+msgid "Layout Style"
+msgstr "Kiểu dáng"
+
+#: inc/functions.php:803 inc/options-functions.php:79 shortcodes/blog/config.php:14
+msgid "Grid"
+msgstr "Lưới"
+
+#: inc/functions.php:804
+msgid "List"
+msgstr "Danh sách"
+
+#: inc/functions.php:810
+msgid "Items Amount"
+msgstr "Số tiền"
+
+#: inc/functions.php:817
+msgid ""
+"Enter image size (\"thumbnail\" or \"full\"). Alternatively enter size in pixels (Example : 330x180 (Not Include "
+"Unit, Space))."
+msgstr ""
+"Nhập kích cỡ hình ảnh (\"thu nhỏ\" hoặc \"đầy đủ\"). Ngoài ra nhập kích thước điểm ảnh (ví dụ: 330x180 (không bao "
+"gồm các đơn vị, khoảng trống))."
+
+#: inc/functions.php:823 shortcodes/blog/config.php:21 shortcodes/gallery/config.php:31
+#: shortcodes/text-info/config.php:42
+msgid "Columns"
+msgstr "Số cột"
+
+#: inc/functions.php:837 shortcodes/gallery/config.php:49
+msgid "Columns Gap"
+msgstr "Khoảng cách cột"
+
+#: inc/functions.php:852 shortcodes/clients/config.php:145
+msgid "Items Desktop Small"
+msgstr "Thiết bị máy tính nhỏ"
+
+#: inc/functions.php:854 shortcodes/clients/config.php:147
+msgid "Browser Width < 1199"
+msgstr "Số cột sẽ hiển thị khi chiều rộng của trình duyệt <1199"
+
+#: inc/functions.php:867 shortcodes/clients/config.php:162
+msgid "Items Tablet"
+msgstr "Thiết bị máy tính bảng"
+
+#: inc/functions.php:869 shortcodes/clients/config.php:164
+msgid "Browser Width < 992"
+msgstr "Số cột sẽ hiển thị khi chiều rộng của trình duyệt < 992"
+
+#: inc/functions.php:882 shortcodes/clients/config.php:179
+msgid "Items Tablet Small"
+msgstr "Thiết bị máy tính bảng nhỏ"
+
+#: inc/functions.php:884 shortcodes/clients/config.php:181
+msgid "Browser Width < 768"
+msgstr "Số cột sẽ hiển thị khi chiều rộng của trình duyệt < 768"
+
+#: inc/functions.php:898 shortcodes/clients/config.php:196
+msgid "Items Mobile"
+msgstr "Thiết bị điện thoại di động"
+
+#: inc/functions.php:900 shortcodes/clients/config.php:198
+msgid "Browser Width < 480"
+msgstr "Số cột sẽ hiển thị khi chiều rộng của trình duyệt < 480"
+
+#: inc/functions.php:918 inc/options-functions.php:432
+msgid "Single Property"
+msgstr "Trang bất động sản chi tiết"
+
+#: inc/functions.php:924
+msgid "Header Display Type"
+msgstr "Màn hình tiêu đề hiển thị kiểu"
+
+#: inc/functions.php:926
+msgid "Header Image"
+msgstr "Ảnh phần đầu trang"
+
+#: inc/functions.php:927
+msgid "Header Map"
+msgstr "Bản đồ tiêu đề"
+
+#: inc/functions.php:933
+msgid "Hide Contact Information if user not login"
+msgstr "Ẩn thông tin liên lạc, nếu người dùng không đăng nhập"
+
+#: inc/functions.php:936 inc/functions.php:946
+msgid "Yes"
+msgstr "Có"
+
+#: inc/functions.php:937 inc/functions.php:947
+msgid "No"
+msgstr "Không"
+
+#: inc/functions.php:943
+msgid "Enable Comments Property"
+msgstr "Cho phép nhận xét bất động sản"
+
+#: inc/less-functions.php:477 inc/less-functions.php:494 inc/less-functions.php:509
+msgid "Could not save file"
+msgstr "Không thể lưu tập tin"
+
+#: inc/meta-boxes.php:25 inc/options-config.php:2544
+msgid "Preset Settings"
+msgstr "Cài đặt sẵn"
+
+#: inc/meta-boxes.php:34 inc/meta-boxes.php:1920
+msgid "Page Layout"
+msgstr "Bố cục trang"
+
+#: inc/meta-boxes.php:47
+msgid "Boxed"
+msgstr "Đóng hộp"
+
+#: inc/meta-boxes.php:48
+msgid "Wide"
+msgstr "Rộng"
+
+#: inc/meta-boxes.php:62 inc/meta-boxes.php:1924 inc/options-config.php:2718
+msgid "Sidebar Layout"
+msgstr "Giao diện có/ không có thanh bên"
+
+#: inc/meta-boxes.php:75 inc/meta-boxes.php:885 inc/meta-boxes.php:902 inc/meta-boxes.php:964 inc/meta-boxes.php:981
+#: inc/meta-boxes.php:1040 inc/meta-boxes.php:1053 inc/options-config.php:1260 inc/options-config.php:1279
+#: inc/options-config.php:1331 inc/options-config.php:1350 inc/options-config.php:1402 inc/options-config.php:1421
+#: inc/options-config.php:2734
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: inc/meta-boxes.php:80 inc/meta-boxes.php:417 inc/meta-boxes.php:729 inc/meta-boxes.php:742 inc/meta-boxes.php:822
+#: inc/meta-boxes.php:835 inc/meta-boxes.php:908 inc/meta-boxes.php:987 inc/meta-boxes.php:1059
+#: inc/meta-boxes.php:1323 inc/meta-boxes.php:1338 inc/meta-boxes.php:1353 inc/meta-boxes.php:1368
+#: inc/meta-boxes.php:1474 inc/meta-boxes.php:1488 inc/options-config.php:1282 inc/options-config.php:1353
+#: inc/options-config.php:1422 inc/options-config.php:1628 inc/options-config.php:1641 inc/options-config.php:1657
+#: inc/options-config.php:1673 inc/options-config.php:1764 inc/options-config.php:1776 inc/options-config.php:2741
+msgid "Select Sidebar"
+msgstr "Lựa chọn Sidebar"
+
+#: inc/meta-boxes.php:86 inc/options-config.php:580
+msgid "Sidebar Width"
+msgstr "Chiều rộng thanh bên"
+
+#: inc/meta-boxes.php:96 inc/options-functions.php:536
+msgid "Sidebar Mobile"
+msgstr "Thanh bên cho di động"
+
+#: inc/meta-boxes.php:107 inc/options-functions.php:571
+msgid "Content Padding"
+msgstr "Khoảng cách lề cho phần nội dung"
+
+#: inc/meta-boxes.php:108
+msgid "Set content top/bottom padding. Do not include units (empty to set default). Allow values (0,5,10,15....100)"
+msgstr ""
+"Thiết lập lề trên/dưới cho phần nội dung. Không bao gồm đơn vị (thiết lập mặc định để trống). Giá trị cho "
+"phép(0,5,10,15....100)"
+
+#: inc/meta-boxes.php:120 inc/options-functions.php:589
+msgid "Content Padding Mobile"
+msgstr "Khoảng cách lề cho phần nội dung khi hiển thị trên di động"
+
+#: inc/meta-boxes.php:121
+msgid ""
+"Set content top/bottom padding mobile. Do not include units (empty to set default). Allow values (0,5,10,15....100)"
+msgstr ""
+"Thiết lập lề trên/dưới cho phần nội dung trên điện thoại di động. Không bao gồm đơn vị (thiết lập mặc định để "
+"trống). Giá trị cho phép (0,5,10,15....100)"
+
+#: inc/meta-boxes.php:140 inc/meta-boxes.php:157 inc/meta-boxes.php:2001 inc/options-config.php:629
+#: inc/options-config.php:2859
+msgid "Page Title"
+msgstr "Tiêu đề trang"
+
+#: inc/meta-boxes.php:149
+msgid "Show/Hide Page Title?"
+msgstr "Hiện/Ẩn tiêu đề trang?"
+
+#: inc/meta-boxes.php:159 inc/meta-boxes.php:168
+msgid "Enter a custom page title if you'd like."
+msgstr "Nhập tiêu đề trang để tùy chỉnh nếu bạn muốn."
+
+#: inc/meta-boxes.php:166
+msgid "Page Subtitle"
+msgstr "Tiêu đề phụ"
+
+#: inc/meta-boxes.php:179
+msgid "Enter a page title padding top/bottom value (not include unit)"
+msgstr "Nhập khoảng cách lề trên/dưới cho tiêu đề trang(không bao gồm đơn vị)"
+
+#: inc/meta-boxes.php:194 inc/meta-boxes.php:1219
+msgid "Custom Background Image"
+msgstr "Tuỳ chỉnh hình ảnh nền"
+
+#: inc/meta-boxes.php:195
+msgid "Turn on this option if you want to enable custom background image of page title"
+msgstr "Bật tùy chọn này nếu bạn muốn cho phép tùy chỉnh hình nền của tiêu đề trang"
+
+#: inc/meta-boxes.php:207
+msgid "Background Image for page title."
+msgstr "Hình ảnh nền cho tiêu đề trang."
+
+#: inc/meta-boxes.php:217 inc/options-config.php:2943
+msgid "Page Title Background Overlay"
+msgstr "Lớp phủ nền cho tiêu đề trang"
+
+#: inc/meta-boxes.php:219
+msgid "Enable Page Title Background Overlay"
+msgstr "Cho phép lớp phủ nền cho tiêu đề trang"
+
+#: inc/meta-boxes.php:229 inc/options-config.php:2962
+msgid "Page Title Parallax"
+msgstr "Tiêu đề trang dạng Parallax"
+
+#: inc/meta-boxes.php:231 inc/options-config.php:2963
+msgid "Enable Page Title Parallax"
+msgstr "Hình ảnh nền của tiêu đề trang sẽ được giữ cố định trong phần tiêu đề trang nếu tùy chọn này được bật"
+
+#: inc/meta-boxes.php:242 inc/options-config.php:2981
+msgid "Breadcrumbs Enable"
+msgstr "Đường dẫn đến trang"
+
+#: inc/meta-boxes.php:244 inc/meta-boxes.php:1969
+msgid "Show/Hide Breadcrumbs"
+msgstr "Hiển thị/ẩn đường dẫn đến trang trong tiêu đề trang"
+
+#: inc/meta-boxes.php:262 inc/options-config.php:828
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/meta-boxes.php:266 inc/meta-boxes.php:485 inc/meta-boxes.php:676 inc/options-config.php:1062
+msgid "Desktop Settings"
+msgstr "Thiết lập hiển thị trên máy tính"
+
+#: inc/meta-boxes.php:272
+msgid "Custom Logo"
+msgstr "Tùy chỉnh Logo"
+
+#: inc/meta-boxes.php:273
+msgid "Turn on this option if you want to enable custom logo"
+msgstr "Bật tùy chọn này nếu bạn muốn cho phép tuỳ chỉnh logo"
+
+#: inc/meta-boxes.php:280
+msgid "Header Logo"
+msgstr "Logo đầu trang"
+
+#: inc/meta-boxes.php:281
+msgid "Upload custom logo in header."
+msgstr "Tải lên ảnh logo tùy chỉnh trong phần đầu trang."
+
+#: inc/meta-boxes.php:288
+msgid "Header Logo Retina"
+msgstr ""
+
+#: inc/meta-boxes.php:289
+msgid "Upload custom logo retina in header."
+msgstr "Tải lên ảnh logo tùy chỉnh trong phần đầu trang."
+
+#: inc/meta-boxes.php:296 inc/options-config.php:846
+msgid "Sticky Logo"
+msgstr "Logo dính"
+
+#: inc/meta-boxes.php:297
+msgid "Upload sticky logo in header (empty to default)"
+msgstr "Tải lên các biểu tượng dính trong tiêu đề (mặc định để trống)"
+
+#: inc/meta-boxes.php:304 inc/options-config.php:855
+msgid "Sticky Logo Retina"
+msgstr ""
+
+#: inc/meta-boxes.php:305
+msgid "Upload sticky logo retina in header (empty to default)"
+msgstr "Tải lên sticky logo retina trong tiêu đề (mặc định để trống)"
+
+#: inc/meta-boxes.php:312
+msgid "Logo max height"
+msgstr "Chiều cao tối đa của logo"
+
+#: inc/meta-boxes.php:313 inc/meta-boxes.php:365
+msgid "Logo max height (px). Do not include units (empty to set default)"
+msgstr "Thiết lập khoảng cách trên/dưới cho logo. Không bao gồm đơn vị (thiết lập mặc định để trống)"
+
+#: inc/meta-boxes.php:319
+msgid "Logo padding"
+msgstr "Khoảng cách lề cho logo"
+
+#: inc/meta-boxes.php:320
+msgid "Logo padding top/bottom. Do not include units (empty to set default)"
+msgstr "Thiết lề trên/dưới cho logo. Không bao gồm đơn vị (thiết lập mặc định để trống)"
+
+#: inc/meta-boxes.php:333 inc/meta-boxes.php:782 inc/options-config.php:1163
+msgid "Mobile Settings"
+msgstr "Thiết lập hiển thị trên điện thoại di động"
+
+#: inc/meta-boxes.php:340
+msgid "Custom Mobile Logo"
+msgstr "Tùy chỉnh logo trên điện thoại di động"
+
+#: inc/meta-boxes.php:341
+msgid "Turn on this option if you want to enable custom mobile logo"
+msgstr "Bật tùy chọn này nếu bạn muốn cho phép tuỳ chỉnh logo trên điện thoại di dộng"
+
+#: inc/meta-boxes.php:348 inc/options-config.php:899
+msgid "Mobile Logo"
+msgstr "Logo cho điện thoại di động"
+
+#: inc/meta-boxes.php:349
+msgid "Upload mobile logo in header."
+msgstr "Tải lên logo tiêu đề trên điện thoại di động."
+
+#: inc/meta-boxes.php:356 inc/options-config.php:908
+msgid "Mobile Logo Retina"
+msgstr "Logo Retina trên điện thoại di động"
+
+#: inc/meta-boxes.php:357
+msgid "Upload mobile logo retina in header."
+msgstr "Tải lên logo retina trên điện thoại di động."
+
+#: inc/meta-boxes.php:364 inc/options-config.php:916
+msgid "Mobile Logo Max Height"
+msgstr "Chiều cao tối đa của logo trên điện thoại di động"
+
+#: inc/meta-boxes.php:371
+msgid "Mobile logo padding"
+msgstr "Khoảng cách lề logo trên điện thoại di động"
+
+#: inc/meta-boxes.php:372
+msgid "Mobile logo padding top/bottom. Do not include units (empty to set default)"
+msgstr "Khoảng cách lề trên/dưới cho logo. Không bao gồm đơn vị (thiết lập mặc định để trống)"
+
+#: inc/meta-boxes.php:391
+msgid "Top drawer"
+msgstr "Ngăn kéo phía trên"
+
+#: inc/meta-boxes.php:400
+msgid "Top Drawer Type"
+msgstr "Kiểu ngăn kéo phía trên"
+
+#: inc/meta-boxes.php:406
+msgid "Always Show"
+msgstr "Luôn luôn hiển thị"
+
+#: inc/meta-boxes.php:407 inc/options-functions.php:492
+msgid "Toggle"
+msgstr "Bật lên"
+
+#: inc/meta-boxes.php:409
+msgid "Top drawer type"
+msgstr "Kiểu ngăn kéo phía trên"
+
+#: inc/meta-boxes.php:412
+msgid "Top Drawer Sidebar"
+msgstr "Chọn sidebar"
+
+#: inc/meta-boxes.php:423 inc/options-config.php:970
+msgid "Top Drawer Wrapper Layout"
+msgstr "Cách bố trí bao bọc đầu ngăn kéo"
+
+#: inc/meta-boxes.php:429 inc/meta-boxes.php:509 inc/meta-boxes.php:698 inc/meta-boxes.php:1202
+#: inc/options-config.php:975 inc/options-config.php:1082 inc/options-config.php:1519 inc/options-functions.php:17
+#: inc/options-functions.php:523
+msgid "Container"
+msgstr "Vùng chứa nội dung"
+
+#: inc/meta-boxes.php:430 inc/meta-boxes.php:510 inc/meta-boxes.php:699 inc/meta-boxes.php:1201
+#: inc/options-config.php:976 inc/options-config.php:1083 inc/options-config.php:1518 inc/options-functions.php:18
+msgid "Container Fluid"
+msgstr "Vùng chứa nội dung rộng"
+
+#: inc/meta-boxes.php:436
+msgid "Top Drawer hide on mobile"
+msgstr "Ẩn đầu ngăn kéo trên điện thoại di động"
+
+#: inc/meta-boxes.php:441
+msgid "Show on mobile"
+msgstr "Hiển thị trên điện thoại di động"
+
+#: inc/meta-boxes.php:442
+msgid "Hide on mobile"
+msgstr "Ẩn trên điện thoại"
+
+#: inc/meta-boxes.php:448
+msgid "Top drawer padding"
+msgstr "Khoảng cách phía trên ngăn kéo"
+
+#: inc/meta-boxes.php:449
+msgid "Top drawer padding top/bottom. Do not include units (empty to set default)"
+msgstr "Khoảng cách lề trên/dưới cho logo. Không bao gồm đơn vị (thiết lập mặc định để trống)"
+
+#: inc/meta-boxes.php:470 inc/meta-boxes.php:1636 inc/options-config.php:1044 inc/options-config.php:1910
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: inc/meta-boxes.php:474
+msgid "Header On/Off?"
+msgstr "Bật/Tắt tiêu đề?"
+
+#: inc/meta-boxes.php:478 inc/meta-boxes.php:520 inc/meta-boxes.php:531 inc/meta-boxes.php:1135
+#: inc/meta-boxes.php:1174 inc/meta-boxes.php:1212 inc/meta-boxes.php:1383 inc/meta-boxes.php:1440
+#: inc/meta-boxes.php:1551 inc/meta-boxes.php:1610 inc/meta-boxes.php:1645 inc/meta-boxes.php:1694
+#: inc/meta-boxes.php:1739 inc/meta-boxes.php:1787 inc/meta-boxes.php:1838 inc/meta-boxes.php:1941
+#: inc/meta-boxes.php:1995 inc/meta-boxes.php:2036 inc/meta-boxes.php:2057 inc/meta-boxes.php:2088
+#: inc/options-config.php:988 inc/options-config.php:1197 inc/options-config.php:1689 inc/options-functions.php:119
+msgid "On"
+msgstr "Bật"
+
+#: inc/meta-boxes.php:479 inc/meta-boxes.php:521 inc/meta-boxes.php:532 inc/meta-boxes.php:1136
+#: inc/meta-boxes.php:1175 inc/meta-boxes.php:1213 inc/meta-boxes.php:1384 inc/meta-boxes.php:1441
+#: inc/meta-boxes.php:1552 inc/meta-boxes.php:1611 inc/meta-boxes.php:1646 inc/meta-boxes.php:1695
+#: inc/meta-boxes.php:1740 inc/meta-boxes.php:1788 inc/meta-boxes.php:1839 inc/meta-boxes.php:1942
+#: inc/meta-boxes.php:1996 inc/meta-boxes.php:2037 inc/meta-boxes.php:2058 inc/meta-boxes.php:2089
+#: inc/options-config.php:989 inc/options-config.php:1197 inc/options-config.php:1690 inc/options-functions.php:120
+#: inc/options-functions.php:379
+msgid "Off"
+msgstr "Tắt"
+
+#: inc/meta-boxes.php:481
+msgid "Turn ON/Off Header"
+msgstr "Bật/Tắt Tiêu đề"
+
+#: inc/meta-boxes.php:491 inc/options-config.php:1067 inc/options-config.php:1168
+msgid "Header Layout"
+msgstr "Bố trí tiêu đề"
+
+#: inc/meta-boxes.php:505
+msgid "Container Layout"
+msgstr "Bố trí vùng chứa"
+
+#: inc/meta-boxes.php:516 inc/options-config.php:1090
+msgid "Header Float"
+msgstr ""
+
+#: inc/meta-boxes.php:527
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/meta-boxes.php:538 inc/options-config.php:1108
+msgid "Header border bottom"
+msgstr "Đường viền bên dưới cho tiêu đề"
+
+#: inc/meta-boxes.php:543 inc/meta-boxes.php:756 inc/meta-boxes.php:848 inc/meta-boxes.php:1399
+#: inc/meta-boxes.php:1503 inc/options-config.php:1113 inc/options-config.php:1224 inc/options-config.php:1718
+#: inc/options-config.php:1807
+msgid "Full Border"
+msgstr "Đường viền đầy đủ"
+
+#: inc/meta-boxes.php:544 inc/meta-boxes.php:757 inc/meta-boxes.php:849 inc/meta-boxes.php:1400
+#: inc/meta-boxes.php:1504 inc/options-config.php:1114 inc/options-config.php:1225 inc/options-config.php:1719
+#: inc/options-config.php:1808
+msgid "Container Border"
+msgstr "Đường viền vùng chứa"
+
+#: inc/meta-boxes.php:550
+msgid "Header padding"
+msgstr "Khoảng cách lề cho tiêu đề"
+
+#: inc/meta-boxes.php:551
+msgid "Header padding top/bottom. Do not include units (empty to set default)"
+msgstr "Khoảng cách lề trên/dưới cho tiêu đề. Không bao gồm đơn vị (thiết lập mặc định để trống)"
+
+#: inc/meta-boxes.php:563 inc/options-config.php:1137
+msgid "Navigation height"
+msgstr "Chiều cao phần chứa menu"
+
+#: inc/meta-boxes.php:565
+msgid "Set header navigation height (px). Do not include unit."
+msgstr "Thiết lập chiều cao cho khu vực chứa menu. Không bao gồm đơn vị."
+
+#: inc/meta-boxes.php:571 inc/options-config.php:1148
+msgid "Navigation Spacing (px)"
+msgstr "Khoảng cách giữa các danh mục menu(px)"
+
+#: inc/meta-boxes.php:588
+msgid "Page Header Mobile"
+msgstr "Thiết lập hiển thị trên di động"
+
+#: inc/meta-boxes.php:594
+msgid "Header Mobile Layout"
+msgstr "Bố trí tiêu đề trên di động"
+
+#: inc/meta-boxes.php:609 inc/options-config.php:1182
+msgid "Menu Drop Type"
+msgstr "Loại Menu thả xuống"
+
+#: inc/meta-boxes.php:613 inc/options-config.php:1186
+msgid "Fly Menu"
+msgstr "Menu bay vào"
+
+#: inc/meta-boxes.php:614 inc/options-config.php:1187
+msgid "Dropdown Menu"
+msgstr "Menu thả xuống"
+
+#: inc/meta-boxes.php:620
+msgid "Header mobile sticky"
+msgstr "Header sticky trên di động"
+
+#: inc/meta-boxes.php:630
+msgid "Mobile Header Search Box"
+msgstr "Hộp tìm kiếm trong tiêu đề trên di động"
+
+#: inc/meta-boxes.php:635 inc/meta-boxes.php:646 inc/meta-boxes.php:687 inc/meta-boxes.php:792
+#: inc/meta-boxes.php:1964 inc/meta-boxes.php:1975 inc/options-config.php:1206 inc/options-config.php:1215
+#: inc/options-functions.php:493
+msgid "Show"
+msgstr "Hiển thị"
+
+#: inc/meta-boxes.php:636 inc/meta-boxes.php:647 inc/meta-boxes.php:688 inc/meta-boxes.php:793
+#: inc/meta-boxes.php:1965 inc/meta-boxes.php:1976 inc/options-config.php:1206 inc/options-config.php:1215
+#: inc/options-functions.php:491
+msgid "Hide"
+msgstr "Ẩn"
+
+#: inc/meta-boxes.php:641
+msgid "Mobile Header Login"
+msgstr "Đăng nhập trong tiêu đề trên di động"
+
+#: inc/meta-boxes.php:653 inc/options-config.php:1221
+msgid "Mobile header border bottom"
+msgstr "Đường viền bên dưới tiêu đề để hiển thị trên di động"
+
+#: inc/meta-boxes.php:658
+msgid "Bordered"
+msgstr "Có đường viền"
+
+#: inc/meta-boxes.php:672
+msgid "Top bar"
+msgstr "Phần đầu trang"
+
+#: inc/meta-boxes.php:682 inc/meta-boxes.php:788
+msgid "Show/Hide Top Bar"
+msgstr "Hiện/Ẩn thanh trên cùng"
+
+#: inc/meta-boxes.php:690 inc/meta-boxes.php:796
+msgid "Show/Hide Top Bar."
+msgstr "Hiện/Ẩn thanh trên cùng."
+
+#: inc/meta-boxes.php:693
+msgid "Top Bar Wrapper Layout"
+msgstr "Bố trí bao bọc thanh trên cùng"
+
+#: inc/meta-boxes.php:706 inc/meta-boxes.php:799
+msgid "Top Bar Layout"
+msgstr "Bố trí thanh trên cùng"
+
+#: inc/meta-boxes.php:723 inc/meta-boxes.php:816
+msgid "Top Left Sidebar"
+msgstr "Sidebar phía trên bên trái"
+
+#: inc/meta-boxes.php:736 inc/meta-boxes.php:829
+msgid "Top Right Sidebar"
+msgstr "Sidebar phía trên bên phải"
+
+#: inc/meta-boxes.php:750 inc/meta-boxes.php:842
+msgid "Top Bar Border"
+msgstr "Đường viền cho thanh trên cùng"
+
+#: inc/meta-boxes.php:765
+msgid "Top bar padding"
+msgstr "Khoảng cách lề cho thanh trên cùng"
+
+#: inc/meta-boxes.php:766
+msgid "Top bar padding top/bottom. Do not include units (empty to set default)"
+msgstr "Khoảng cách lề trên/dưới cho top bar. Không bao gồm đơn vị (thiết lập mặc định để trống)"
+
+#: inc/meta-boxes.php:851
+msgid "Show Hide Top Bar."
+msgstr "Hiện/Ẩn thanh trên cùng."
+
+#: inc/meta-boxes.php:866 inc/options-config.php:1244
+msgid "Header Customize"
+msgstr "Thiết lập tiêu đề"
+
+#: inc/meta-boxes.php:870 inc/meta-boxes.php:879 inc/options-config.php:1250
+msgid "Header Customize Left"
+msgstr "Tùy chỉnh tiêu đề bên trái"
+
+#: inc/meta-boxes.php:882
+msgid "Select element for header customize left. Drag to change element order"
+msgstr "Lựa chọn các thành phần cho tùy chỉnh tiêu đề trái. Kéo chuột để thay đổi thứ tự hiển thị"
+
+#: inc/meta-boxes.php:884 inc/meta-boxes.php:963 inc/meta-boxes.php:1039
+msgid "Search Button"
+msgstr "Nút tìm kiếm"
+
+#: inc/meta-boxes.php:886 inc/meta-boxes.php:965 inc/meta-boxes.php:1041 inc/options-config.php:1261
+#: inc/options-config.php:1332 inc/options-config.php:1403
+msgid "Custom Text"
+msgstr "Tùy chỉnh văn bản"
+
+#: inc/meta-boxes.php:891 inc/meta-boxes.php:970 inc/meta-boxes.php:1045 inc/options-config.php:1267
+#: inc/options-config.php:1338 inc/options-config.php:1409
+msgid "Search Type"
+msgstr "Loại tìm kiếm"
+
+#: inc/meta-boxes.php:915
+msgid "Custom text content left"
+msgstr "Tuỳ chỉnh nội dung văn bản bên trái"
+
+#: inc/meta-boxes.php:926 inc/meta-boxes.php:1005 inc/meta-boxes.php:1071 inc/options-config.php:1301
+#: inc/options-config.php:1372 inc/options-config.php:1443
+msgid "Navigation Item Spacing (px)"
+msgstr "Khoảng cách giữa các danh mục menu(px)"
+
+#: inc/meta-boxes.php:939 inc/meta-boxes.php:1018 inc/meta-boxes.php:1083
+msgid "Custom CSS class"
+msgstr "Tuỳ chỉnh lớp css"
+
+#: inc/meta-boxes.php:949 inc/meta-boxes.php:958 inc/options-config.php:1321
+msgid "Header Customize Right"
+msgstr "Tùy chỉnh tiêu đề bên phải"
+
+#: inc/meta-boxes.php:961
+msgid "Select element for header customize right. Drag to change element order"
+msgstr "Lựa chọn các thành phần cho tùy chỉnh tiêu đề bên phải. Kéo chuột để thay đổi thứ tự hiển thị"
+
+#: inc/meta-boxes.php:994
+msgid "Custom text content right"
+msgstr "Tuỳ chỉnh nội dung văn bản bên phải"
+
+#: inc/meta-boxes.php:1028 inc/meta-boxes.php:1034 inc/options-config.php:1393
+msgid "Header Customize Navigation"
+msgstr "Tùy chỉnh khu vực chứa menu trên tiêu đề"
+
+#: inc/meta-boxes.php:1037
+msgid "Select element for header customize navigation. Drag to change element order"
+msgstr "Lựa chọn các thành phần để hiển thị. Kéo chuột để thay đổi thứ tự hiển thị"
+
+#: inc/meta-boxes.php:1063
+msgid "Custom text content"
+msgstr "Tùy chỉnh nội dung văn bản"
+
+#: inc/meta-boxes.php:1098 inc/meta-boxes.php:2075
+msgid "Menu"
+msgstr "Trình đơn"
+
+#: inc/meta-boxes.php:1107
+msgid "Page menu"
+msgstr "Menu trang"
+
+#: inc/meta-boxes.php:1112 inc/meta-boxes.php:1124
+msgid "Select Menu"
+msgstr "Chọn menu"
+
+#: inc/meta-boxes.php:1115
+msgid "Optionally you can choose to override the menu that is used on the page"
+msgstr "Tùy chọn này bạn có thể chọn để ghi đè menu được sử dụng trên trang"
+
+#: inc/meta-boxes.php:1119
+msgid "Page menu mobile"
+msgstr "Menu trang trên điện thoại di động"
+
+#: inc/meta-boxes.php:1127
+msgid "Optionally you can choose to override the menu mobile that is used on the page"
+msgstr "Tùy chọn bạn có thể chọn để ghi đè menu được sử dụng trên trang khi hiển thị trên điện thoại di động"
+
+#: inc/meta-boxes.php:1131 inc/meta-boxes.php:2084
+msgid "Is One Page"
+msgstr "Là môt trang đơn"
+
+#: inc/meta-boxes.php:1139 inc/meta-boxes.php:2092
+msgid "Set page style is One Page"
+msgstr "Thiết lập là trang giới thiệu duy nhất"
+
+#: inc/meta-boxes.php:1151 inc/meta-boxes.php:1773 inc/options-config.php:1473 inc/options-config.php:2066
+msgid "Footer"
+msgstr "Chân trang"
+
+#: inc/meta-boxes.php:1155
+msgid "Footer Custom"
+msgstr "Tùy chỉnh chân trang"
+
+#: inc/meta-boxes.php:1165
+msgid "Set Custom Footer"
+msgstr "Thiết lập tùy chỉnh chân trang"
+
+#: inc/meta-boxes.php:1167 inc/options-config.php:1482
+msgid "Select one to apply to the page footer"
+msgstr "Chọn để áp dụng cho chân trang"
+
+#: inc/meta-boxes.php:1170 inc/options-config.php:1494
+msgid "Show/Hide Footer"
+msgstr "Hiển thị/ ẩn chân trang"
+
+#: inc/meta-boxes.php:1178
+msgid "Show/hide footer"
+msgstr "Hiển thị/ẩn chân trang"
+
+#: inc/meta-boxes.php:1184
+msgid "General Settings"
+msgstr "Cài đặt chung"
+
+#: inc/meta-boxes.php:1195 inc/options-config.php:1513
+msgid "Footer Container Layout"
+msgstr "Bố trí vùng chân trang"
+
+#: inc/meta-boxes.php:1204
+msgid "Select Footer Wrapper Layout"
+msgstr "Chọn Bố cục cho chân trang"
+
+#: inc/meta-boxes.php:1207 inc/options-config.php:1526
+msgid "Footer Parallax"
+msgstr ""
+
+#: inc/meta-boxes.php:1215 inc/options-config.php:1527
+msgid "Enable Footer Parallax"
+msgstr "Phần chân trang sẽ được ghim lại phía dưới cùng ngay cả khi bạn cuộn trang web"
+
+#: inc/meta-boxes.php:1220
+msgid "Turn on this option if you want to enable custom background image of footer"
+msgstr "Bật tùy chọn này nếu bạn muốn cho phép tùy chỉnh hình nền của footer"
+
+#: inc/meta-boxes.php:1228
+msgid "Set footer background image"
+msgstr "Thiết lập ảnh nền cho footer"
+
+#: inc/meta-boxes.php:1235 inc/options-config.php:1547
+msgid "Footer Image apply for"
+msgstr "Chọn hình ảnh để áp dụng cho chân trang"
+
+#: inc/meta-boxes.php:1240 inc/options-config.php:1551
+msgid "Footer Wrapper"
+msgstr "Phần bao ngoài chân trang"
+
+#: inc/meta-boxes.php:1241 inc/options-config.php:1552 inc/options-config.php:1571
+msgid "Main Footer"
+msgstr "Phần chính của chân trang"
+
+#: inc/meta-boxes.php:1243 inc/options-config.php:1548
+msgid "Select region apply for footer image"
+msgstr "Chọn khu vực áp dụng đối với hình ảnh footer"
+
+#: inc/meta-boxes.php:1249 inc/options-config.php:1560
+msgid "Css class"
+msgstr "Lớp CSS"
+
+#: inc/meta-boxes.php:1258
+msgid "Above Footer Settings"
+msgstr "Cài đặt ở phía trên Chân trang"
+
+#: inc/meta-boxes.php:1267 inc/options-config.php:1581
+msgid "Above Footer"
+msgstr "Phía trên của chân trang"
+
+#: inc/meta-boxes.php:1277 inc/options-config.php:1589
+msgid "Set Above Footer"
+msgstr "Thiết lập phía trên của chân trang"
+
+#: inc/meta-boxes.php:1286
+msgid "Main Footer Settings"
+msgstr "Thiết lập Chân trang chính"
+
+#: inc/meta-boxes.php:1311
+msgid "Select Footer Layout (Not set to default)."
+msgstr "Chọn bố trí Chân trang (không phải là thiết lập mặc định)."
+
+#: inc/meta-boxes.php:1318 inc/options-config.php:1625
+msgid "Sidebar 1"
+msgstr "Thanh bên 1"
+
+#: inc/meta-boxes.php:1333 inc/options-config.php:1638
+msgid "Sidebar 2"
+msgstr "Thanh bên 2"
+
+#: inc/meta-boxes.php:1348 inc/options-config.php:1654
+msgid "Sidebar 3"
+msgstr "Thanh bên 3"
+
+#: inc/meta-boxes.php:1363 inc/options-config.php:1670
+msgid "Sidebar 4"
+msgstr "Thanh bên 4"
+
+#: inc/meta-boxes.php:1378 inc/options-config.php:1685
+msgid "Collapse footer on mobile device"
+msgstr "Thu gọn chân trang"
+
+#: inc/meta-boxes.php:1386 inc/options-config.php:1686
+msgid "Enable collapse footer"
+msgstr "Cho phép thu gọn chân trang trên thiết bị di động"
+
+#: inc/meta-boxes.php:1393
+msgid "Footer Border Top"
+msgstr "Đường viền phía trên của Chân trang"
+
+#: inc/meta-boxes.php:1409
+msgid "Footer padding"
+msgstr "Khoảng cách lề cho Chân trang"
+
+#: inc/meta-boxes.php:1410
+msgid "Footer padding top/bottom. Do not include units (empty to set default)"
+msgstr "Khoảng cách lề trên/dưới cho Chân trang. Không bao gồm đơn vị (thiết lập mặc định để trống)"
+
+#: inc/meta-boxes.php:1428 inc/options-config.php:1731
+msgid "Bottom Bar Settings"
+msgstr "Thiết lập thanh dưới cùng"
+
+#: inc/meta-boxes.php:1436 inc/options-config.php:1737
+msgid "Show/Hide Bottom Bar"
+msgstr "Hiển thị/ẩn thanh dưới cùng"
+
+#: inc/meta-boxes.php:1444
+msgid "Turn ON/OFF Bottom Bar."
+msgstr "Bật/Tắt thanh dưới cùng."
+
+#: inc/meta-boxes.php:1450
+msgid "Bottom Bar Layout"
+msgstr "Giao diện thanh dưới cùng"
+
+#: inc/meta-boxes.php:1461
+msgid "Bottom bar layout."
+msgstr "Giao diện thanh dưới cùng."
+
+#: inc/meta-boxes.php:1469
+msgid "Bottom Bar Left Sidebar"
+msgstr "Thanh bên trái của thanh dưới cùng"
+
+#: inc/meta-boxes.php:1483
+msgid "Bottom Bar Right Sidebar"
+msgstr "Thanh bên phải của thanh dưới cùng"
+
+#: inc/meta-boxes.php:1497
+msgid "Bottom Bar Border Top"
+msgstr "Đường viền phía trên của thanh dưới cùng"
+
+#: inc/meta-boxes.php:1513
+msgid "Bottom bar padding"
+msgstr "Khoảng cách lề cho thanh dưới cùng"
+
+#: inc/meta-boxes.php:1514
+msgid "Set bottom bar padding top/bottom. Do not include units (empty to set default)"
+msgstr "Khoảng cách lề trên/dưới cho thanh dưới cùng. Không bao gồm đơn vị (thiết lập mặc định để trống)"
+
+#: inc/meta-boxes.php:1538 shortcodes/button/config.php:41
+msgid "Color"
+msgstr "Màu sắc"
+
+#: inc/meta-boxes.php:1547
+msgid "Custom Color General"
+msgstr "Tùy chỉnh màu sắc chung"
+
+#: inc/meta-boxes.php:1557
+msgid "Accent color"
+msgstr "Màu sắc chính"
+
+#: inc/meta-boxes.php:1565
+msgid "Foreground Accent color"
+msgstr "Màu phụ"
+
+#: inc/meta-boxes.php:1573
+msgid "Text color"
+msgstr "Màu chữ văn bản"
+
+#: inc/meta-boxes.php:1581
+msgid "Border color"
+msgstr "Màu sắc đường viền"
+
+#: inc/meta-boxes.php:1589
+msgid "Heading color"
+msgstr "Màu chữ Heading"
+
+#: inc/meta-boxes.php:1601 inc/options-config.php:955 inc/options-config.php:1884
+msgid "Top Drawer"
+msgstr "Ngăn kéo phía trên"
+
+#: inc/meta-boxes.php:1606
+msgid "Custom Color Top Drawer"
+msgstr "Tùy chỉnh màu sắc cho Top Drawer"
+
+#: inc/meta-boxes.php:1616 inc/options-config.php:1889
+msgid "Top drawer background color"
+msgstr "Màu nền của Top drawer"
+
+#: inc/meta-boxes.php:1624 inc/options-config.php:1898
+msgid "Top drawer text color"
+msgstr "Màu nền chữ trong Top drawer"
+
+#: inc/meta-boxes.php:1641
+msgid "Custom Color Header"
+msgstr "Tùy chỉnh màu sắc cho tiêu đề"
+
+#: inc/meta-boxes.php:1651 inc/options-config.php:1915 inc/options-config.php:2038
+msgid "Header background color"
+msgstr "Màu nền cho tiêu đề"
+
+#: inc/meta-boxes.php:1659 inc/options-config.php:1923 inc/options-config.php:2046
+msgid "Header text color"
+msgstr "Màu chữ trong tiêu đề"
+
+#: inc/meta-boxes.php:1667 inc/options-config.php:1931
+msgid "Header border color"
+msgstr "Màu sắc đường viền tiêu đề"
+
+#: inc/meta-boxes.php:1679 inc/options-config.php:1025 inc/options-config.php:1943
+msgid "Top Bar"
+msgstr "Phần đầu trang"
+
+#: inc/meta-boxes.php:1690
+msgid "Custom Color Top Bar"
+msgstr "Tùy chỉnh màu sắc thanh trên cùng"
+
+#: inc/meta-boxes.php:1700 inc/options-config.php:1948 inc/options-config.php:2014
+msgid "Top bar background color"
+msgstr "Màu nền cho thanh trên cùng"
+
+#: inc/meta-boxes.php:1708 inc/options-config.php:1956 inc/options-config.php:2022
+msgid "Top bar text color"
+msgstr "Màu chữ trong thanh trên cùng"
+
+#: inc/meta-boxes.php:1716 inc/options-config.php:1964
+msgid "Top bar border color"
+msgstr "Màu đường viền cho thanh trên cùng"
+
+#: inc/meta-boxes.php:1728 inc/options-config.php:741 inc/options-config.php:1976 inc/options-functions.php:105
+#: shortcodes/blog/config.php:41
+msgid "Navigation"
+msgstr "Phân trang"
+
+#: inc/meta-boxes.php:1735
+msgid "Custom Color Navigation"
+msgstr "Tùy chỉnh màu của sphân trang"
+
+#: inc/meta-boxes.php:1745 inc/options-config.php:1981
+msgid "Navigation background color"
+msgstr "Màu nền cho phân trang"
+
+#: inc/meta-boxes.php:1753 inc/options-config.php:1989
+msgid "Navigation text color"
+msgstr "Màu chữ văn bản trong phân trang"
+
+#: inc/meta-boxes.php:1761 inc/options-config.php:1997
+msgid "Navigation text hover color"
+msgstr "Màu chữ văn bản trong phân trang khi di chuột vào"
+
+#: inc/meta-boxes.php:1783
+msgid "Custom Color Footer"
+msgstr "Tùy chỉnh màu săc cho Chân trang"
+
+#: inc/meta-boxes.php:1793 inc/options-config.php:2071
+msgid "Footer background color"
+msgstr "Màu nền cho chân trang"
+
+#: inc/meta-boxes.php:1801 inc/options-config.php:2079
+msgid "Footer text color"
+msgstr "Màu chữ trong chân trang"
+
+#: inc/meta-boxes.php:1809 inc/options-config.php:2087
+msgid "Footer widget title color"
+msgstr "Màu chữ tiêu đề trong chân trang"
+
+#: inc/meta-boxes.php:1817 inc/options-config.php:2095
+msgid "Footer border color"
+msgstr "Màu sắc đường viền của chân trang"
+
+#: inc/meta-boxes.php:1829 inc/options-config.php:2106
+msgid "Bottom Bar"
+msgstr "Thanh dưới cùng"
+
+#: inc/meta-boxes.php:1834
+msgid "Custom Color Bottom Bar"
+msgstr "Tùy chỉnh màu cho thanh dưới cùng"
+
+#: inc/meta-boxes.php:1844 inc/options-config.php:2111
+msgid "Bottom bar background color"
+msgstr "Màu nền cho thanh dưới cùng"
+
+#: inc/meta-boxes.php:1852 inc/options-config.php:2119
+msgid "Bottom bar text color"
+msgstr "Màu chữ trong thanh dưới cùng"
+
+#: inc/meta-boxes.php:1860 inc/options-config.php:2127
+msgid "Bottom bar border color"
+msgstr "Màu đường viền của thanh dưới cùng"
+
+#: inc/meta-boxes.php:1878
+msgid "Page Settings"
+msgstr "Cài đặt trang"
+
+#: inc/meta-boxes.php:1891 inc/post-type.php:10 inc/post-type.php:11
+msgid "Preset"
+msgstr "Cài đặt sẵn"
+
+#: inc/meta-boxes.php:1901
+msgid "Select Preset"
+msgstr "Lựa chọn cài đặt sẵn"
+
+#: inc/meta-boxes.php:1903
+msgid "Optionally you can choose to override the setting that is used on the page"
+msgstr "Tùy chọn bạn có thể chọn để ghi đè lên các thiết lập được sử dụng trên trang"
+
+#: inc/meta-boxes.php:1906
+msgid "Custom Css Class"
+msgstr "Tuỳ chỉnh lớp css"
+
+#: inc/meta-boxes.php:1910
+msgid "Enter custom class for this page"
+msgstr "Nhập vào lớp tùy chỉnh CSS cho Trang này"
+
+#: inc/meta-boxes.php:1937
+msgid "Remove Content Padding"
+msgstr "Xóa khoảng cách lề cho phần nội dung"
+
+#: inc/meta-boxes.php:1954
+msgid "Page title"
+msgstr "Tiêu đề trang"
+
+#: inc/meta-boxes.php:1958
+msgid "Show/Hide Page Title"
+msgstr "Hiện/Ẩn tiêu đề trang"
+
+#: inc/meta-boxes.php:1983 inc/options-config.php:2672
+msgid "Custom Page Title"
+msgstr "Tùy chỉnh tiêu đề"
+
+#: inc/meta-boxes.php:1991
+msgid "Custom Page Title?"
+msgstr "Tuỳ chỉnh tiêu đề trang?"
+
+#: inc/meta-boxes.php:2011 inc/options-config.php:2877
+msgid "Page Sub Title"
+msgstr "Tiêu đề phụ"
+
+#: inc/meta-boxes.php:2024
+msgid "Custom Page Title Background"
+msgstr "Tùy chỉnh nền cho tiêu đề trang"
+
+#: inc/meta-boxes.php:2032
+msgid "Custom Page Title Background?"
+msgstr "Tùy chỉnh nền cho tiêu đề trang?"
+
+#: inc/meta-boxes.php:2043
+msgid "Page Title Background Image"
+msgstr "Hình ảnh nền cho tiêu đề trang"
+
+#: inc/meta-boxes.php:2044
+msgid "Upload custom page title background image"
+msgstr "Tải lên hình ảnh tùy chỉnh cho tiêu đề trang"
+
+#: inc/meta-boxes.php:2053
+msgid "Custom Page Title Background Overlay?"
+msgstr "Tuỳ chỉnh lớp phủ cho tiêu đề trang?"
+
+#: inc/options-config.php:145
+msgid "Scroll Options"
+msgstr "Cuộn trang"
+
+#: inc/options-config.php:151
+msgid "Smooth Scroll"
+msgstr "Hiệu ứng mượt khi cuộn trang"
+
+#: inc/options-config.php:152
+msgid "Enable/Disable Smooth Scroll"
+msgstr "Cho phép/vô hiệu hóa hiệu ứng mượt khi cuộn trang"
+
+#: inc/options-config.php:161
+msgid "Custom Scroll"
+msgstr "Tùy chỉnh cuộn trang"
+
+#: inc/options-config.php:162
+msgid "Enable/Disable Custom Scroll"
+msgstr "Cho phép/vô hiệu hóa tùy chỉnh hiệu ứng mượt khi cuộn trang"
+
+#: inc/options-config.php:171
+msgid "Custom Scroll Width"
+msgstr "Tùy chỉnh độ rộng cuộn"
+
+#: inc/options-config.php:172
+msgid "This must be numeric (no px) or empty."
+msgstr "Đây phải là số (không có px) hoặc trống."
+
+#: inc/options-config.php:181
+msgid "Custom Scroll Color"
+msgstr "Tùy chỉnh màu cuộn"
+
+#: inc/options-config.php:182
+msgid "Set Custom Scroll Color"
+msgstr "Thiết lập tùy chỉnh màu cho cuộn"
+
+#: inc/options-config.php:191
+msgid "Custom Scroll Thumb Color"
+msgstr "Tùy chỉnh màu cuộn"
+
+#: inc/options-config.php:192
+msgid "Set Custom Scroll Thumb Color"
+msgstr "Thiết lập tùy chỉnh màu cho cuộn"
+
+#: inc/options-config.php:202
+msgid "Search Popup"
+msgstr "Cửa sổ tìm kiếm"
+
+#: inc/options-config.php:208
+msgid "Search Popup Type"
+msgstr "Loại cửa sổ tìm kiếm"
+
+#: inc/options-config.php:211
+msgid "Ajax"
+msgstr "Ajax"
+
+#: inc/options-config.php:218
+msgid "Post Type For Ajax Search"
+msgstr "Loại bài đăng cho tìm kiếm Ajax"
+
+#: inc/options-config.php:231
+msgid "Amount Of Search Result"
+msgstr "Số lượng kết quả tìm kiếm"
+
+#: inc/options-config.php:232
+msgid "This must be numeric (no px) or empty (default: 8)."
+msgstr "Đây phải là số (không có px) hoặc trống(mặc định:8)."
+
+#: inc/options-config.php:240
+msgid "Other Options"
+msgstr "Các tùy chọn khác"
+
+#: inc/options-config.php:246
+msgid "Back To Top"
+msgstr "Chức năng trở về đầu trang"
+
+#: inc/options-config.php:247
+msgid "Enable/Disable Back to top button"
+msgstr "Cho phép/ Vô hiệu hóa nút lên đầu trang"
+
+#: inc/options-config.php:256
+msgid "Enable RTL mode"
+msgstr "Kích hoạt chế độ RTL"
+
+#: inc/options-config.php:257
+msgid "Enable/Disable RTL mode"
+msgstr "Cho phép/ Vô hiệu chế độ RTL"
+
+#: inc/options-config.php:266
+msgid "Enable Social Meta Tags"
+msgstr "Cho phép các biểu tượng chia sẻ xã hội"
+
+#: inc/options-config.php:267
+msgid "Enable the social meta head tag output."
+msgstr "Cho phép đầu ra từ khóa biểu tượng xã hội."
+
+#: inc/options-config.php:276
+msgid "Menu transition"
+msgstr "Menu chuyển tiếp"
+
+#: inc/options-config.php:277
+msgid "Select menu transition"
+msgstr "Lựa chọn menu chuyển tiếp"
+
+#: inc/options-config.php:298
+msgid "Maintenance"
+msgstr "Bảo trì website"
+
+#: inc/options-config.php:305
+msgid "Maintenance Mode"
+msgstr "Chế độ bảo trì"
+
+#: inc/options-config.php:311
+msgid "Maintenance Mode Page"
+msgstr "Duy trì chế độ trang bảo trì"
+
+#: inc/options-config.php:312
+msgid ""
+"Select the page that is your maintenance page, if you would like to show a custom page instead of the standard "
+"WordPress message. You should use the Holding Page template for this page."
+msgstr ""
+"Chọn trang là đại diện khi website của bạn đang bảo trì, nếu bạn muốn hiển thị một trang tùy chỉnh thay vì tin "
+"nhắn WordPress tiêu chuẩn. Bạn nên sử dụng các mẫu trang đang có."
+
+#: inc/options-config.php:315
+msgid "Select Page"
+msgstr "Chọn trang"
+
+#: inc/options-config.php:332
+msgid "Performance"
+msgstr "Hiệu suất"
+
+#: inc/options-config.php:339
+msgid "Enable Mini File JS"
+msgstr "Cho phép Mini File JS"
+
+#: inc/options-config.php:340
+msgid "Turn On this option if you want to use mini file js"
+msgstr "Bật tùy chọn này nếu bạn muốn sử dụng mini file js"
+
+#: inc/options-config.php:347
+msgid "Enable Mini File CSS"
+msgstr "Cho phép Mini File CSS"
+
+#: inc/options-config.php:348
+msgid "Turn On this option if you want to use mini file css"
+msgstr "Bật tùy chọn này nếu bạn muốn sử dụng mini file css"
+
+#: inc/options-config.php:361 inc/options-config.php:368
+msgid "Page Transition"
+msgstr "Hiệu ứng chuyển trang"
+
+#: inc/options-config.php:369
+msgid "Turn On this option if you want to enable page transition"
+msgstr "Bật tùy chọn này nếu bạn muốn cho phép hiệu ứng khi chuyển tiếp trang"
+
+#: inc/options-config.php:377
+msgid "Loading Animation"
+msgstr "Hiệu ứng khi tải trang"
+
+#: inc/options-config.php:378
+msgid "Select type of pre load animation"
+msgstr "Chọn loại hiệu ứng khi tải trang"
+
+#: inc/options-config.php:379
+msgid "Select Loading"
+msgstr "Chọn tải"
+
+#: inc/options-config.php:386
+msgid "Logo Loading"
+msgstr "Đang tải biểu tượng"
+
+#: inc/options-config.php:397
+msgid "Custom Favicon"
+msgstr "Tùy chỉnh Favicon"
+
+#: inc/options-config.php:404
+msgid "Custom favicon"
+msgstr "Tùy chỉnh favicon"
+
+#: inc/options-config.php:405
+msgid "Upload a 16px x 16px Png/Gif/ico image that will represent your website favicon"
+msgstr "Tải lên một hình ảnh Png/Gif/ico 16px x 16px sẽ đại diện cho favicon trang web của bạn"
+
+#: inc/options-config.php:410
+msgid "Custom iOS Bookmark Title"
+msgstr "Tùy chỉnh Tiêu đề cho iOS Bookmark"
+
+#: inc/options-config.php:411
+msgid "Enter a custom title for your site for when it is added as an iOS bookmark."
+msgstr "Nhập tiêu đề tùy chỉnh cho trang web của bạn khi nó được thêm vào như một bookmark iOS."
+
+#: inc/options-config.php:417
+msgid "Custom iOS 57x57"
+msgstr "Tùy chỉnh iOS 57 x 57"
+
+#: inc/options-config.php:418
+msgid "Upload a 57px x 57px Png image that will be your website bookmark on non-retina iOS devices."
+msgstr "Tải lên một hình ảnh Png kích thước 57px x 57px sẽ đánh dấu trang web của bạn trên thiết bị iOS retina."
+
+#: inc/options-config.php:423
+msgid "Custom iOS 72x72"
+msgstr "Tùy chỉnh iOS 72 x 72"
+
+#: inc/options-config.php:424
+msgid "Upload a 72px x 72px Png image that will be your website bookmark on non-retina iOS devices."
+msgstr "Tải lên một hình ảnh Png kích thước 72px x 72px sẽ đánh dấu trang web của bạn trên thiết bị iOS retina."
+
+#: inc/options-config.php:429
+msgid "Custom iOS 114x114"
+msgstr "Tùy chỉnh iOS 114 x 114"
+
+#: inc/options-config.php:430
+msgid "Upload a 114px x 114px Png image that will be your website bookmark on retina iOS devices."
+msgstr "Tải lên một hình ảnh Png kích thước 114px x 114px sẽ đánh dấu trang web của bạn trên thiết bị iOS retina ."
+
+#: inc/options-config.php:435
+msgid "Custom iOS 144x144"
+msgstr "Tùy chỉnh iOS 114 x 114"
+
+#: inc/options-config.php:436
+msgid "Upload a 144px x 144px Png image that will be your website bookmark on retina iOS devices."
+msgstr "Tải lên một hình ảnh Png kích thước 144px x 144px sẽ đánh dấu trang web của bạn trên thiết bị iOS retina ."
+
+#: inc/options-config.php:446
+msgid "404 Page"
+msgstr "Trang 404"
+
+#: inc/options-config.php:453 shortcodes/heading/config.php:23
+msgid "Sub Title"
+msgstr "Tiêu đề phụ"
+
+#: inc/options-config.php:466
+msgid "404 Background"
+msgstr "Hình ảnh nền trang 404"
+
+#: inc/options-config.php:473
+msgid "Return Text Link"
+msgstr "Quay trở lại văn bản liên kết"
+
+#: inc/options-config.php:479
+msgid "Return Link"
+msgstr "Quay trở lại liên kết"
+
+#: inc/options-config.php:480
+msgid "If link null, link default is home page"
+msgstr "Nếu liên kết trống, liên kết mặc định là trang chủ"
+
+#: inc/options-config.php:509
+msgid "Layout Options"
+msgstr "Giao diện trang web"
+
+#: inc/options-config.php:516
+msgid "Select the layout style"
+msgstr "Chọn phong cách bố trí"
+
+#: inc/options-config.php:524
+msgid "Body Background Mode"
+msgstr "Chế độ nền cơ thể"
+
+#: inc/options-config.php:525
+msgid "Chose Background Mode"
+msgstr "Chọn chế độ nền cơ thể"
+
+#: inc/options-config.php:528
+msgid "Background"
+msgstr "Phông nền"
+
+#: inc/options-config.php:529
+msgid "Pattern"
+msgstr "Mẫu"
+
+#: inc/options-config.php:538
+msgid "Body Background"
+msgstr "Nền cục bộ"
+
+#: inc/options-config.php:539
+msgid "Body background (Apply for Boxed layout style)."
+msgstr "Cơ thể nền (áp dụng cho bố trí phong cách Box)."
+
+#: inc/options-config.php:548
+msgid "Background Pattern"
+msgstr "Mẫu nền"
+
+#: inc/options-config.php:549
+msgid "Body background pattern(Apply for Boxed layout style)"
+msgstr "Cơ thể nền mẫu (áp dụng cho bố trí phong cách Box)"
+
+#: inc/options-config.php:573
+msgid "Main Content"
+msgstr "Phần chứa nội dung chính của trang web"
+
+#: inc/options-config.php:589
+msgid "Sidebar Sticky"
+msgstr ""
+
+#: inc/options-config.php:590
+msgid "Turn On this option if you want to enable sidebar sticky"
+msgstr "Bật tùy chọn này nếu bạn muốn cho phép sidebar sticky"
+
+#: inc/options-config.php:601 inc/options-config.php:1029 shortcodes/agent-info/config.php:35
+msgid "Mobile"
+msgstr "Hiển thị trên di động"
+
+#: inc/options-config.php:662
+msgid "Blog Setting"
+msgstr "Trang Blog"
+
+#: inc/options-config.php:669
+msgid "Blog Options"
+msgstr "Thiết lập hiển thị trên trang blog"
+
+#: inc/options-config.php:674
+msgid "Post Layout"
+msgstr "Giao diện bài đăng"
+
+#: inc/options-config.php:684
+msgid "Post Columns"
+msgstr "Cột bài đăng"
+
+#: inc/options-config.php:695 shortcodes/blog/config.php:37
+msgid "Post Paging"
+msgstr "Phân trang bài đăng"
+
+#: inc/options-config.php:707
+msgid "Single Blog Options"
+msgstr "Thiết lập hiển thị trên blog chi tiết"
+
+#: inc/options-config.php:712
+msgid "Post Title"
+msgstr "Tiêu đề bài đăng"
+
+#: inc/options-config.php:713
+msgid "Turn Off this option if you want to hide title on single blog"
+msgstr "Tắt tùy chọn này nếu bạn muốn ẩn các tiêu đề trên blog chi tiết"
+
+#: inc/options-config.php:721
+msgid "Tags"
+msgstr "Từ khóa"
+
+#: inc/options-config.php:722
+msgid "Turn Off this option if you want to hide tags on single blog"
+msgstr "Tắt tùy chọn này nếu bạn muốn ẩn các từ khóa trên blog chi tiết"
+
+#: inc/options-config.php:731
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: inc/options-config.php:732
+msgid "Turn Off this option if you want to hide share on single blog"
+msgstr "Tắt tùy chọn này nếu bạn muốn ẩn các chia sẻ xã hội trên blog chi tiết"
+
+#: inc/options-config.php:742
+msgid "Turn Off this option if you want to hide navigation on single blog"
+msgstr "Tắt tùy chọn này nếu bạn muốn ẩn phân trang trên blog chi tiết"
+
+#: inc/options-config.php:750
+msgid "Author Info"
+msgstr "Thông tin tác giả"
+
+#: inc/options-config.php:751
+msgid "Turn Off this option if you want to hide author info area on single blog"
+msgstr "Tắt tùy chọn này nếu bạn muốn ẩn thông tin tác giả trên khu vực blog chi tiết"
+
+#: inc/options-config.php:760
+msgid "Related Post"
+msgstr "Bài liên quan"
+
+#: inc/options-config.php:761
+msgid "Turn Off this option if you want to hide related post area on single blog"
+msgstr "Tắt tùy chọn này nếu bạn muốn ẩn các bài đăng liên quan trên khu vực trên blog chi tiết"
+
+#: inc/options-config.php:770
+msgid "Related Post Total"
+msgstr "Tổng số bài viết liên quan"
+
+#: inc/options-config.php:771
+msgid "Total record of Related Post. (Input Number Only)"
+msgstr "Tất cả hồ sơ của bài đăng có liên quan. (Chỉ nhập số)"
+
+#: inc/options-config.php:780
+msgid "Related Post Columns"
+msgstr "Cột bài đăng có liên quan"
+
+#: inc/options-config.php:790
+msgid "Related Post Condition"
+msgstr "Điều kiện đăng bài có liên quan"
+
+#: inc/options-config.php:792
+msgid "Same Category"
+msgstr "Cùng thể loại"
+
+#: inc/options-config.php:816
+msgid "Logo Setting"
+msgstr "Cài đặt logo"
+
+#: inc/options-config.php:822
+msgid "Logo Desktop"
+msgstr "Logo hiển thị trên máy tính"
+
+#: inc/options-config.php:829 inc/options-config.php:900
+msgid "Upload your logo here."
+msgstr "Tải lên logo của bạn ở đây."
+
+#: inc/options-config.php:837
+msgid "Logo Retina"
+msgstr "Logo Retina"
+
+#: inc/options-config.php:838 inc/options-config.php:909
+msgid "Upload your logo retina here."
+msgstr "Tải lên logo Retina của bạn ở đây."
+
+#: inc/options-config.php:847
+msgid "Upload a sticky version of your logo here"
+msgstr "Tải lên một phiên bản logo sticky của bạn ở đây"
+
+#: inc/options-config.php:856
+msgid "Upload a sticky version of your logo retina here"
+msgstr "Tải lên một phiên bản sticky của logo retina của bạn ở đây"
+
+#: inc/options-config.php:863
+msgid "Logo Max Height"
+msgstr "Chiều cao tối đa của logo"
+
+#: inc/options-config.php:864
+msgid "You can set a max height for the logo here"
+msgstr "Bạn có thể đặt một chiều cao tối đa cho Logo ở đây"
+
+#: inc/options-config.php:877 inc/options-config.php:930
+msgid "Logo Top/Bottom Padding"
+msgstr "Thiết lập khoảng cách lề trên/dưới"
+
+#: inc/options-config.php:878 inc/options-config.php:931 inc/options-config.php:1001 inc/options-config.php:1125
+#: inc/options-config.php:1791
+msgid "This must be numeric (no px). Leave balnk for default."
+msgstr "Điều này phải là số (không có px).Mặc định là để trống."
+
+#: inc/options-config.php:879 inc/options-config.php:932
+msgid "If you would like to override the default logo top/bottom padding, then you can do so here."
+msgstr "Nếu bạn muốn ghi đè khoảng cách lề trên/dưới đã mặc định cho logo, nhập giá trị ở đây."
+
+#: inc/options-config.php:893
+msgid "Logo Mobile"
+msgstr "Logo hiển thị trên điện thoại di động"
+
+#: inc/options-config.php:917
+msgid "You can set a max height for the logo mobile here"
+msgstr "Bạn có thể đặt một chiều cao tối đa cho Logo trên thiết bị di động ở đây"
+
+#: inc/options-config.php:960
+msgid "Top Drawer Mode"
+msgstr ""
+
+#: inc/options-config.php:971
+msgid "Select top drawer wrapper layout"
+msgstr "Chọn bố trí bao quanh cho Top Draw"
+
+#: inc/options-config.php:985
+msgid "Show/Hide Top Drawer on mobile"
+msgstr "Hiện/ẩn ngăn kéo phía trên trên điện thoại di động"
+
+#: inc/options-config.php:1000 inc/options-config.php:2817 inc/options-functions.php:572
+#: inc/options-functions.php:590
+msgid "Top/Bottom Padding"
+msgstr "Nhập khoảng cách lề trên / dưới ở đây, nếu không nhập sẽ lấy giá trị mặc định"
+
+#: inc/options-config.php:1002
+msgid "If you would like to override the default top drawer top/bottom padding, then you can do so here."
+msgstr "Nếu bạn muốn ghi đè khoảng cách lề trên/dưới đã mặc định cho top drawer, nhập giá trị ở đây."
+
+#: inc/options-config.php:1028
+msgid "Desktop"
+msgstr "Hiển thị trên máy tính"
+
+#: inc/options-config.php:1050
+msgid "Header responsive breakpoint"
+msgstr "Tiêu đề đáp ứng breakpoint"
+
+#: inc/options-config.php:1051
+msgid "Set header responsive breakpoint"
+msgstr "Đặt tiêu đề đáp ứng breakpoint"
+
+#: inc/options-config.php:1054
+msgid "Medium Devices: < 992px"
+msgstr "Các thiết bị tầm trung: < 992px"
+
+#: inc/options-config.php:1055
+msgid "Tablet Portrait: < 768px"
+msgstr "Chân dung máy tính bảng: < 768px"
+
+#: inc/options-config.php:1080
+msgid "Header container layout"
+msgstr "Bố trí vùng chứa tiêu đề"
+
+#: inc/options-config.php:1091
+msgid "Enable/Disable Header Float."
+msgstr "Phần header sẽ được nổi lên trên các phần khác nếu tùy chọn này được bật."
+
+#: inc/options-config.php:1099
+msgid "Show/Hide Header Sticky"
+msgstr "Tiêu đề Sticky"
+
+#: inc/options-config.php:1100
+msgid "Show Hide header Sticky."
+msgstr "Khi bạn cuộn trang web - tiêu đề Sticky là phần sẽ được ghim lại phía trên cùng của trang."
+
+#: inc/options-config.php:1109
+msgid "Set header border bottom"
+msgstr "Thiết lập đường viền bên dưới cho tiêu đề"
+
+#: inc/options-config.php:1124
+msgid "Header Top/Bottom Padding"
+msgstr "Khoảng cách lề trên/dưới cho tiêu đề"
+
+#: inc/options-config.php:1126
+msgid "If you would like to override the default header top/bottom padding, then you can do so here."
+msgstr "Nếu bạn muốn ghi đè khoảng cách lề trên/dưới đã mặc định cho header, nhập giá trị ở đây."
+
+#: inc/options-config.php:1138
+msgid "Set header navigation height (px). Do not include unit. Empty to default"
+msgstr "Thiết lập chiều cao cho khu vực chứa menu. Không bao gồm đơn vị. Thiết lập mặc định để trống"
+
+#: inc/options-config.php:1169
+msgid "Select header mobile layout"
+msgstr "Chọn tiêu đề bố trí tiêu đề cho điện thoại di động"
+
+#: inc/options-config.php:1183
+msgid "Set menu drop type for mobile header"
+msgstr "Thiết lập loại menu thả xuống cho tiêu đề điện thoại di động"
+
+#: inc/options-config.php:1194
+msgid "Stick Mobile Header"
+msgstr "Thanh tiêu đề điện thoại di động"
+
+#: inc/options-config.php:1195
+msgid "Enable Stick Mobile Header."
+msgstr "Cho phép các thanh tiêu đề điện thoại di động."
+
+#: inc/options-config.php:1203
+msgid "Search Box"
+msgstr "Hộp tìm kiếm"
+
+#: inc/options-config.php:1204
+msgid "Enable Search Box."
+msgstr "Cho phép hộp tìm kiếm."
+
+#: inc/options-config.php:1212
+msgid "Login & Register"
+msgstr "Đăng nhập & Đăng ký"
+
+#: inc/options-config.php:1213
+msgid "Enable Login & Register"
+msgstr "Cho phép đăng nhập & đăng ký"
+
+#: inc/options-config.php:1259 inc/options-config.php:1330 inc/options-config.php:1401
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: inc/options-config.php:1270 inc/options-config.php:1341 inc/options-config.php:1412 inc/options-functions.php:348
+#: shortcodes/button/config.php:8
+msgid "Button"
+msgstr "Nút bấm"
+
+#: inc/options-config.php:1271 inc/options-config.php:1342 inc/options-config.php:1413 inc/options-functions.php:349
+msgid "Box"
+msgstr "Hộp"
+
+#: inc/options-config.php:1280 inc/options-config.php:1351
+msgid "Choose the sidebar for header right customize"
+msgstr "Chọn thanh bên để tùy chỉnhcho thanh hang đầu bên phải"
+
+#: inc/options-config.php:1291 inc/options-config.php:1362 inc/options-config.php:1433
+msgid "Custom Text Content"
+msgstr "Tùy chỉnh nội dung văn bản"
+
+#: inc/options-config.php:1292 inc/options-config.php:1363 inc/options-config.php:1434
+msgid "Add Content for Custom Text"
+msgstr "Thêm nội dung bạn muốn hiển thị"
+
+#: inc/options-config.php:1312 inc/options-config.php:1383 inc/options-config.php:1454
+msgid "Custom CSS Class"
+msgstr "Tuỳ chỉnh lớp css"
+
+#: inc/options-config.php:1313 inc/options-config.php:1384 inc/options-config.php:1455
+msgid "Add custom css class"
+msgstr "Tuỳ chỉnh lớp css"
+
+#: inc/options-config.php:1398
+msgid "Header customize navigation"
+msgstr "Tùy chỉnh khu vực chứa menu trên tiêu đề"
+
+#: inc/options-config.php:1399
+msgid "Organize how you want the layout to appear on the header navigation"
+msgstr "Bố trí bạn muốn xuất hiện ở khu vực chứa menu trên tiêu đề"
+
+#: inc/options-config.php:1423
+msgid "Choose the sidebar for header customize navigation"
+msgstr "Chọn thanh bên cho tiêu đề tùy chỉnh menu"
+
+#: inc/options-config.php:1481
+msgid "Select Custom Footer"
+msgstr "Chọn tùy chỉnh chân trang"
+
+#: inc/options-config.php:1514
+msgid "Select Footer Container Layout"
+msgstr "Chọn Bố cục cho chân trang"
+
+#: inc/options-config.php:1539
+msgid "Background image"
+msgstr "Hình nền"
+
+#: inc/options-config.php:1540
+msgid "Upload footer background image here"
+msgstr "Tải hình nền cho chân trang ở đây"
+
+#: inc/options-config.php:1588
+msgid "Select Above Footer"
+msgstr "Chọn chân trang phía trên"
+
+#: inc/options-config.php:1604
+msgid "Select the footer column layout."
+msgstr "Chọn bố trí cột cho chân trang."
+
+#: inc/options-config.php:1626
+msgid "Choose the default footer sidebar 1"
+msgstr "Chọn sidebar 1 để hiển thị trong phần chân trang"
+
+#: inc/options-config.php:1639
+msgid "Choose the default footer sidebar 2"
+msgstr "Chọn sidebar 2 để hiển thị trong phần chân trang"
+
+#: inc/options-config.php:1655
+msgid "Choose the default footer sidebar 3"
+msgstr "Chọn sidebar 3 để hiển thị trong phần chân trang"
+
+#: inc/options-config.php:1671
+msgid "Choose the default footer sidebar 4"
+msgstr "Chọn sidebar 4 để hiển thị trong phần chân trang"
+
+#: inc/options-config.php:1701
+msgid "Footer Top/Bottom Padding"
+msgstr "Khoảng cách lề trên/dưới cho chân trang"
+
+#: inc/options-config.php:1702
+msgid "This must be numeric (no px)"
+msgstr "Đây phải là số (không có px)"
+
+#: inc/options-config.php:1703
+msgid "If you would like to override the default footer top/bottom padding, then you can do so here."
+msgstr "Nếu bạn muốn ghi đè khoảng cách lề trên/dưới đã mặc định cho chân trang, nhập giá trị ở đây."
+
+#: inc/options-config.php:1715
+msgid "Footer border top"
+msgstr "Đường viền phía trên của chân trang"
+
+#: inc/options-config.php:1744
+msgid "Bottom bar Layout"
+msgstr "Giao diện thanh dưới cùng"
+
+#: inc/options-config.php:1745
+msgid "Select the bottom bar column layout."
+msgstr "Chọn bố trí cột cho thanh dưới cùng của chân trang."
+
+#: inc/options-config.php:1761
+msgid "Bottom Left Sidebar"
+msgstr "Thanh bên trái của thanh dưới cùng"
+
+#: inc/options-config.php:1762
+msgid "Choose the default bottom left sidebar"
+msgstr "Chọn thanh bên mặc định cho phía dưới bên trái"
+
+#: inc/options-config.php:1773
+msgid "Bottom Right Sidebar"
+msgstr "Thanh bên phải của thanh dưới cùng"
+
+#: inc/options-config.php:1774
+msgid "Choose the default bottom right sidebar"
+msgstr "Chọn thanh bên mặc định cho phía dưới bên phải"
+
+#: inc/options-config.php:1790
+msgid "Bottom Bar Top/Bottom Padding"
+msgstr "Khoảng cách lề trên/dưới cho thanh dưới cùng"
+
+#: inc/options-config.php:1792
+msgid "If you would like to override the default bottom bar top/bottom padding, then you can do so here."
+msgstr "Nếu bạn muốn ghi đè khoảng cách lề trên/dưới đã mặc định cho bottom bar, nhập giá trị ở đây."
+
+#: inc/options-config.php:1804
+msgid "Bottom bar border top"
+msgstr "Đường viền phía trên của thanh dưới cùng"
+
+#: inc/options-config.php:1828
+msgid "Theme Colors"
+msgstr "Thiết lập màu sắc"
+
+#: inc/options-config.php:1829 inc/options-config.php:2149
+msgid "If you change value in this section, you must \"Save & Generate CSS\""
+msgstr "Nếu bạn thay đổi các giá trị trong phần này, bạn phải \"Lưu & tạo CSS\""
+
+#: inc/options-config.php:1841
+msgid "Accent Color"
+msgstr "Màu nhấn mạnh"
+
+#: inc/options-config.php:1848
+msgid "Foreground Accent Color"
+msgstr "Màu phụ"
+
+#: inc/options-config.php:1865
+msgid "Border Color"
+msgstr "Màu đường viền"
+
+#: inc/options-config.php:1873
+msgid "Heading Color"
+msgstr "Màu tiêu đề"
+
+#: inc/options-config.php:2009
+msgid "Header Mobile Color"
+msgstr "Màu tiêu đề trên điện thoại di động"
+
+#: inc/options-config.php:2030
+msgid "Top bar border bottom color"
+msgstr "Màu đường viền phía dưới của thanh trên cùng"
+
+#: inc/options-config.php:2054
+msgid "Header border bottom color"
+msgstr "Đường viền bên dưới của tiêu đề"
+
+#: inc/options-config.php:2148
+msgid "Font Options"
+msgstr "Tùy chọn phông chữ"
+
+#: inc/options-config.php:2155
+msgid "Body Font"
+msgstr "Phông chữ phần thân website"
+
+#: inc/options-config.php:2156
+msgid "Specify the body font properties."
+msgstr "Xác định các thuộc tính font cho phần thân của website."
+
+#: inc/options-config.php:2168
+msgid "Secondary Font"
+msgstr "Phông chữ thứ hai"
+
+#: inc/options-config.php:2169
+msgid "Specify the Secondary font properties."
+msgstr "Xác định các thuộc tính phụ của phông."
+
+#: inc/options-config.php:2182
+msgid "H1 Font"
+msgstr "Font chữ H1"
+
+#: inc/options-config.php:2183
+msgid "Specify the H1 font properties."
+msgstr "Xác định các đặc tính font H1."
+
+#: inc/options-config.php:2195
+msgid "H2 Font"
+msgstr "Font chữ H2"
+
+#: inc/options-config.php:2196
+msgid "Specify the H2 font properties."
+msgstr "Xác định các đặc tính font H2."
+
+#: inc/options-config.php:2208
+msgid "H3 Font"
+msgstr "Font chữ H3"
+
+#: inc/options-config.php:2209
+msgid "Specify the H3 font properties."
+msgstr "Xác định các đặc tính font H3."
+
+#: inc/options-config.php:2221
+msgid "H4 Font"
+msgstr "Font chữ  H4"
+
+#: inc/options-config.php:2222
+msgid "Specify the H4 font properties."
+msgstr "Xác định các đặc tính font H4."
+
+#: inc/options-config.php:2234
+msgid "H5 Font"
+msgstr "Font chữ H5"
+
+#: inc/options-config.php:2235
+msgid "Specify the H5 font properties."
+msgstr "Xác định các đặc tính font H5."
+
+#: inc/options-config.php:2247
+msgid "H6 Font"
+msgstr "Font chữ H6"
+
+#: inc/options-config.php:2248
+msgid "Specify the H6 font properties."
+msgstr "Xác định các đặc tính font H6."
+
+#: inc/options-config.php:2285
+msgid "Blog Share Option"
+msgstr "Tùy chọn chia sẻ blog"
+
+#: inc/options-config.php:2288
+msgid "Social Share"
+msgstr "Chia sẻ xã hội"
+
+#: inc/options-config.php:2291
+msgid "Show the social sharing in single blog"
+msgstr "Hiển thị chia sẻ xã hội trong một blog"
+
+#: inc/options-config.php:2326
+msgid "Resources Options"
+msgstr "Tùy chọn tài nguyên"
+
+#: inc/options-config.php:2337
+msgid "CDN Bootstrap Script"
+msgstr "CDN Bootstrap Script"
+
+#: inc/options-config.php:2338
+msgid "Url CDN Bootstrap Script"
+msgstr "Url CDN Bootstrap Script"
+
+#: inc/options-config.php:2345
+msgid "CDN Bootstrap Stylesheet"
+msgstr "CDN Bootstrap Stylesheet"
+
+#: inc/options-config.php:2346
+msgid "Url CDN Bootstrap Stylesheet"
+msgstr "Url CDN Bootstrap Stylesheet"
+
+#: inc/options-config.php:2353
+msgid "CDN Font Awesome"
+msgstr ""
+
+#: inc/options-config.php:2354
+msgid "Url CDN Font Awesome"
+msgstr "Url CDN Font Awesome"
+
+#: inc/options-config.php:2373
+msgid "Custom CSS & Script"
+msgstr "Tuỳ chỉnh Css & Script"
+
+#: inc/options-config.php:2380
+msgid "Custom CSS"
+msgstr "Tuỳ chỉnh Css"
+
+#: inc/options-config.php:2381
+msgid "Add some CSS to your theme by adding it to this textarea. Please do not include any style tags."
+msgstr ""
+"Thêm một số CSS vào chủ đề của bạn bằng cách thêm nó vào vùng văn bản này. Xin vui lòng không bao gồm bất kỳ thẻ "
+"phong cách."
+
+#: inc/options-config.php:2392
+msgid "Custom JS"
+msgstr "Tùy chỉnh JS"
+
+#: inc/options-config.php:2393
+msgid ""
+"Add some custom JavaScript to your theme by adding it to this textarea. Please do not include any script tags."
+msgstr ""
+"Thêm một số JavaScript tùy chỉnh vào chủ đề của bạn bằng cách thêm nó vào vùng văn bản này. Xin vui lòng không bao "
+"gồm bất kỳ thẻ script nào."
+
+#: inc/options-config.php:2423
+msgid "List Properties Preset"
+msgstr "Chọn cài đặt sẵn cho trang danh sách bất động sản"
+
+#: inc/options-config.php:2424 inc/options-config.php:2437 inc/options-config.php:2460 inc/options-config.php:2473
+#: inc/options-config.php:2496 inc/options-config.php:2518 inc/options-config.php:2531 inc/options-config.php:2559
+#: inc/options-config.php:2572 inc/options-config.php:2596
+msgid "Select Preset..."
+msgstr "Lựa chọn cài đặt sẵn..."
+
+#: inc/options-config.php:2436
+msgid "Single Property Preset"
+msgstr "Chọn cài đặt sẵn cho trang bất động sản chi tiết"
+
+#: inc/options-config.php:2459
+msgid "List Agents Preset"
+msgstr "Chọn cài đặt sẵn cho trang danh sách nhà môi giới"
+
+#: inc/options-config.php:2472
+msgid "Single Agent Preset"
+msgstr "Chọn cài đặt sẵn cho trang chi tiết nhà môi giới"
+
+#: inc/options-config.php:2495
+msgid "Invoice Preset"
+msgstr "Chọn cài đặt sẵn cho trang hóa đơn"
+
+#: inc/options-config.php:2517 inc/options-functions.php:467
+msgid "List "
+msgstr "Danh sách "
+
+#: inc/options-config.php:2517
+msgid " Preset"
+msgstr " Cài đặt sẵn"
+
+#: inc/options-config.php:2530
+msgid " Single Preset"
+msgstr " Cài đặt đơn"
+
+#: inc/options-config.php:2550 inc/options-functions.php:413 shortcodes/blog/config.php:4
+msgid "Blog"
+msgstr "Trang Blog"
+
+#: inc/options-config.php:2558
+msgid "Blog Preset"
+msgstr "Chọn cài đặt sẵn cho trang blog"
+
+#: inc/options-config.php:2571
+msgid "Blog Single Preset"
+msgstr "Chọn cài đặt sẵn cho trang blog chi tiết"
+
+#: inc/options-config.php:2587
+msgid "404"
+msgstr "Trang 404"
+
+#: inc/options-config.php:2595
+msgid "404 Page Preset"
+msgstr "Chọn cài đặt sẵn cho trang 404"
+
+#: inc/options-config.php:2624
+msgid "Custom Layout"
+msgstr "Tùy chỉnh bố cục"
+
+#: inc/options-config.php:2625
+#, php-format
+msgid "Turn on this option if you want to enable custom layout on %s"
+msgstr "Bật tùy chọn này nếu bạn muốn cho phép tùy chỉnh bố cục trên %s"
+
+#: inc/options-config.php:2673
+#, php-format
+msgid "Turn on this option if you want to enable custom page title on %s"
+msgstr "Bật tùy chọn này nếu bạn muốn cho phép tuỳ chỉnh tiêu đề trên %s"
+
+#: inc/options-config.php:2759
+msgid "Border Bottom"
+msgstr "Đường viền bên dưới"
+
+#: inc/options-config.php:2774
+msgid "Select Page Layout"
+msgstr "Chọn giao diện trang"
+
+#: inc/options-config.php:2798
+msgid "Top Bar Enable"
+msgstr "Bật thanh trên cùng"
+
+#: inc/options-config.php:2799
+msgid "Turn On this option if you want to enable top bar"
+msgstr "Bật tùy chọn này nếu bạn muốn cho phép hiển thị thanh trên cùng"
+
+#: inc/options-config.php:2812
+msgid "Top Bar Left"
+msgstr "Menu Bar trên bên trái"
+
+#: inc/options-config.php:2813
+msgid "Top Bar Right"
+msgstr "Menu Bar trên bên phải"
+
+#: inc/options-config.php:2818
+msgid "If you would like to override the default top bar top/bottom padding, then you can do so here."
+msgstr "Nếu bạn muốn ghi đè khoảng cách lề trên/dưới đã mặc định cho top bar, nhập giá trị ở đây."
+
+#: inc/options-config.php:2840
+msgid "Page Title Enable"
+msgstr "Cho phép tiêu đề trang"
+
+#: inc/options-config.php:2841
+msgid "Enable/Disable Page Title"
+msgstr "Cho phép / Vô hiệu hoá tiêu đề Trang"
+
+#: inc/options-config.php:2905
+msgid "Set page title top/bottom padding."
+msgstr "Thiết lập khoảng cách lề trên/dưới cho tiêu đề trang."
+
+#: inc/options-config.php:2926
+msgid "Upload page title background."
+msgstr "Tải hình nền cho tiêu đề trang."
+
+#: inc/options-config.php:2944 inc/options-config.php:2982
+msgid "Enable/Disable Breadcrumbs In Pages Title"
+msgstr "Kích hoạt / Vô hiệu hoá đường dẫn trong tiêu đề trang"
+
+#: inc/options-config.php:3003
+msgid "--[Select Preset]--"
+msgstr "--[Lựa chọn cài đặt sẵn]--"
+
+#: inc/options-config.php:3010
+msgid "Load Preset"
+msgstr "Tải cài đặt sẵn"
+
+#: inc/options-functions.php:45
+msgid "Small (1/4)"
+msgstr "Nhỏ (1/4)"
+
+#: inc/options-functions.php:46
+msgid "Large (1/3)"
+msgstr "Lớn (1/3)"
+
+#: inc/options-functions.php:78 shortcodes/blog/config.php:13
+msgid "Large Image"
+msgstr "Ảnh Lớn"
+
+#: inc/options-functions.php:80 shortcodes/blog/config.php:15
+msgid "Masonry"
+msgstr "Khối"
+
+#: inc/options-functions.php:106 shortcodes/blog/config.php:42
+msgid "Load More"
+msgstr "Tải thêm"
+
+#: inc/options-functions.php:107 shortcodes/blog/config.php:43
+msgid "Infinite Scroll"
+msgstr "Cuộn vô hạn"
+
+#: inc/options-functions.php:321
+msgid "VK"
+msgstr "VK"
+
+#: inc/options-functions.php:322
+msgid "Your VK URL"
+msgstr "URL VK của bạn"
+
+#: inc/options-functions.php:330
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: inc/options-functions.php:331
+msgid "Your email address"
+msgstr "Địa chỉ email của bạn"
+
+#: inc/options-functions.php:362
+msgid "Post"
+msgstr "Bài đăng"
+
+#: inc/options-functions.php:363
+msgid "Page"
+msgstr "Trang"
+
+#: inc/options-functions.php:377
+msgid "On (Custom Page)"
+msgstr "Bật (Tùy chọn trang)"
+
+#: inc/options-functions.php:378
+msgid "On (Standard)"
+msgstr "Bật (Tiêu chuẩn)"
+
+#: inc/options-functions.php:392
+msgid "Chasing Dots"
+msgstr "Dấu chấm"
+
+#: inc/options-functions.php:394
+msgid "Cube"
+msgstr "Khối lập phương"
+
+#: inc/options-functions.php:395
+msgid "Double Bounce"
+msgstr "Nảy lên"
+
+#: inc/options-functions.php:396
+msgid "Fading Circle"
+msgstr "Fading Circle"
+
+#: inc/options-functions.php:397
+msgid "Folding Cube"
+msgstr "Khối lập phương"
+
+#: inc/options-functions.php:398
+msgid "Pulse"
+msgstr "Mạch"
+
+#: inc/options-functions.php:399
+msgid "Three Bounce"
+msgstr "Nảy lên"
+
+#: inc/options-functions.php:400
+msgid "Wave"
+msgstr ""
+
+#: inc/options-functions.php:416
+msgid "Single Blog"
+msgstr "Trang blog chi tiết"
+
+#: inc/options-functions.php:427
+msgid "List Properties"
+msgstr "Trang danh sách bất động sản"
+
+#: inc/options-functions.php:442
+msgid "List Agents"
+msgstr "Trang danh sách các người môi giới"
+
+#: inc/options-functions.php:447
+msgid "Single Agent"
+msgstr "Trang chi tiết nhà môi giới"
+
+#: inc/options-functions.php:457
+msgid "Invoice "
+msgstr "Trang hóa đơn "
+
+#: inc/options-functions.php:472
+msgid "Single "
+msgstr "Đơn "
+
+#: inc/options-functions.php:522
+msgid "Full"
+msgstr "Đầy đủ"
+
+#: inc/options-functions.php:537
+msgid "Turn Off this option if you want to disable sidebar on mobile"
+msgstr "Tắt tùy chọn này nếu bạn muốn vô hiệu thanh bên trên điện thoại di động"
+
+#: inc/options-functions.php:554
+msgid "Canvas Sidebar Mobile"
+msgstr "Canvas Sidebar Mobile"
+
+#: inc/options-functions.php:555
+msgid "Turn Off this option if you want to disable canvas sidebar on mobile"
+msgstr "Tắt tùy chọn này nếu bạn muốn vô hiệu hóa canvas sidebar trên điện thoại di động"
+
+#: inc/smart-framework/fields/background/background.class.php:140
+msgid "No background image"
+msgstr "Không có hình nền"
+
+#: inc/smart-framework/fields/background/background.class.php:143 inc/smart-framework/fields/image/image.class.php:60
+msgid "Choose Image"
+msgstr "Chọn ảnh"
+
+#: inc/smart-framework/fields/background/background.class.php:144 inc/smart-framework/fields/file/file.class.php:23
+#: inc/smart-framework/fields/image/image.class.php:62
+msgid "Remove"
+msgstr "Xóa"
+
+#: inc/smart-framework/fields/background/background.class.php:147
+msgid "Background Image Properties"
+msgstr "Thuộc tính hình ảnh nền"
+
+#: inc/smart-framework/fields/border/border.class.php:71
+msgid "All"
+msgstr "Tất cả"
+
+#: inc/smart-framework/fields/border/border.class.php:80 inc/smart-framework/fields/spacing/spacing.class.php:64
+msgid "Top"
+msgstr "Trên"
+
+#: inc/smart-framework/fields/border/border.class.php:98 inc/smart-framework/fields/spacing/spacing.class.php:71
+msgid "Bottom"
+msgstr "Dưới"
+
+#: inc/smart-framework/fields/dimension/dimension.class.php:39
+msgid "Width"
+msgstr "Bề rộng"
+
+#: inc/smart-framework/fields/dimension/dimension.class.php:46
+msgid "Height"
+msgstr "Độ Cao"
+
+#: inc/smart-framework/fields/field.php:60
+msgid "+ Add more"
+msgstr "+ Thêm"
+
+#: inc/smart-framework/fields/file/file.class.php:11
+msgid "Select File"
+msgstr "Chọn tập tin"
+
+#: inc/smart-framework/fields/file/file.class.php:12
+msgid "Use these files"
+msgstr "Sử dụng tập tin này"
+
+#: inc/smart-framework/fields/file/file.class.php:53
+msgid "+ Add File"
+msgstr "Thêm tập tin"
+
+#: inc/smart-framework/fields/font/font.class.php:61
+msgid "Font Family"
+msgstr "Hệ thống phông chữ"
+
+#: inc/smart-framework/fields/font/font.class.php:62
+msgid "Select Font Family"
+msgstr "Chọn phông chữ"
+
+#: inc/smart-framework/fields/font/font.class.php:68
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+#: inc/smart-framework/fields/font/font.class.php:72
+msgid "Font size"
+msgstr "Cỡ chữ"
+
+#: inc/smart-framework/fields/font/font.class.php:89
+msgid "Font Weight & Style"
+msgstr "Độ đậm & Phong cách phông chữ"
+
+#: inc/smart-framework/fields/font/font.class.php:97
+msgid "Font Subsets"
+msgstr "Bộ phông chữ"
+
+#: inc/smart-framework/fields/gallery/gallery.class.php:38
+msgid "+ Add Images"
+msgstr "Thêm hình ảnh"
+
+#: inc/smart-framework/fields/icon/icon.class.php:20
+msgid "Select icon"
+msgstr "Chọn biểu tượng"
+
+#: inc/smart-framework/fields/icon/icon.class.php:21
+msgid "Remove icon"
+msgstr "Xóa biểu tượng"
+
+#: inc/smart-framework/fields/icon/icon.class.php:22
+msgid "Search icon..."
+msgstr "Biểu tượng tìm kiếm.."
+
+#: inc/smart-framework/fields/image/image.class.php:57
+msgid "No image"
+msgstr "Không có ảnh"
+
+#: inc/smart-framework/fields/map/map.class.php:37
+msgid "Enter an address..."
+msgstr "Nhập một địa chỉ..."
+
+#: inc/smart-framework/fields/map/map.class.php:46
+msgid "Find Address"
+msgstr "Tìm kiếm địa chỉ"
+
+#: inc/smart-framework/fields/selectize/selectize.class.php:82
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/smart-framework/fields/selectize/selectize.class.php:85
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: inc/smart-framework/inc/functions.php:476
+msgid "Standard Fonts"
+msgstr "Font chữ chuẩn"
+
+#: inc/smart-framework/inc/functions.php:479
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+#: inc/smart-framework/inc/functions.php:582
+msgid "Dashicons"
+msgstr ""
+
+#: inc/smart-framework/inc/functions.php:611
+msgid "Select Images"
+msgstr "Chọn ảnh"
+
+#: inc/smart-framework/inc/post-type.php:55 inc/smart-framework/inc/taxonomy.php:51
+#, php-format
+msgid "Add New %s"
+msgstr "Thêm %s mới"
+
+#: inc/smart-framework/inc/post-type.php:56 inc/smart-framework/inc/taxonomy.php:48
+#, php-format
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: inc/smart-framework/inc/post-type.php:57
+#, php-format
+msgid "New %s"
+msgstr "Mới %s"
+
+#: inc/smart-framework/inc/post-type.php:58 inc/smart-framework/inc/taxonomy.php:49
+#, php-format
+msgid "View %s"
+msgstr "Hiển thị %s"
+
+#: inc/smart-framework/inc/post-type.php:59 inc/smart-framework/inc/taxonomy.php:43
+#, php-format
+msgid "Search %s"
+msgstr "Tìm kiếm %s"
+
+#: inc/smart-framework/inc/post-type.php:60 inc/smart-framework/inc/taxonomy.php:56
+#, php-format
+msgid "No %s found."
+msgstr "Không %s tìm thấy."
+
+#: inc/smart-framework/inc/post-type.php:61
+#, php-format
+msgid "No %s found in Trash."
+msgstr "Không tìm thấy %s trong thùng rác."
+
+#: inc/smart-framework/inc/post-type.php:62 inc/smart-framework/inc/taxonomy.php:45
+#, php-format
+msgid "All %s"
+msgstr "Tất cả %s"
+
+#: inc/smart-framework/inc/post-type.php:63
+#, php-format
+msgid "%s Archives"
+msgstr "%s Lưu trữ"
+
+#: inc/smart-framework/inc/post-type.php:64
+#, php-format
+msgid "Insert into %s"
+msgstr "Chèn vào %s"
+
+#: inc/smart-framework/inc/post-type.php:65
+#, php-format
+msgid "Uploaded to this %s"
+msgstr "Đã tải lên mục này %s"
+
+#: inc/smart-framework/inc/post-type.php:66
+#, php-format
+msgid "Filter %s list"
+msgstr "Lọc%s danh sách"
+
+#: inc/smart-framework/inc/post-type.php:67 inc/smart-framework/inc/taxonomy.php:58
+#, php-format
+msgid "%s list navigation"
+msgstr "%s danh sách chuyển hướng"
+
+#: inc/smart-framework/inc/post-type.php:68 inc/smart-framework/inc/taxonomy.php:59
+#, php-format
+msgid "%s list"
+msgstr "%s danh sách"
+
+#: inc/smart-framework/inc/taxonomy.php:44
+#, php-format
+msgid "Popular %s"
+msgstr "Phổ biến %s"
+
+#: inc/smart-framework/inc/taxonomy.php:46
+#, php-format
+msgid "Parent %s"
+msgstr "Cha %s"
+
+#: inc/smart-framework/inc/taxonomy.php:47
+#, php-format
+msgid "Parent %s:"
+msgstr "Cha %s:"
+
+#: inc/smart-framework/inc/taxonomy.php:50
+#, php-format
+msgid "Update %s"
+msgstr "Cập nhật %s"
+
+#: inc/smart-framework/inc/taxonomy.php:52
+#, php-format
+msgid "New %s New"
+msgstr "Thêm %s mới"
+
+#: inc/smart-framework/inc/taxonomy.php:53
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Tách %s bằng dấu phẩy"
+
+#: inc/smart-framework/inc/taxonomy.php:54
+#, php-format
+msgid "Add or remove %s"
+msgstr "Thêm hoặc gỡ bỏ %s"
+
+#: inc/smart-framework/inc/taxonomy.php:55
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "Chọn từ sử dụng nhiều nhất %s"
+
+#: inc/smart-framework/inc/taxonomy.php:57
+#, php-format
+msgid "No %s"
+msgstr "Không có + %s"
+
+#: inc/smart-framework/inc/theme-options.php:69
+msgid "Are you sure?  This will overwrite all existing option values, please proceed with caution!"
+msgstr "CẢNH BÁO! Điều này sẽ ghi đè lên tất cả các giá trị tùy chọn hiện có, xin vui lòng tiến hành thận trọng!"
+
+#: inc/smart-framework/inc/theme-options.php:70
+msgid "Import option error"
+msgstr "Lỗi tùy chọn nhập"
+
+#: inc/smart-framework/inc/theme-options.php:71
+msgid "Import option done"
+msgstr "Tùy chọn nhập được thực hiện"
+
+#: inc/smart-framework/inc/theme-options.php:72
+msgid "Reset theme option error"
+msgstr "Đặt lại lỗi tùy chọn chủ đề"
+
+#: inc/smart-framework/inc/theme-options.php:73
+msgid "Reset theme option done"
+msgstr "Đặt lại tùy chọn chủ đề được thực hiện"
+
+#: inc/smart-framework/inc/theme-options.php:74
+msgid "Reset section error"
+msgstr "Đặt lại phần lỗi"
+
+#: inc/smart-framework/inc/theme-options.php:75
+msgid "Reset section done"
+msgstr "Đặt lại phần lỗi đã hoàn tất"
+
+#: inc/smart-framework/inc/theme-options.php:76
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Bạn có chắc không? Đặt lại sẽ mất tất cả các giá trị tùy chỉnh."
+
+#: inc/smart-framework/inc/theme-options.php:77
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "Bạn có chắc không? Đặt lại sẽ mất tất cả các giá trị tùy chỉnh trong phần này."
+
+#: inc/smart-framework/inc/theme-options.php:179
+msgid "Settings have changed, you should save them!"
+msgstr "Cài đặt đã thay đổi, bạn nên lưu chúng!"
+
+#: inc/smart-framework/inc/theme-options.php:304
+msgid "Settings saved"
+msgstr "Đã lưu cài đặt"
+
+#: inc/smart-framework/inc/theme-options.php:307
+msgid "There has been an error when update options"
+msgstr "Đã xảy ra lỗi khi cập nhật các tùy chọn"
+
+#: inc/smart-framework/smart-framework.php:213
+msgid "Docs"
+msgstr "Tài liệu"
+
+#: inc/smart-framework/smart-framework.php:214
+msgid "Get Support"
+msgstr "Nhận hỗ trợ"
+
+#: inc/smart-framework/smart-framework.php:218
+msgid "Deactivate Demo Mode"
+msgstr "Tắt chế độ mẫu"
+
+#: inc/smart-framework/smart-framework.php:220
+msgid "Activate Demo Mode"
+msgstr "Kích hoạt chế độ mẫu"
+
+#: inc/smart-framework/templates/theme-option-end.php:5 inc/smart-framework/templates/theme-option-start.php:11
+msgid "Import/Export"
+msgstr "Nhập/ Xuất dữ liệu"
+
+#: inc/smart-framework/templates/theme-option-end.php:6 inc/smart-framework/templates/theme-option-start.php:12
+msgid "Reset Section"
+msgstr "Khởi động lại Phần này"
+
+#: inc/smart-framework/templates/theme-option-end.php:7 inc/smart-framework/templates/theme-option-start.php:13
+msgid "Reset Options"
+msgstr "Đặt lại các tùy chọn"
+
+#: inc/smart-framework/templates/theme-option-end.php:8 inc/smart-framework/templates/theme-option-start.php:14
+msgid "Save Options"
+msgstr "Lưu tùy chọn"
+
+#: inc/smart-framework/templates/theme-option-end.php:14
+msgid "Import/Export Options"
+msgstr "Nhập/ Xuất dữ liệu tùy chỉnh"
+
+#: inc/smart-framework/templates/theme-option-end.php:19
+msgid "Import Options"
+msgstr "Tùy chọn nhập dữ liệu"
+
+#: inc/smart-framework/templates/theme-option-end.php:22
+msgid "Import"
+msgstr "Nhập"
+
+#: inc/smart-framework/templates/theme-option-end.php:23
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr "CẢNH BÁO! Điều này sẽ ghi đè lên tất cả các giá trị tùy chọn hiện có, xin vui lòng tiến hành thận trọng!"
+
+#: inc/smart-framework/templates/theme-option-end.php:27
+msgid "Export Options"
+msgstr "Tùy chọn xuất"
+
+#: inc/smart-framework/templates/theme-option-end.php:30
+msgid "Download Data File"
+msgstr "Tải về tập tin dữ liệu"
+
+#: shortcodes/agent-info/config.php:9
+msgid "Agent Info"
+msgstr "Thông tin người môi giới"
+
+#: shortcodes/agent-info/config.php:23
+msgid "Position"
+msgstr "Vị trí"
+
+#: shortcodes/agent-info/config.php:41
+msgid "Fax"
+msgstr "Số fax"
+
+#: shortcodes/agent-info/config.php:47
+msgid "Website"
+msgstr "Trang web"
+
+#: shortcodes/agent-info/template.php:61
+msgid "Phone:"
+msgstr "Số điện thoại:"
+
+#: shortcodes/agent-info/template.php:66
+msgid "Mobile:"
+msgstr "Hiển thị trên điện thoại di động:"
+
+#: shortcodes/agent-info/template.php:71
+msgid "Fax:"
+msgstr "Số fax:"
+
+#: shortcodes/agent-info/template.php:76
+msgid "Website:"
+msgstr "Trang web:"
+
+#: shortcodes/agent-info/template.php:81
+msgid "Email:"
+msgstr "Email:"
+
+#: shortcodes/blog/config.php:29
+msgid "Number of posts"
+msgstr "Số bài viết"
+
+#: shortcodes/blog/config.php:30
+msgid "Enter number of posts to display."
+msgstr "Số lượng bài viết được hiển thị."
+
+#: shortcodes/blog/config.php:40
+msgid "Show all"
+msgstr "Hiẻn thị tất cả"
+
+#: shortcodes/blog/config.php:52
+msgid "Posts per page"
+msgstr "Bài viết trên mỗi trang"
+
+#: shortcodes/blog/config.php:55
+msgid "Number of items to show per page"
+msgstr "Số lượng mục hiển thị trên một trang"
+
+#: shortcodes/blog/config.php:62
+msgid "Order by"
+msgstr "Sắp xếp theo"
+
+#: shortcodes/blog/config.php:65
+msgid "Date"
+msgstr "Ngày"
+
+#: shortcodes/blog/config.php:66
+msgid "Order by post ID"
+msgstr "Sắp xếp theo ID bài đăng"
+
+#: shortcodes/blog/config.php:67 shortcodes/testimonials/config.php:21
+msgid "Author"
+msgstr "Tác giả"
+
+#: shortcodes/blog/config.php:69
+msgid "Last modified date"
+msgstr "Ngày sửa cuối cùng"
+
+#: shortcodes/blog/config.php:70
+msgid "Post/page parent ID"
+msgstr "ID nhánh gốc"
+
+#: shortcodes/blog/config.php:71
+msgid "Number of comments"
+msgstr "Số lượt bình luận"
+
+#: shortcodes/blog/config.php:72
+msgid "Menu order/Page Order"
+msgstr "Thực đơn hàng / Trang thứ tự"
+
+#: shortcodes/blog/config.php:73
+msgid "Meta value"
+msgstr "Giá trị meta"
+
+#: shortcodes/blog/config.php:74
+msgid "Meta value number"
+msgstr "Số giá trị Meta"
+
+#: shortcodes/blog/config.php:75
+msgid "Random order"
+msgstr "Thứ tự ngẫu nhiên"
+
+#: shortcodes/blog/config.php:77
+msgid "Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then meta key is required."
+msgstr "Chọn thứ tự loại. Nếu \"giá trị Meta\" hoặc \"Số giá trị Meta\" được chọn sau đó khóa meta là bắt buộc."
+
+#: shortcodes/blog/config.php:78 shortcodes/blog/config.php:86 shortcodes/blog/config.php:100
+msgid "Data Settings"
+msgstr "Cài đặt ngày"
+
+#: shortcodes/blog/config.php:84
+msgid "Sorting"
+msgstr "Sắp xếp"
+
+#: shortcodes/blog/config.php:88
+msgid "Descending"
+msgstr "Giảm dần"
+
+#: shortcodes/blog/config.php:89
+msgid "Ascending"
+msgstr "Tăng dần"
+
+#: shortcodes/blog/config.php:92
+msgid "Select sorting order."
+msgstr "Chọn thứ tự sắp xếp."
+
+#: shortcodes/blog/config.php:97
+msgid "Meta key"
+msgstr "Từ khóa"
+
+#: shortcodes/blog/config.php:99
+msgid "Input meta key for grid ordering."
+msgstr "Nhập meta key cho lưới đặt hang."
+
+#: shortcodes/button/config.php:11
+msgid "Eye catching button"
+msgstr "Nút bắt mắt"
+
+#: shortcodes/button/config.php:16
+msgid "Text"
+msgstr "Văn bản"
+
+#: shortcodes/button/config.php:18
+msgid "Text on the button"
+msgstr "Văn bản trên nút"
+
+#: shortcodes/button/config.php:23 shortcodes/pricing/config.php:65
+msgid "URL (Link)"
+msgstr "URL (Liên kết)"
+
+#: shortcodes/button/config.php:25 shortcodes/pricing/config.php:67
+msgid "Add link to button."
+msgstr "Thêm liên kết vào nút."
+
+#: shortcodes/button/config.php:29 widgets/includes/social-profile.php:37
+msgid "Style"
+msgstr "Loại"
+
+#: shortcodes/button/config.php:30
+msgid "Select button display style."
+msgstr "Chọn nút hiển thị style."
+
+#: shortcodes/button/config.php:33 shortcodes/functions.php:403 shortcodes/google-map/config.php:14
+msgid "Classic"
+msgstr "Cổ điển"
+
+#: shortcodes/button/config.php:34
+msgid "Outline"
+msgstr "Đề cương"
+
+#: shortcodes/button/config.php:43
+msgid "Select button color."
+msgstr "Lựa chọn màu của nút."
+
+#: shortcodes/button/config.php:45
+msgid "Primary"
+msgstr "Chính"
+
+#: shortcodes/button/config.php:46
+msgid "Gray"
+msgstr "Xám"
+
+#: shortcodes/button/config.php:47 shortcodes/countdown/config.php:29 shortcodes/counter/config.php:97
+#: shortcodes/heading/config.php:55 shortcodes/icon-box/config.php:52 shortcodes/process/config.php:43
+#: shortcodes/testimonials/config.php:67 widgets/includes/social-profile.php:50
+msgid "Dark"
+msgstr "Màu tối"
+
+#: shortcodes/button/config.php:48
+msgid "White"
+msgstr "Màu Trắng"
+
+#: shortcodes/button/config.php:57
+msgid "Select button display size."
+msgstr "Chọn kích thước hiển thị cho nút."
+
+#: shortcodes/button/config.php:60
+msgid "Mini"
+msgstr "Nhỏ"
+
+#: shortcodes/button/config.php:61 widgets/includes/social-profile.php:31
+msgid "Small"
+msgstr "Nhỏ"
+
+#: shortcodes/button/config.php:62
+msgid "Normal"
+msgstr "Bình thường"
+
+#: shortcodes/button/config.php:63 widgets/includes/social-profile.php:32
+msgid "Large"
+msgstr "Lớn"
+
+#: shortcodes/button/config.php:69
+msgid "Alignment"
+msgstr "Căn chỉnh"
+
+#: shortcodes/button/config.php:71
+msgid "Select button alignment."
+msgstr "Chọn căn chỉnh cho nút."
+
+#: shortcodes/button/config.php:73 shortcodes/functions.php:420 shortcodes/heading/config.php:16
+msgid "Inline"
+msgstr "Thuộc cùng một dòng"
+
+#: shortcodes/button/config.php:76 shortcodes/clients/config.php:82 shortcodes/heading/config.php:42
+#: shortcodes/icon-box/config.php:15 shortcodes/testimonials/config.php:54
+msgid "Center"
+msgstr "Giữa"
+
+#: shortcodes/button/config.php:82
+msgid "Set full width button?"
+msgstr "Chỉnh chiều rộng cho nút?"
+
+#: shortcodes/button/config.php:92
+msgid "Add icon?"
+msgstr "Thêm biểu tượng?"
+
+#: shortcodes/button/config.php:98
+msgid "Icon Alignment"
+msgstr "Căn chỉnh biểu tượng"
+
+#: shortcodes/button/config.php:99
+msgid "Select icon alignment."
+msgstr "Chọn biểu tượng căn chỉnh."
+
+#: shortcodes/clients/config.php:9
+msgid "Clients"
+msgstr "Khách hàng"
+
+#: shortcodes/clients/config.php:17 shortcodes/gallery/config.php:25
+msgid "Images"
+msgstr "Ảnh"
+
+#: shortcodes/clients/config.php:20
+msgid "Select images clients."
+msgstr "Chọn hình ảnh khách hàng."
+
+#: shortcodes/clients/config.php:24
+msgid "Images opacity"
+msgstr "Độ mờ của ảnh"
+
+#: shortcodes/clients/config.php:31
+msgid "Select opacity for images."
+msgstr "Chọn độ mờ cho hình ảnh."
+
+#: shortcodes/clients/config.php:36
+msgid "Custom links"
+msgstr "Liên kết tùy chính"
+
+#: shortcodes/clients/config.php:38
+msgid "Enter links for each slide here. Divide links with linebreaks (Enter) . "
+msgstr "Nhập liên kết cho mỗi slide ở đây. Chia liên kết với linebreaks (Enter). "
+
+#: shortcodes/clients/config.php:42
+msgid "Open link in a new tab ?"
+msgstr "Mở liên kết trong một tab mới?"
+
+#: shortcodes/clients/config.php:49
+msgid "Border Client ?"
+msgstr "Đường viền vùng chứa ?"
+
+#: shortcodes/clients/config.php:56 shortcodes/functions.php:537
+msgid "Display Slider?"
+msgstr "Hiển Thị Thanh trượt?"
+
+#: shortcodes/clients/config.php:64 shortcodes/functions.php:544 shortcodes/testimonials/config.php:81
+msgid "Show pagination control"
+msgstr "Hiển thị điều khiển pagination"
+
+#: shortcodes/clients/config.php:71 shortcodes/functions.php:551 shortcodes/testimonials/config.php:75
+msgid "Show navigation control"
+msgstr "Hiển thị điều khiển navigation"
+
+#: shortcodes/clients/config.php:79
+msgid "Navigation Position"
+msgstr "Vị trí Điều hướng"
+
+#: shortcodes/clients/config.php:83
+msgid "Top Right"
+msgstr "Phía trên brên phải"
+
+#: shortcodes/clients/config.php:91 shortcodes/functions.php:559 shortcodes/testimonials/config.php:88
+msgid "Auto play"
+msgstr "Tự động chơi"
+
+#: shortcodes/clients/config.php:99
+msgid "Autoplay Timeout"
+msgstr "Thời gian phát tự động"
+
+#: shortcodes/clients/config.php:101
+msgid "Autoplay interval timeout."
+msgstr "Tự động phát khoảng thời gian chờ."
+
+#: shortcodes/clients/config.php:109
+msgid "Columns Show ?"
+msgstr "Cột hiển thị?"
+
+#: shortcodes/clients/config.php:128
+msgid "Items Desktop"
+msgstr "Danh mục máy tính để bàn"
+
+#: shortcodes/clients/config.php:130
+msgid "Browser Width > 1199"
+msgstr "Chiều rộng của trình duyệt >1199"
+
+#: shortcodes/countdown/config.php:9
+msgid "Countdown"
+msgstr "Đếm ngược"
+
+#: shortcodes/countdown/config.php:18
+msgid "Time Off"
+msgstr "Thời gian nghỉ"
+
+#: shortcodes/countdown/config.php:24 shortcodes/counter/config.php:93 shortcodes/heading/config.php:51
+#: shortcodes/icon-box/config.php:48 shortcodes/process/config.php:39 shortcodes/testimonials/config.php:63
+#: widgets/includes/social-profile.php:46
+msgid "Color Scheme"
+msgstr "Bảng màu"
+
+#: shortcodes/countdown/config.php:28 shortcodes/counter/config.php:98 shortcodes/heading/config.php:56
+#: shortcodes/icon-box/config.php:53 shortcodes/process/config.php:44 shortcodes/testimonials/config.php:68
+#: widgets/includes/social-profile.php:49
+msgid "Light"
+msgstr "Màu sáng"
+
+#: shortcodes/countdown/config.php:30 shortcodes/counter/config.php:101 shortcodes/heading/config.php:59
+#: shortcodes/icon-box/config.php:56 shortcodes/process/config.php:47 shortcodes/testimonials/config.php:71
+#: shortcodes/text-info/config.php:50
+msgid "Select Color Scheme."
+msgstr "Chọn Đề án màu."
+
+#: shortcodes/countdown/config.php:35
+msgid "Url Redirect"
+msgstr "Chuyển hướng Url"
+
+#: shortcodes/countdown/template.php:62
+msgid "DAYS"
+msgstr "NGÀY"
+
+#: shortcodes/countdown/template.php:66
+msgid "HOURS"
+msgstr "GIỜ"
+
+#: shortcodes/countdown/template.php:70
+msgid "MINUTES"
+msgstr "PHÚT"
+
+#: shortcodes/countdown/template.php:74
+msgid "SECONDS"
+msgstr "GIÂY"
+
+#: shortcodes/counter/config.php:3
+msgid "Counter"
+msgstr "Bộ đếm"
+
+#: shortcodes/counter/config.php:18 shortcodes/functions.php:287
+msgid "Icon library"
+msgstr "Thư viện icon"
+
+#: shortcodes/counter/config.php:20
+msgid "none"
+msgstr "trống"
+
+#: shortcodes/counter/config.php:25 shortcodes/functions.php:293
+msgid "Select icon library."
+msgstr "Chọn biểu tượng từ thư viện."
+
+#: shortcodes/counter/config.php:31
+msgid "Start"
+msgstr "Bắt đầu"
+
+#: shortcodes/counter/config.php:39
+msgid "End"
+msgstr "Kết thúc"
+
+#: shortcodes/counter/config.php:47
+msgid "Decimals"
+msgstr "Thập_phân"
+
+#: shortcodes/counter/config.php:55
+msgid "Duration"
+msgstr "Thời lượng"
+
+#: shortcodes/counter/config.php:63
+msgid "Separator"
+msgstr "Khoảng cách"
+
+#: shortcodes/counter/config.php:71
+msgid "Decimal"
+msgstr "Thập phân"
+
+#: shortcodes/counter/config.php:79
+msgid "Prefix"
+msgstr "Tiền tố"
+
+#: shortcodes/counter/config.php:86
+msgid "Suffix"
+msgstr "Hậu Tố"
+
+#: shortcodes/functions.php:19 shortcodes/functions.php:355
+msgid "Narrow Category"
+msgstr "Danh mục hẹp"
+
+#: shortcodes/functions.php:23 shortcodes/functions.php:359
+msgid ""
+"Enter categories by names to narrow output (Note: only listed categories will be displayed, divide categories with "
+"linebreak (Enter))."
+msgstr ""
+"Nhập danh mục bằng tên để thu hẹp đầu ra (Lưu ý: chỉ loại được liệt kê sẽ được hiển thị, phân chia mục với "
+"linebreak (Enter))."
+
+#: shortcodes/functions.php:51
+msgid "Show background overlay"
+msgstr "Hiển thị lớp phủ nền"
+
+#: shortcodes/functions.php:53
+msgid "Hide or Show overlay on background images."
+msgstr "Ẩn hoặc Hiển thị lớp phủ trên hình nền."
+
+#: shortcodes/functions.php:55
+msgid "Hide, please"
+msgstr "Ẩn, vui lòng"
+
+#: shortcodes/functions.php:56
+msgid "Show Overlay Color"
+msgstr "Hiển thị màu lớp phủ"
+
+#: shortcodes/functions.php:57
+msgid "Show Overlay Image"
+msgstr "Hiển thị hình ảnh Lớp phủ"
+
+#: shortcodes/functions.php:63
+msgid "Overlay color"
+msgstr "Màu phủ"
+
+#: shortcodes/functions.php:65
+msgid "Select color for background overlay."
+msgstr "Chọn màu nền cho lớp phủ."
+
+#: shortcodes/functions.php:72
+msgid "Image Overlay:"
+msgstr "Lớp phủ Hình ảnh:"
+
+#: shortcodes/functions.php:75
+msgid "Upload image overlay."
+msgstr "Tải lên lớp phủ hình ảnh."
+
+#: shortcodes/functions.php:82
+msgid "Overlay opacity"
+msgstr "Độ mờ lớp phủ"
+
+#: shortcodes/functions.php:88
+msgid "Select opacity for overlay."
+msgstr "Chọn độ mờ cho lớp phủ."
+
+#: shortcodes/functions.php:96
+msgid "Default (no paddings)"
+msgstr "Mặc định (không có paddings)"
+
+#: shortcodes/functions.php:139
+msgid "Beyot"
+msgstr "Beyot"
+
+#: shortcodes/functions.php:178
+msgid "Beyot Dark"
+msgstr "Beyot Màu tối"
+
+#: shortcodes/functions.php:179
+msgid "Beyot Gray"
+msgstr "Beyot  Màu Xám"
+
+#: shortcodes/functions.php:210
+msgid "beyot-framework"
+msgstr ""
+
+#: shortcodes/functions.php:259
+msgid "Extra class name"
+msgstr "Thêm tên lớp"
+
+#: shortcodes/functions.php:261
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr "Nếu bạn muốn để kiểu yếu tố nội dung cụ thể khác - Thêm một tên lớp và tham khảo nó trong CSS tùy chỉnh."
+
+#: shortcodes/functions.php:273
+msgid "CSS box"
+msgstr "Hộp CSS"
+
+#: shortcodes/functions.php:275
+msgid "Design Options"
+msgstr "Tùy chọn thiết kế"
+
+#: shortcodes/functions.php:320
+msgid "Select icon from library."
+msgstr "Chọn biểu tượng từ thư viện."
+
+#: shortcodes/functions.php:333
+msgid "Upload Image Icon:"
+msgstr "Tải lên hình ảnh icon:"
+
+#: shortcodes/functions.php:336
+msgid "Upload the custom image icon."
+msgstr "Tải lên hình ảnh icon tùy chỉnh."
+
+#: shortcodes/functions.php:399
+msgid "Widget Layout"
+msgstr "Giao diện widget"
+
+#: shortcodes/functions.php:404
+msgid "Classic Without Border"
+msgstr "Cổ điển không có đường viền"
+
+#: shortcodes/functions.php:405
+msgid "Border Round"
+msgstr "Đường viền bao quanh"
+
+#: shortcodes/functions.php:406
+msgid "Border Round Background"
+msgstr "Nền đường viền bao quanh"
+
+#: shortcodes/functions.php:407
+msgid "Border"
+msgstr "Đường viền"
+
+#: shortcodes/functions.php:408
+msgid "Border Background"
+msgstr "Nền đường viền"
+
+#: shortcodes/functions.php:471
+msgid "Animation Duration"
+msgstr "Thời lượng hoạt ảnh"
+
+#: shortcodes/functions.php:474
+msgid ""
+"Duration in seconds. You can use decimal points in the value. Use this field to specify the amount of time the "
+"animation plays. <em>The default value depends on the animation, leave blank to use the default.</em>"
+msgstr ""
+"Thời lượng trong vài giây. Bạn có thể sử dụng các điểm thập phân trong giá trị. Sử dụng trường này để xác định "
+"thời lượng phát hình ảnh hoạt hình. <em>Giá trị mặc định phụ thuộc vào hình ảnh động, để trống để sử dụng mặc định."
+"</em>"
+
+#: shortcodes/functions.php:479
+msgid "Animation Delay"
+msgstr "Trì hoãn hoạt ảnh"
+
+#: shortcodes/functions.php:482
+msgid ""
+"Delay in seconds. You can use decimal points in the value. Use this field to delay the animation for a few "
+"seconds, this is helpful if you want to chain different effects one after another above the fold."
+msgstr ""
+"Chậm trễ trong vài giây. Bạn có thể sử dụng các điểm thập phân trong giá trị. Sử dụng trường này để trì hoãn hoạt "
+"hình trong vài giây, điều này sẽ rất hữu ích nếu bạn muốn nối các hiệu ứng khác nhau một lần nữa trong màn hình "
+"đầu tiên."
+
+#: shortcodes/functions.php:494
+msgid "Tablet landscape"
+msgstr "Phong cảnh trên máy tính bảng"
+
+#: shortcodes/functions.php:496 shortcodes/space/config.php:27
+msgid "Browser Width >= 992px and < 1200px"
+msgstr "Chiều rộng của trình duyệt > = 992px và <1200px"
+
+#: shortcodes/functions.php:503
+msgid "Tablet portrait"
+msgstr "Chân dung máy tính bảng"
+
+#: shortcodes/functions.php:505 shortcodes/space/config.php:40
+msgid "Browser Width >= 768px and < 991px"
+msgstr "Chiều rộng của trình duyệt > = 768px và <991px"
+
+#: shortcodes/functions.php:512
+msgid "Mobile landscape"
+msgstr "Phong cảnh di động"
+
+#: shortcodes/functions.php:514 shortcodes/space/config.php:53
+msgid "Browser Width >= 480px and < 767px"
+msgstr "Chiều rộng của trình duyệt > = 480px và <767px"
+
+#: shortcodes/functions.php:521
+msgid "Mobile portrait"
+msgstr "Chân dung di động"
+
+#: shortcodes/functions.php:523 shortcodes/space/config.php:66
+msgid "Browser Width < 480px"
+msgstr "Chiều rộng của trình duyệt <480px"
+
+#: shortcodes/gallery/config.php:3
+msgid "Gallery"
+msgstr "Thư viện ảnh"
+
+#: shortcodes/gallery/config.php:13
+msgid "Hover effect"
+msgstr "Hiệu ứng khi di chuột"
+
+#: shortcodes/gallery/config.php:18
+msgid "Layla"
+msgstr "Layla"
+
+#: shortcodes/gallery/config.php:19
+msgid "Bubba"
+msgstr "Bubba"
+
+#: shortcodes/gallery/config.php:20
+msgid "Jazz"
+msgstr "Jazz"
+
+#: shortcodes/gallery/config.php:39
+msgid "Image size"
+msgstr "Kích thước hình ảnh"
+
+#: shortcodes/google-map/config.php:3
+msgid "Google Map"
+msgstr "Bản đồ Google map"
+
+#: shortcodes/google-map/config.php:11
+msgid "Maps Layout"
+msgstr "Giao diện bản đồ"
+
+#: shortcodes/google-map/config.php:15
+msgid "Dark Layout"
+msgstr "Giao diện tối"
+
+#: shortcodes/google-map/config.php:20
+msgid "Markers"
+msgstr "Đánh dấu"
+
+#: shortcodes/google-map/config.php:31
+msgid "Latitude "
+msgstr "Vĩ độ "
+
+#: shortcodes/google-map/config.php:37
+msgid "Longitude "
+msgstr "Kinh độ "
+
+#: shortcodes/google-map/config.php:56
+msgid "Marker Icon"
+msgstr "Biểu tượng đánh dấu"
+
+#: shortcodes/google-map/config.php:59
+msgid "Select an image from media library."
+msgstr "Chọn ảnh từ thư viện."
+
+#: shortcodes/google-map/config.php:70 shortcodes/nearby-places/config.php:70
+msgid "API Key"
+msgstr "Mã API"
+
+#: shortcodes/google-map/config.php:76
+msgid "Map height (px or %)"
+msgstr "Chiều cao bản đồ (px hoặc%)"
+
+#: shortcodes/heading/config.php:4
+msgid "Heading"
+msgstr "Tiêu đề"
+
+#: shortcodes/heading/config.php:15
+msgid "House top"
+msgstr "Nhà trên"
+
+#: shortcodes/heading/config.php:19 shortcodes/icon-box/config.php:20 shortcodes/testimonials/config.php:59
+msgid "Select Layout Style."
+msgstr "Chọn kiểu dáng giao diện."
+
+#: shortcodes/heading/config.php:37
+msgid "Text Align"
+msgstr "Căn lề"
+
+#: shortcodes/heading/config.php:39
+msgid "Select heading alignment."
+msgstr "Chọn tiêu đề sắp xếp."
+
+#: shortcodes/icon-box/config.php:4
+msgid "Icon Box"
+msgstr "Hộp biểu tượng"
+
+#: shortcodes/icon-box/config.php:37
+msgid "Provide the description for this element."
+msgstr "Cung cấp mô tả cho phần tử này."
+
+#: shortcodes/icon-box/config.php:42 shortcodes/process/config.php:33
+msgid "Link (url)"
+msgstr "Liên kết(url)"
+
+#: shortcodes/nearby-places/config.php:9
+msgid "Nearby Places"
+msgstr "Địa điểm gần đó"
+
+#: shortcodes/nearby-places/config.php:17
+msgid "Latitude"
+msgstr "Vĩ độ"
+
+#: shortcodes/nearby-places/config.php:25
+msgid "Longitude"
+msgstr "Kinh độ"
+
+#: shortcodes/nearby-places/config.php:33
+msgid "Rank by"
+msgstr "Xếp hạng theo"
+
+#: shortcodes/nearby-places/config.php:36
+msgid "Prominence"
+msgstr "Sự nổi bật"
+
+#: shortcodes/nearby-places/config.php:37
+msgid "Distance"
+msgstr "Khoảng cách"
+
+#: shortcodes/nearby-places/config.php:43
+msgid "Radius"
+msgstr "Bo góc"
+
+#: shortcodes/nearby-places/config.php:51
+msgid "Near by places distance in"
+msgstr "Gần bằng địa điểm trong"
+
+#: shortcodes/nearby-places/config.php:54
+msgid "Meter"
+msgstr "Dụng cụ đo"
+
+#: shortcodes/nearby-places/config.php:55
+msgid "Km"
+msgstr "Km"
+
+#: shortcodes/nearby-places/config.php:56
+msgid "Mile"
+msgstr "Dặm"
+
+#: shortcodes/nearby-places/config.php:63
+msgid "Set Map Height"
+msgstr "Chiều cao bản đồ"
+
+#: shortcodes/nearby-places/config.php:76
+msgid "Nearby Places Fields"
+msgstr "Các trường địa điểm gần đó"
+
+#: shortcodes/nearby-places/config.php:80 shortcodes/nearby-places/config.php:169
+msgid "Label Place"
+msgstr "Địa điểm nhãn"
+
+#: shortcodes/nearby-places/config.php:87
+msgid "Type Place"
+msgstr "Địa điểm"
+
+#: shortcodes/nearby-places/config.php:91
+msgid "Accounting"
+msgstr "Kế toán"
+
+#: shortcodes/nearby-places/config.php:92
+msgid "Airport"
+msgstr "Sân bay"
+
+#: shortcodes/nearby-places/config.php:93
+msgid "Amusement Park"
+msgstr "Công viên giải trí"
+
+#: shortcodes/nearby-places/config.php:94
+msgid "Aquarium"
+msgstr "Bể thủy sinh"
+
+#: shortcodes/nearby-places/config.php:95
+msgid "Atm"
+msgstr "ATM"
+
+#: shortcodes/nearby-places/config.php:96
+msgid "Bakery"
+msgstr "Tiệm bánh"
+
+#: shortcodes/nearby-places/config.php:97
+msgid "Bank"
+msgstr "Ngân hàng"
+
+#: shortcodes/nearby-places/config.php:98
+msgid "Bar"
+msgstr "Bar"
+
+#: shortcodes/nearby-places/config.php:99
+msgid "Beauty Salon"
+msgstr "Thẩm mỹ viện"
+
+#: shortcodes/nearby-places/config.php:100
+msgid "Bicycle Store"
+msgstr "Cửa hàng xe đạp"
+
+#: shortcodes/nearby-places/config.php:101
+msgid "Book Store"
+msgstr "Nhà sách"
+
+#: shortcodes/nearby-places/config.php:102
+msgid "Bowling Alley"
+msgstr ""
+
+#: shortcodes/nearby-places/config.php:103
+msgid "Bus Station"
+msgstr "Trạm xe buýt"
+
+#: shortcodes/nearby-places/config.php:104
+msgid "Cafe"
+msgstr "Quán cà phê"
+
+#: shortcodes/nearby-places/config.php:105
+msgid "Campground"
+msgstr "Bãi đất cắm trại"
+
+#: shortcodes/nearby-places/config.php:106
+msgid "Car Rental"
+msgstr "Thuê ô tô"
+
+#: shortcodes/nearby-places/config.php:107
+msgid "Car Repair"
+msgstr "Sửa xe"
+
+#: shortcodes/nearby-places/config.php:108
+msgid "Car Wash"
+msgstr "Rửa xe"
+
+#: shortcodes/nearby-places/config.php:109
+msgid "Casino"
+msgstr "Sòng bạc"
+
+#: shortcodes/nearby-places/config.php:110
+msgid "Cemetery"
+msgstr "Nghĩa trang"
+
+#: shortcodes/nearby-places/config.php:111
+msgid "Church"
+msgstr "Nhà thờ"
+
+#: shortcodes/nearby-places/config.php:112
+msgid "City Center"
+msgstr "Trung tâm thành phố"
+
+#: shortcodes/nearby-places/config.php:113
+msgid "Clothing Store"
+msgstr "Cửa hàng quần áo"
+
+#: shortcodes/nearby-places/config.php:114
+msgid "Convenience Store"
+msgstr "Cửa hàng tiện dụng"
+
+#: shortcodes/nearby-places/config.php:115
+msgid "Courthouse"
+msgstr "Tòa án"
+
+#: shortcodes/nearby-places/config.php:116
+msgid "Dentist"
+msgstr "Nha sĩ"
+
+#: shortcodes/nearby-places/config.php:117
+msgid "Department Store"
+msgstr "Cửa hàng bách hóa"
+
+#: shortcodes/nearby-places/config.php:118
+msgid "Doctor"
+msgstr "Bác sĩ"
+
+#: shortcodes/nearby-places/config.php:119
+msgid "Electrician"
+msgstr "Thợ điện"
+
+#: shortcodes/nearby-places/config.php:120
+msgid "Electronics Store"
+msgstr "Cửa hàng điện tử"
+
+#: shortcodes/nearby-places/config.php:121
+msgid "Embassy"
+msgstr "Đại sứ quán"
+
+#: shortcodes/nearby-places/config.php:122
+msgid "Establishment"
+msgstr "Thành lập"
+
+#: shortcodes/nearby-places/config.php:123
+msgid "Finance"
+msgstr "Tài chính"
+
+#: shortcodes/nearby-places/config.php:124
+msgid "Fire Station"
+msgstr "Trạm cứu hỏa"
+
+#: shortcodes/nearby-places/config.php:125
+msgid "Florist"
+msgstr "Người bán hoa"
+
+#: shortcodes/nearby-places/config.php:126
+msgid "Food"
+msgstr "Thực phẩm"
+
+#: shortcodes/nearby-places/config.php:127
+msgid "Gas Station"
+msgstr "Trạm xăng"
+
+#: shortcodes/nearby-places/config.php:128
+msgid "Grocery"
+msgstr "Tạp hóa"
+
+#: shortcodes/nearby-places/config.php:129
+msgid "Gym"
+msgstr "Phòng tập gym"
+
+#: shortcodes/nearby-places/config.php:130
+msgid "Hair Care"
+msgstr "Chăm sóc tóc"
+
+#: shortcodes/nearby-places/config.php:131
+msgid "Hardware Store"
+msgstr "Cửa hàng phần cứng"
+
+#: shortcodes/nearby-places/config.php:132
+msgid "Health"
+msgstr "Sức khỏe"
+
+#: shortcodes/nearby-places/config.php:133
+msgid "Home Goods Store"
+msgstr "Trang chủ cửa hàng"
+
+#: shortcodes/nearby-places/config.php:134
+msgid "Hospital"
+msgstr "Bệnh viện"
+
+#: shortcodes/nearby-places/config.php:135
+msgid "Jewelry Store"
+msgstr "Cửa hàng nữ trang"
+
+#: shortcodes/nearby-places/config.php:136
+msgid "Laundry"
+msgstr "Giặt ủi"
+
+#: shortcodes/nearby-places/config.php:137
+msgid "Lawyer"
+msgstr "Luật sư"
+
+#: shortcodes/nearby-places/config.php:138
+msgid "Library"
+msgstr "Thư viện"
+
+#: shortcodes/nearby-places/config.php:139
+msgid "Lodging"
+msgstr "Nhà nghỉ"
+
+#: shortcodes/nearby-places/config.php:140
+msgid "Movie Theater"
+msgstr "Rạp chiếu phim"
+
+#: shortcodes/nearby-places/config.php:141
+msgid "Moving Company"
+msgstr "Chuyển công ty"
+
+#: shortcodes/nearby-places/config.php:142
+msgid "Night Club"
+msgstr "Câu lạc bộ đêm"
+
+#: shortcodes/nearby-places/config.php:143
+msgid "Park"
+msgstr "Công viên"
+
+#: shortcodes/nearby-places/config.php:144
+msgid "Pharmacy"
+msgstr "Tiệm thuốc"
+
+#: shortcodes/nearby-places/config.php:145
+msgid "Place Of Worship"
+msgstr "Nơi thờ phụng"
+
+#: shortcodes/nearby-places/config.php:146
+msgid "Plumber"
+msgstr "Thợ sửa ống nước"
+
+#: shortcodes/nearby-places/config.php:147
+msgid "Police"
+msgstr "Cảnh sát"
+
+#: shortcodes/nearby-places/config.php:148
+msgid "Post Office"
+msgstr "Bưu điện"
+
+#: shortcodes/nearby-places/config.php:149
+msgid "Restaurant"
+msgstr "Nhà hàng"
+
+#: shortcodes/nearby-places/config.php:150
+msgid "School"
+msgstr "Trường học"
+
+#: shortcodes/nearby-places/config.php:151
+msgid "Shopping Mall"
+msgstr "Trung tâm thương mại"
+
+#: shortcodes/nearby-places/config.php:152
+msgid "Spa"
+msgstr "Spa"
+
+#: shortcodes/nearby-places/config.php:153
+msgid "Stadium"
+msgstr "Sân vận động"
+
+#: shortcodes/nearby-places/config.php:154
+msgid "Storage"
+msgstr "Lưu trữ"
+
+#: shortcodes/nearby-places/config.php:155
+msgid "Store"
+msgstr "Cửa hàng"
+
+#: shortcodes/nearby-places/config.php:156
+msgid "Subway Station"
+msgstr "Ga tàu điện ngầm"
+
+#: shortcodes/nearby-places/config.php:157
+msgid "Synagogue"
+msgstr "Giáo đường Do Thái"
+
+#: shortcodes/nearby-places/config.php:158
+msgid "Taxi Stand"
+msgstr "Đón taxi"
+
+#: shortcodes/nearby-places/config.php:159
+msgid "Train Station"
+msgstr "Ga đường sắt"
+
+#: shortcodes/nearby-places/config.php:160
+msgid "Travel Agency"
+msgstr "Đại lý du lịch"
+
+#: shortcodes/nearby-places/config.php:161
+msgid "University"
+msgstr "Trường đại học"
+
+#: shortcodes/nearby-places/config.php:162
+msgid "Veterinary Care"
+msgstr "Chăm sóc thú y"
+
+#: shortcodes/nearby-places/config.php:163
+msgid "Zoo"
+msgstr "Sở thú"
+
+#: shortcodes/nearby-places/config.php:175
+msgid "Image Icon Place:"
+msgstr "Hình ảnh Icon Địa điểm:"
+
+#: shortcodes/nearby-places/config.php:178
+msgid "Choose Image Icon Place."
+msgstr "Chọn Biểu tượng Hình ảnh địa điểm."
+
+#: shortcodes/nearby-places/template.php:99
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: shortcodes/pricing/config.php:3
+msgid "Pricing"
+msgstr "Định giá"
+
+#: shortcodes/pricing/config.php:14
+msgid "Circle Price"
+msgstr "Giá tròn"
+
+#: shortcodes/pricing/config.php:15
+msgid "Background Price"
+msgstr "Giá gốc"
+
+#: shortcodes/pricing/config.php:21 shortcodes/property-info/config.php:29
+msgid "Price"
+msgstr "Giá"
+
+#: shortcodes/pricing/config.php:33
+msgid "Pricing Tables"
+msgstr "Bảng giá"
+
+#: shortcodes/pricing/config.php:37
+msgid "Feature"
+msgstr "Đặc tính"
+
+#: shortcodes/pricing/config.php:44
+msgid "Feature Text"
+msgstr "Văn bản Tính năng"
+
+#: shortcodes/pricing/config.php:51
+msgid "Feature Value"
+msgstr "Giá trị Đặc tính"
+
+#: shortcodes/pricing/config.php:60
+msgid "Button Text"
+msgstr "Nút văn bản"
+
+#: shortcodes/pricing/config.php:71
+msgid "Featured ?"
+msgstr "Nổi bật?"
+
+#: shortcodes/process/config.php:3
+msgid "Process"
+msgstr "Quá trình"
+
+#: shortcodes/process/config.php:12
+msgid "Step Number"
+msgstr "Số bước"
+
+#: shortcodes/property-info/config.php:9
+msgid "Property Info"
+msgstr "Thông tin bất động sản"
+
+#: shortcodes/property-info/config.php:35
+msgid "After Price"
+msgstr "Sau khi giá"
+
+#: shortcodes/property-info/config.php:42
+msgid "Detail"
+msgstr "Chi tiết"
+
+#: shortcodes/property-info/config.php:46 shortcodes/property-info/config.php:53 shortcodes/text-info/config.php:21
+#: shortcodes/text-info/config.php:28
+msgid "Key"
+msgstr "Mã khóa"
+
+#: shortcodes/property-info/config.php:59 shortcodes/text-info/config.php:34
+msgid "Value"
+msgstr "Giá trị"
+
+#: shortcodes/shortcodes.php:20
+msgid "Beyot Shortcodes"
+msgstr "Beyot Shortcodes"
+
+#: shortcodes/space/config.php:3
+msgid "Space"
+msgstr "Phím cách"
+
+#: shortcodes/space/config.php:8
+msgid "Blank Space"
+msgstr "Khoảng trống"
+
+#: shortcodes/space/config.php:13
+msgid "<i class=\"fa fa-desktop\"></i> Desktop"
+msgstr "<i class=\"fa fa-desktop\"></i> Máy tính để bàn"
+
+#: shortcodes/space/config.php:14
+msgid "Browser Width >= 1200px"
+msgstr "Chiều rộng của trình duyệt > = 1200px"
+
+#: shortcodes/space/config.php:21
+msgid "Enter value in pixels"
+msgstr "Nhập giá trị bằng pixel"
+
+#: shortcodes/space/config.php:26
+msgid "<i class=\"fa fa-tablet\" style=\"transform: rotate(90deg);\"></i> Tablet"
+msgstr "<i class=\"fa fa-tablet\" style=\"transform: rotate(90deg);\"></i> Máy tính bảng"
+
+#: shortcodes/space/config.php:39
+msgid "<i class=\"fa fa-tablet\"></i> Tablet Portrait"
+msgstr "<i class=\"fa fa-tablet\"></i> Chân dung máy tính bảng"
+
+#: shortcodes/space/config.php:52
+msgid "<i class=\"fa fa-mobile\" style=\"transform: rotate(90deg);\"></i> Mobile Landscape"
+msgstr "<i class=\"fa fa-mobile\" style=\"transform: rotate(90deg);\"></i> Phong cảnh di động"
+
+#: shortcodes/space/config.php:65
+msgid "<i class=\"fa fa-mobile\"></i> Mobile"
+msgstr "<i class=\"fa fa-mobile\"></i>"
+
+#: shortcodes/testimonials/config.php:9 shortcodes/testimonials/config.php:17
+msgid "Testimonials"
+msgstr "Chứng nhận"
+
+#: shortcodes/testimonials/config.php:28
+msgid "Avatar:"
+msgstr "Ảnh đại diện:"
+
+#: shortcodes/testimonials/config.php:31
+msgid "Choose the author picture."
+msgstr "Chọn ảnh của tác giả."
+
+#: shortcodes/testimonials/config.php:35
+msgid "Author Name"
+msgstr "Tên tác giả"
+
+#: shortcodes/testimonials/config.php:38
+msgid "Enter Author information."
+msgstr "Nhập Thông tin về Tác giả."
+
+#: shortcodes/testimonials/config.php:42
+msgid "Quote from author"
+msgstr "Trích dẫn từ tác giả"
+
+#: shortcodes/testimonials/config.php:95
+msgid "Autoplay speed"
+msgstr "Tốc độ tự động phát"
+
+#: shortcodes/testimonials/config.php:97
+msgid "Autoplay speed."
+msgstr "Tốc độ tự động phát."
+
+#: shortcodes/text-info/config.php:9 shortcodes/text-info/config.php:17
+msgid "Text Info"
+msgstr "Thông tin văn bản"
+
+#: shortcodes/text-info/config.php:46
+msgid "1"
+msgstr "1"
+
+#: shortcodes/text-info/config.php:47
+msgid "2"
+msgstr "2"
+
+#: shortcodes/video/config.php:3
+msgid "Video"
+msgstr "Video"
+
+#: shortcodes/video/config.php:13
+msgid "Link"
+msgstr "Liên kết"
+
+#: shortcodes/video/config.php:16
+msgid "Enter link video"
+msgstr "Nhập liên kết video"
+
+#: widgets/g5plus-widget.php:203
+msgid "Click to browse icon"
+msgstr "Nhấp để duyệt biểu tượng"
+
+#: widgets/g5plus-widget.php:203 widgets/g5plus-widget.php:215
+msgid "Browse..."
+msgstr "Trình duyệt..."
+
+#: widgets/g5plus-widget.php:215
+msgid "Click to browse image"
+msgstr "Nhấp để duyệt ảnh"
+
+#: widgets/includes/info.php:11
+msgid "Info widget"
+msgstr "Thông tin widget"
+
+#: widgets/includes/info.php:13
+msgid "G5Plus - Info"
+msgstr "G5Plus - Thông tin"
+
+#: widgets/includes/info.php:17
+msgid "Select info type"
+msgstr "Chọn loại thông tin"
+
+#: widgets/includes/logo.php:11
+msgid "Logo widget"
+msgstr "Biểu tượng widget"
+
+#: widgets/includes/logo.php:13
+msgid "G5Plus - Logo"
+msgstr "G5Plus - Biểu trưng"
+
+#: widgets/includes/logo.php:23
+msgid "Image Alt"
+msgstr "Hình ảnh Alt"
+
+#: widgets/includes/posts.php:12
+msgid "Display list posts"
+msgstr "Hiển thị danh sách bài đăng"
+
+#: widgets/includes/posts.php:14
+msgid "G5Plus: Posts"
+msgstr "G5Plus: Bài viết"
+
+#: widgets/includes/posts.php:24
+msgid "Source"
+msgstr "Nguồn"
+
+#: widgets/includes/posts.php:26
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: widgets/includes/posts.php:27
+msgid "Popular"
+msgstr "Phổ biến"
+
+#: widgets/includes/posts.php:28
+msgid "Recent"
+msgstr "Gần đây"
+
+#: widgets/includes/posts.php:29
+msgid "Oldest"
+msgstr "Cũ nhất"
+
+#: widgets/includes/posts.php:35
+msgid "Number of posts to show"
+msgstr "Số bài viết được hiển thị"
+
+#: widgets/includes/social-profile.php:11
+msgid "Social profile widget"
+msgstr "Widget Hồ sơ mạng xã hội"
+
+#: widgets/includes/social-profile.php:13
+msgid "G5Plus - Social Profile"
+msgstr "G5Plus - Tiểu sử xã hội"
+
+#: widgets/includes/social-profile.php:22
+msgid "Select social profiles"
+msgstr "Chọn hồ sơ trên mạng xã hội"
+
+#: widgets/includes/social-profile.php:28
+msgid "Icon Size"
+msgstr "Kích cỡ biểu tượng"
+
+#, fuzzy
+#~ msgid "LESS to CSS"
+#~ msgstr "Chuyển từ file LESS sang file CSS"
+
+#~ msgid "Less To Css"
+#~ msgstr "Chuyển từ file Less sang file Css"
+
+#~ msgid "Search Form Options"
+#~ msgstr "Tùy chọn mẫu tìm kiếm"
+
+#~ msgid "Title Field"
+#~ msgstr "Trường tiêu đề"
+
+#~ msgid "Address Field"
+#~ msgstr "Trường địa chỉ"
+
+#~ msgid "Country Field"
+#~ msgstr "Trường quốc gia"
+
+#~ msgid "State Field"
+#~ msgstr "Trường huyện"
+
+#~ msgid "City Field"
+#~ msgstr "Trường thành phố"
+
+#~ msgid "Type Field"
+#~ msgstr "Trường loại"
+
+#~ msgid "Status Field"
+#~ msgstr "Trường trạng thái"
+
+#~ msgid "Price Field"
+#~ msgstr "Trường giá"
+
+#~ msgid "Area Size Field"
+#~ msgstr "Trường kích thước diện tích"
+
+#~ msgid "Year Built Field"
+#~ msgstr "Trường năm xây dựng"
+
+#~ msgid "Labels Field"
+#~ msgstr "Trường nhãn"
+
+#~ msgid "Number Garage Field"
+#~ msgstr "Trường số nhà để xe"
+
+#~ msgid "Garage Area Field"
+#~ msgstr "Trường khu vực nhà để xe"
+
+#~ msgid "Show Google Map Directions"
+#~ msgstr "Hiển thị bản đồ chỉ đường của Google"
+
+#~ msgid "Set content top/bottom padding"
+#~ msgstr "Thiết lập khoảng cách lề trên/dưới"
+
+#, fuzzy
+#~ msgid "Or back to "
+#~ msgstr "Hoặc trở lại "
+
+#~ msgid "No Comments"
+#~ msgstr "Chưa có bình luận"
+
+#~ msgid "One Comments"
+#~ msgstr "Một bình luận"
+
+#~ msgid "% Comments"
+#~ msgstr "% bình luận"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Yêu cầu cài đặt các Plugin"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Cài đặt các Plugin"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Đang cài đặt Plugin :%s"
+
+#~ msgid "Updating Plugin: %s"
+#~ msgstr "Đang cập nhập plugin:%s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Đã xảy ra lỗi với Plugin API."
+
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] "Chủ đề này yêu cầu các Plugin sau:%1$s."
+
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "Chủ đề này đề nghị các plugin sau: %1$s."
+
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: "
+#~ "%1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to ensure maximum compatibility with this "
+#~ "theme: %1$s."
+#~ msgstr[0] ""
+#~ "Plugin sau đây cần phải được cập nhật lên phiên bản mới nhất của nó để đảm bảo khả năng tương thích tối đa với "
+#~ "chủ đề này: %1$s."
+
+#~ msgid "There is an update available for: %1$s."
+#~ msgid_plural "There are updates available for the following plugins: %1$s."
+#~ msgstr[0] "Có một bản cập nhật có sẵn cho: %1$s."
+
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "Plugin cần thiết sau đây hiện giờ chưa được kích hoạt: %1$s."
+
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "Các plugin cần thiết sau đây hiện giờ chưa được kích hoạt: %1$s."
+
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "Bắt đầu cài đặt Plugin"
+
+#~ msgid "Begin updating plugin"
+#~ msgid_plural "Begin updating plugins"
+#~ msgstr[0] "Bắt đầu cập nhật  plugin"
+
+#~ msgid "Begin activating plugin"
+#~ msgid_plural "Begin activating plugins"
+#~ msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Quay trở lại trình cài đặt các Plugin yêu cầu"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Quay trở lại bảng điều khiển"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Đã kích hoạt plugin thành công."
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] "Plugin sau đã được kích hoạt thành công:"
+
+#~ msgid "No action taken. Plugin %1$s was already active."
+#~ msgstr "Không có hành động. Plugin %1$s đã được kích hoạt."
+
+#~ msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+#~ msgstr ""
+#~ "Plugin không được kích hoạt. Một phiên bản mới hơn của %s cần thiết cho giao diện này. Hãy nâng cấp plugin."
+
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Tất cả các plugin đã được cài đặt và kích hoạt thành công. %1$s"
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "Bỏ qua thông báo này"
+
+#~ msgid "There are one or more required or recommended plugins to install, update or activate."
+#~ msgstr "Có 1 hoặc nhiều yêu cầu đề nghị cần cài đặt, nâng cấp hoặc kích hoạt plugin."
+
+#~ msgid "Please contact the administrator of this site for help."
+#~ msgstr "Vui lòng liên hệ với quản trị viên trang web này để nhận được sự giúp đỡ."
+
+#~ msgid "This plugin needs to be updated to be compatible with your theme."
+#~ msgstr "Plugin cần được nâng cấp để tương thích với chủ đề của bạn."
+
+#~ msgid "Update Required"
+#~ msgstr "Yêu cầu cập nhật"
+
+#~ msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+#~ msgstr "Gói plugin từ xa không chứa thư mục với slug mong muốn và đổi tên không hoạt động."
+
+#~ msgid ""
+#~ "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+#~ msgstr "Hãy liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin của họ theo WordPress hướng dẫn."
+
+#~ msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+#~ msgstr "Gói plugin từ xa bao gồm nhiều tệp, nhưng các tệp không được đóng gói trong một thư mục."
+
+#~ msgctxt "plugin A *and* plugin B"
+#~ msgid "and"
+#~ msgstr "và"
+
+#~ msgid "Required"
+#~ msgstr "Yêu cầu"
+
+#~ msgid "Recommended"
+#~ msgstr "Đề nghị"
+
+#~ msgid "WordPress Repository"
+#~ msgstr "Kho WordPress"
+
+#~ msgid "External Source"
+#~ msgstr "Giao diện bên ngoài"
+
+#~ msgid "Pre-Packaged"
+#~ msgstr "Trước khi đóng gói"
+
+#~ msgid "Not Installed"
+#~ msgstr "Chưa cài đặt"
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Đã cài đặt nhưng chưa kích hoạt"
+
+#~ msgid "Active"
+#~ msgstr "Kích hoạt"
+
+#~ msgid "Required Update not Available"
+#~ msgstr "Cập nhật bắt buộc không có sẵn"
+
+#~ msgid "Requires Update"
+#~ msgstr "Yêu cầu cập nhật"
+
+#~ msgid "Update recommended"
+#~ msgstr "Đề nghị cập nhật"
+
+#~ msgctxt "Install/Update Status"
+#~ msgid "%1$s, %2$s"
+#~ msgstr "Trạng thái cài đặt/cập nhật %1$s %2$s"
+
+#~ msgctxt "plugins"
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgid_plural "All <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Tất cả <span class=\\\"count\\\">(%s)</span>"
+
+#~ msgid "To Install <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Install <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Cài đặt <span class=\"count\">(%s)</span>"
+
+#~ msgid "Update Available <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Cập nhật có sẵn <span class=\"count\">(%s)</span>"
+
+#~ msgid "To Activate <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Kích hoạt <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "as in: \"version nr unknown\""
+#~ msgid "unknown"
+#~ msgstr "không xác định"
+
+#~ msgid "Installed version:"
+#~ msgstr "Phiên bản đã cài đặt:"
+
+#~ msgid "Minimum required version:"
+#~ msgstr "Phiên bản bắt buộc tối thiểu:"
+
+#~ msgid "Available version:"
+#~ msgstr "Phiên bản có sẵn:"
+
+#~ msgid "No plugins to install, update or activate."
+#~ msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#~ msgid "Plugin"
+#~ msgstr "Gói mở rộng"
+
+#~ msgid "Version"
+#~ msgstr "Phiên bản"
+
+#~ msgid "Install %2$s"
+#~ msgstr "Cài đặt %2$s"
+
+#~ msgid "Update %2$s"
+#~ msgstr "Cập nhật %2$s"
+
+#~ msgid "Activate %2$s"
+#~ msgstr "Kích hoạt %2$s"
+
+#~ msgid "Upgrade message from the plugin author:"
+#~ msgstr "Nâng cấp thông báo từ tác giả plugin:"
+
+#~ msgid "Update"
+#~ msgstr "Cập nhật"
+
+#~ msgid "Activate"
+#~ msgstr "Kích hoạt"
+
+#~ msgid "No plugins were selected to be installed. No action taken."
+#~ msgstr "Không có plugin nào được chọn để cài đặt. Không có hành động."
+
+#~ msgid "No plugins were selected to be updated. No action taken."
+#~ msgstr "Không có plugin nào được chọn để cập nhật. Không có hành động."
+
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr "Không có plugin nào sẵn có để được cài đặt tại thời điểm này."
+
+#~ msgid "No plugins are available to be updated at this time."
+#~ msgstr "Không có plugin nào sẵn có để được cập nhật tại thời điểm này."
+
+#~ msgid "No plugins were selected to be activated. No action taken."
+#~ msgstr "Không có plugin nào được chọn để kích hoạt. Không có hành động."
+
+#~ msgid "No plugins are available to be activated at this time."
+#~ msgstr "Không có plugin nào sẵn có để được kích hoạt tại thời điểm này."
+
+#~ msgid "Plugin activation failed."
+#~ msgstr "Kích hoạt Plugin thất bại."
+
+#~ msgid "Updating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Đang cập nhật %1$s (%2$d/%3$d)"
+
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "Đã xảy ra lỗi trong khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "Cài đặt %1$s thất bại."
+
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may take a while on some hosts, so please be "
+#~ "patient."
+#~ msgstr ""
+#~ "Quá trình cài đặt và kích hoạt đang bắt đầu. Sẽ mất một chút thời gian tùy thuộc vào từng máy chủ, hãy kiên "
+#~ "nhẫn đợi."
+
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s đã được cài đặt và kích hoạt thành công."
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Tất cả các cài đặt và cập nhật đã hoàn thành."
+
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Đang cài đặt và kích hoạt Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "Quá trình cài đặt đang bắt đầu. Quá trình này sẽ mất một chút thời gian tùy thuộc vào từng máy chủ, vì vậy hãy "
+#~ "kiên nhẫn đợi."
+
+#~ msgid "All installations have been completed."
+#~ msgstr "Tất cả các cài đặt đã được hoàn thành."
+
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Đang cài đặt Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "Loading..."
+#~ msgstr "Đang tải..."
+
+#~ msgid "Pick Gallery Images"
+#~ msgstr "Chọn hình ảnh trong Thư viện"
+
+#~ msgid "Add Image(s)"
+#~ msgstr "Thêm ảnh(s)"
+
+#~ msgid "Audio URL (oEmbed) or Embed Code"
+#~ msgstr "URL Âm thanh (oEmbed) hoặc mã nhúng"
+
+#~ msgid "Gallery Images"
+#~ msgstr "Thư viện ảnh"
+
+#~ msgid "Pick Images"
+#~ msgstr "Chọn hình ảnh"
+
+#~ msgid "Url"
+#~ msgstr "Liên kết"
+
+#~ msgid "Quote Content"
+#~ msgstr "Nội dung trích dẫn"
+
+#~ msgid "Author Url"
+#~ msgstr "URL tác giả"
+
+#~ msgid "Video URL (oEmbed) or Embed Code"
+#~ msgstr "URL Video (oEmbed) hoặc mã nhúng"
+
+#~ msgid "No image URL has been entered."
+#~ msgstr "Không có URL hình ảnh được nhập."
+
+#~ msgid "Image is BMP. Please use either JPG or PNG."
+#~ msgstr "Hình ảnh là BMP. Xin vui lòng sử dụng JPG hoặc PNG."
+
+#~ msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+#~ msgstr "Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác."
+
+#~ msgid "View More"
+#~ msgstr "Xem thêm"
+
+#~ msgid "Next"
+#~ msgstr "Tiếp theo"
+
+#~ msgid "Back"
+#~ msgstr "Quay lại"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this "
+#~ "site for help on getting the plugin installed."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this "
+#~ "site for help on getting the plugins installed."
+#~ msgstr[0] ""
+#~ "Xin lỗi, nhưng bạn không có quyền đúng để cài đặt %s plugin. Hãy liên hệ với quản trị viên của trang web này để "
+#~ "được giúp đỡ về việc các plugin được cài đặt."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this "
+#~ "site for help on getting the plugin activated."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of "
+#~ "this site for help on getting the plugins activated."
+#~ msgstr[0] ""
+#~ "Xin lỗi, nhưng bạn không có quyền đúng để kích hoạt %s plugin. Hãy liên hệ với quản trị viên của trang web này "
+#~ "để được giúp đỡ về việc kích hoạt các plugin."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this "
+#~ "site for help on getting the plugin updated."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this "
+#~ "site for help on getting the plugins updated."
+#~ msgstr[0] ""
+#~ "Xin lỗi, nhưng bạn không có quyền đúng để cập nhật các %s plugin. Hãy liên hệ với quản trị viên của trang web "
+#~ "này để được giúp đỡ về việc cập nhật các plugin."
+
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "Tất cả plugin đã cài đặt và kích hoạt thành công. %s"
+
+#~ msgid "Main Sidebar"
+#~ msgstr "Sidebar Chính"
+
+#~ msgid "Add widgets here to appear in your sidebar"
+#~ msgstr "Thêm widget ở đây để xuất hiện trong thanh bên của bạn"
+
+#~ msgid "Footer 1"
+#~ msgstr "Chân trang 1"
+
+#~ msgid "Footer 2"
+#~ msgstr "Chân trang 2"
+
+#~ msgid "Footer 3"
+#~ msgstr "Chân trang 3"
+
+#~ msgid "Footer 4"
+#~ msgstr "Chân trang 4"
+
+#~ msgid "Bottom Bar Left"
+#~ msgstr "Thanh dưới cùng bên trái"
+
+#~ msgid "Bottom Bar Right"
+#~ msgstr "Thanh dưới cùng bên phải"
+
+#~ msgid "Canvas Menu"
+#~ msgstr "Menu tiện ích"
+
+#~ msgid "Canvas Menu Widget Area"
+#~ msgstr "Khu vực Canvas Menu Tiện ích"
+
+#~ msgid "Your Name %s"
+#~ msgstr "Tên bạn %s"
+
+#~ msgid "Email Address %s"
+#~ msgstr "Địa chỉ Email %s"
+
+#~ msgid "Your Comment *"
+#~ msgstr "Bình luận của bạn*"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Gửi bình luận"
+
+#~ msgid "ENTER YOUR  KEYWORD"
+#~ msgstr "Nhập vào từ khóa của bạn"
+
+#~ msgid "Home"
+#~ msgstr "Trang chủ"
+
+#~ msgid "Archives for "
+#~ msgstr "Lưu trữ cho "
+
+#~ msgid "Archives by: "
+#~ msgstr "Lưu trữ bởi: "
+
+#~ msgid "Search results"
+#~ msgstr "Kết quả tìm kiếm"
+
+#~ msgid "Page Not Found"
+#~ msgstr "Không tìm thấy trang"
+
+#~ msgid "Primary Menu"
+#~ msgstr "Menu chính"
+
+#~ msgid "Mobile Menu"
+#~ msgstr "Menu điện thoại"
+
+#~ msgid "%s SEARCH RESULTS FOR: %s"
+#~ msgstr "%s KẾT QUẢ TÌM KIẾM CHO: %s"
+
+#~ msgid "NEW SEARCH"
+#~ msgstr "TÌM KIẾM MỚI"
+
+#~ msgid "If you are not happy with the results below please do another search"
+#~ msgstr "Nếu bạn không hài lòng với kết quả dưới đây xin thử với một tìm kiếm khác"
+
+#~ msgctxt "placeholder"
+#~ msgid "Search in website"
+#~ msgstr "Tìm kiếm trong trang web"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Tìm kiếm cho:"
+
+#~ msgid "Click to show Canvas Sidebar"
+#~ msgstr "Nhấn vào đây để hiển thị Canvas Sidebar"
+
+#~ msgid "<i class=\"icon-bubbles2\"></i> 0 comments"
+#~ msgstr "<i class=\"icon icon-chat\"></i>0 Bình luận"
+
+#~ msgid "<i class=\"icon-bubbles2\"></i> 1 comment"
+#~ msgstr "<i class=\"icon icon-chat\"></i> 1 Bình luận"
+
+#~ msgid "<i class=\"icon-bubbles2\"></i> % comments"
+#~ msgstr "<i class=\"icon-bubbles2\"></i> %c bình luận"
+
+#~ msgid "Posted in"
+#~ msgstr "Đăng bài trong"
+
+#~ msgid "Read More"
+#~ msgstr "Xem thêm"
+
+#~ msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr "Sẵn sàng đăng bài đầu tiên? <a href=\"%1$s\">Bắt đầu từ đây</a>."
+
+#~ msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+#~ msgstr "Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác."
+
+#~ msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+#~ msgstr "Dường như chúng tôi không thể tìm thấy những gì bạn đang tìm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#~ msgid "Pages"
+#~ msgstr "Các trang"
+
+#~ msgid "Package"
+#~ msgstr "Gói thầu"
+
+#~ msgid "Featured"
+#~ msgstr "Tiêu biểu"
+
+#~ msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+#~ msgstr "Đọc tiếp<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#~ msgid "Pages:"
+#~ msgstr "Các trang:"
+
+#~ msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+#~ msgstr "Chỉnh sửa <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#~ msgid "No Image"
+#~ msgstr "Không có ảnh"
+
+#~ msgid "Type at least 3 characters to search"
+#~ msgstr "Nhập ít nhất 3 ký tự để tìm kiếm"
+
+#~ msgid "Enter your keyword"
+#~ msgstr "Nhập vào từ khóa của bạn"
+
+#~ msgid "Type and hit enter..."
+#~ msgstr "Nhập từ khóa rồi nhấn Enter..."
+
+#~ msgid "Nothing Found"
+#~ msgstr "Không tìm thấy"
+
+#~ msgid "Tags: "
+#~ msgstr "Từ khóa: "
+
+#~ msgid "Author: %s"
+#~ msgstr "Tác giả: %s"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "Lưu trữ hàng ngày: %s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "Lưu trữ hàng tháng: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "F Y định dạng ngày tháng lưu trữ"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "Lưu trữ hàng năm: %s"
+
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "Y Định dạng ngày lưu trữ năm"
+
+#~ msgid "Search Results"
+#~ msgstr "Kết quả tìm kiếm"
+
+#~ msgid "Asides"
+#~ msgstr "Bên lề"
+
+#~ msgid "Galleries"
+#~ msgstr "Phòng trưng bày"
+
+#~ msgid "Videos"
+#~ msgstr "Video"
+
+#~ msgid "Quotes"
+#~ msgstr "Trích dẫn"
+
+#~ msgid "Links"
+#~ msgstr "Liên kết"
+
+#~ msgid "Statuses"
+#~ msgstr "Trạng thái"
+
+#~ msgid "Audios"
+#~ msgstr "Âm thanh"
+
+#~ msgid "Chats"
+#~ msgstr "Tán gẫu"
+
+#~ msgid "Previous"
+#~ msgstr "Trước"
+
+#~ msgid "Posted on "
+#~ msgstr "Đăng bài trên "
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Bình luận của bạn đang chờ duyệt."
+
+#~ msgctxt "Previous post link"
+#~ msgid ""
+#~ "<div class=\"post-navigation-content\"><div class=\"post-navigation-label\">Previous Post</div> <div class="
+#~ "\"post-navigation-title\">%title </div> </div> "
+#~ msgstr ""
+#~ "<div class=\"post-navigation-content\"><div class=\"post-navigation-label\">Bài đăng trước </div><div class="
+#~ "\"post-navigation-title\">tiêu đề %</div></div> "
+
+#~ msgctxt "Next post link"
+#~ msgid ""
+#~ "<div class=\"post-navigation-content\"><div class=\"post-navigation-label\">Next Post</div> <div class=\"post-"
+#~ "navigation-title\">%title</div></div> "
+#~ msgstr ""
+#~ "<div class=\"post-navigation-content\"><div class=\"post-navigation-label\">Bài tiếp theo</div><div class="
+#~ "\"post-navigation-title\">tiêu đề %</div></div> "
+
+#~ msgid "Related Posts"
+#~ msgstr "Bài viết liên quan"
+
+#~ msgid "g5-beyot"
+#~ msgstr "g5-beyot"
+
+#~ msgid "Show Details"
+#~ msgstr "Hiển thị chi tiết"
+
+#~ msgid "Hide Details"
+#~ msgstr "Ẩn chi tiết"
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s đã cài đặt thành công."
