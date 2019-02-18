@@ -110,15 +110,15 @@ wp_enqueue_script('bootstrap-tabcollapse');
                                     } ?>
                                     <?php if (!empty($price_postfix)) {
                                         //different display for sales price
-                                        if (is_numeric($price_postfix)){
+                                        //if (is_numeric($price_postfix)){
                                             echo '<span style="text-decoration: line-through !important;" >'. ere_get_format_money($price_short,$price_unit).'</span>';
-                                            echo '<span class="property-price-postfix"> ' . ere_get_format_money($price_postfix,$price_unit) . '</span>';
-                                        }                                        
+                                            echo '<span class="property-price-postfix"> ' . $price_postfix . '</span>';
+                                        //}                                        
                                          //original code
-                                        else {
-                                            echo ere_get_format_money($price_short,$price_unit);
-                                            echo '<span class="property-price-postfix"> / ' . $price_postfix . '</span>';
-                                        }
+                                        // else {
+                                        //     echo ere_get_format_money($price_short,$price_unit);
+                                        //     echo '<span class="property-price-postfix"> / ' . $price_postfix . '</span>';
+                                        // }
                                     } 
                                     else { 
                                         echo ere_get_format_money($price_short,$price_unit);

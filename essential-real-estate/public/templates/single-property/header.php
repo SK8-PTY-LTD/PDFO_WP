@@ -36,16 +36,16 @@ $property_price_postfix      = isset( $property_meta_data[ ERE_METABOX_PREFIX . 
 						?>
 						<?php if(!empty( $property_price_postfix )) {
 							//different display for sales price
-							if (is_numeric($property_price_postfix)){
+							//if (is_numeric($property_price_postfix)){
 								echo '<span style="text-decoration: line-through !important;"  class="fs-14 "> '  . ere_get_format_money( $property_price_short,$property_price_unit ) . '</span>  ';
-								echo '<span class="property-price-postfix" >  '.ere_get_format_money( $property_price_postfix,$property_price_unit ).'</span>';
+								echo '<span class="property-price-postfix accent-color" >  '. $property_price_postfix.'</span>';
 								
-							}                                        
+							//}                                        
 							//original code
-							else {
-								echo ere_get_format_money( $property_price_short,$property_price_unit );
-								echo '<span class="property-price-postfix fs-14 accent-color"> / '.$property_price_postfix.'</span>';
-							}
+							// else {
+							// 	echo ere_get_format_money( $property_price_short,$property_price_unit );
+							// 	echo '<span class="property-price-postfix fs-14 accent-color"> / '.$property_price_postfix.'</span>';
+							// }
 						} 
 						else { 		
 							echo ere_get_format_money( $property_price_short,$property_price_unit );
