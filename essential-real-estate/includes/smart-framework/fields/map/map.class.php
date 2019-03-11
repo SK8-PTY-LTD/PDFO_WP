@@ -7,7 +7,7 @@ if (!class_exists('GSF_Field_Map')) {
 	{
 		public function enqueue()
 		{
-			$api_key = isset($this->params['api_key']) ? $this->params['api_key'] : 'AIzaSyBOSS6pPg5w08pt73WZrLp4sdRv_b956vQ';
+			$api_key = 'AIzaSyBOSS6pPg5w08pt73WZrLp4sdRv_b956vQ';
 			$google_map_url = apply_filters('gsf_google_map_api_url', 'https://maps.googleapis.com/maps/api/js?key=' . $api_key);
 
 			wp_enqueue_script('google_map', esc_url_raw($google_map_url), array(), '', true);

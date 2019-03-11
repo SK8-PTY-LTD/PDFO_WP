@@ -3832,7 +3832,7 @@ if (!class_exists('ERE_Admin')) {
                             'title' => esc_html__('Google Maps API KEY', 'essential-real-estate'),
                             'desc' => wp_kses(__('We strongly encourage you to get an APIs Console key and post the code in Theme Options. You can get it from <a target="_blank" href="https://developers.google.com/maps/documentation/javascript/tutorial#api_key">here</a>.', 'essential-real-estate'), $allowed_html),
                             'subtitle' => esc_html__('Enter your google maps api key', 'essential-real-estate'),
-                            'default' => 'AIzaSyAwey_47Cen4qJOjwHQ_sK1igwKPd74J18'
+                            'default' => 'AIzaSyBOSS6pPg5w08pt73WZrLp4sdRv_b956vQ'
                         ),
                         array(
                             'id' => 'googlemap_zoom_level',

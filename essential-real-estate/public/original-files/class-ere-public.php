@@ -93,7 +93,7 @@ if (!class_exists('ERE_Public')) {
             wp_register_script('jquery-geocomplete', ERE_PLUGIN_URL . 'public/assets/js/jquery.geocomplete.min.js', array('jquery'), '1.7.0', true);
             wp_enqueue_script('imagesloaded', ERE_PLUGIN_URL . 'public/assets/js/imagesloaded.pkgd.min.js', array('jquery'), '4.1.3', true);
             $googlemap_ssl = ere_get_option('googlemap_ssl',0);
-            $googlemap_api_key = ere_get_option('googlemap_api_key','AIzaSyAwey_47Cen4qJOjwHQ_sK1igwKPd74J18');
+            $googlemap_api_key = ere_get_option('googlemap_api_key','AIzaSyBOSS6pPg5w08pt73WZrLp4sdRv_b956vQ');
             $googlemap_pin_cluster = ere_get_option('googlemap_pin_cluster',1);
             if( esc_html( $googlemap_ssl ) == 1 || is_ssl() ) {
                 wp_register_script('google-map', 'https://maps-api-ssl.google.com/maps/api/js?libraries=places&language=' . get_locale() . '&key=' . esc_html($googlemap_api_key), array('jquery'),ERE_PLUGIN_VER,true);
