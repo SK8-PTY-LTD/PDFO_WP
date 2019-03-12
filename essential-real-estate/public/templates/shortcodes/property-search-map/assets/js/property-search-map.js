@@ -460,7 +460,7 @@ var ERE_Property_Map_Search = ERE_Property_Map_Search || {};
                         size: marker_size,
                         scaledSize: new google.maps.Size(44, 60),
                         origin: new google.maps.Point(0, 0),
-                        anchor: new google.maps.Point(7, 27)
+                        anchor: new google.maps.Point(22, 60)
                     };
 
                     var marker = new google.maps.Marker({
